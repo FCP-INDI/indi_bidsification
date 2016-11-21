@@ -1,0 +1,36 @@
+participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	viq_test_type	piq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_rsrch_reliable	ados_module	ados_rsrch_reliable	ados_gotham_socaffect	ados_gotham_rrb	ados_gotham_total	ados_gotham_severity	current_med_status	medication_name	off_stimulants_at_scan	eye_status_at_scan
+50382	2	0	28.8	1	R	114.0	115	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50383	2	0	14.4	1	R	116.0	111	117	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50385	2	0	17.8	1	R	109.0	99	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50386	2	0	17.8	1	R	129.0	126	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50387	2	0	14.0	1	R	93.5	98	89	n/a	PPVT	RAVENS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50388	2	0	26.8	1	R	115.0	108	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50390	2	0	14.5	1	R	103.5	107	100	n/a	PPVT	RAVENS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50391	2	0	17.2	1	L	113.5	121	106	n/a	PPVT	RAVENS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50397	1	1	14.7	1	n/a	116.0	132	100	n/a	ppvt	ravens	17.0	13.0	10.0	1.0	n/a	1.0	n/a	n/a	3.0	1.0	1	Dextroamphetamine and Amphetamine; Melatonin; Trazodone	0	1
+50399	1	2	17.4	1	R	104.5	129	80	n/a	ppvt	ravens	16.0	15.0	2.0	1.0	4.0	1.0	n/a	n/a	n/a	n/a	1	Escitalopram	0	1
+50402	1	1	13.1	1	R	121.0	117	125	n/a	PPVT    	Ravens  	25.0	16.0	10.0	1.0	3.0	1.0	11.0	4.0	15.0	9.0	1	Aripiprazole; Sertraline; melatonin	0	1
+50403	1	2	12.8	1	R	120.5	126	115	n/a	DAS_II_SA	DAS_II_SA	17.0	15.0	2.0	1.0	3.0	1.0	5.0	2.0	7.0	4.0	1	Lisdexamfetamine	0	1
+50404	1	1	15.8	1	R	129.5	132	127	n/a	PPVT    	Ravens  	18.0	16.0	6.0	1.0	3.0	1.0	6.0	4.0	10.0	6.0	1	Methylphenidate extended release; Risperidone	0	1
+50405	1	1	16.6	1	R	94.0	90	98	n/a	PPVT    	Ravens  	23.0	15.0	12.0	1.0	3.0	1.0	7.0	6.0	13.0	8.0	0	n/a	0	1
+50406	1	1	15.2	1	R	90.5	78	103	n/a	DAS_II_SA	DAS_II_SA	28.0	21.0	8.0	1.0	3.0	1.0	12.0	5.0	17.0	9.0	0	n/a	0	1
+50407	1	1	16.6	2	R	105.0	107	103	n/a	PPVT    	Ravens  	13.0	19.0	4.0	1.0	3.0	1.0	9.0	1.0	10.0	6.0	0	n/a	0	1
+50408	1	1	14.8	1	R	118.5	123	114	n/a	PPVT    	Ravens  	18.0	18.0	4.0	1.0	3.0	1.0	8.0	2.0	10.0	6.0	1	Methylphenidate extended release	0	1
+50410	1	1	16.1	1	R	110.5	113	108	n/a	DAS_II_SA	DAS_II_SA	12.0	18.0	7.0	1.0	3.0	1.0	7.0	4.0	11.0	7.0	1	Atomoxetine	0	1
+50411	1	2	14.0	1	R	125.5	126	125	n/a	Stanford	Stanford	10.0	17.0	2.0	1.0	4.0	1.0	n/a	n/a	n/a	n/a	0	n/a	0	1
+50412	1	1	13.2	1	R	133.5	137	130	n/a	PPVT    	Ravens  	25.0	18.0	8.0	1.0	3.0	1.0	11.0	2.0	13.0	8.0	0	n/a	0	1
+50413	1	1	13.1	1	L	114.5	96	133	n/a	PPVT	Ravens	11.0	9.0	5.0	1.0	3.0	1.0	7.0	4.0	11.0	7.0	0	n/a	0	1
+50414	2	0	13.8	2	R	109.0	132	86	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50415	2	0	17.6	1	R	111.5	117	106	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50416	2	0	14.8	1	R	108.5	114	103	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50417	2	0	13.3	1	L	121.5	128	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50418	2	0	14.9	1	R	112.0	109	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50419	2	0	15.8	1	R	111.0	95	127	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50421	2	0	15.4	1	R	116.0	126	106	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50422	2	0	14.8	1	R	114.5	119	110	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50423	2	0	14.1	1	R	111.5	117	106	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50424	2	0	17.9	1	R	125.5	136	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50425	2	0	16.6	1	R	112.0	109	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50426	2	0	13.6	1	R	113.0	115	111	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50427	2	0	15.8	1	R	96.0	100	92	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+50428	2	0	15.5	1	R	89.5	98	81	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1

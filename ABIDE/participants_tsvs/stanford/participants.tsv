@@ -1,0 +1,41 @@
+participant_id	dx_group	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	viq_test_type	piq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_onset_total_d	adi_r_rsrch_reliable	ados_module	ados_total	ados_comm	ados_social	ados_rsrch_reliable	ados_gotham_socaffect	ados_gotham_rrb	ados_gotham_total	ados_gotham_severity	current_med_status	medication_name	eye_status_at_scan
+51160	1	7.9336	1	R	98	97	99	WASI	WASI	WASI	26.0	20.0	6.0	5.0	1.0	3.0	7.0	2.0	5.0	1.0	n/a	n/a	n/a	n/a	0.0	n/a	2
+51161	1	9.0301	1	R	94	95	95	WASI	WASI	WASI	24.0	14.0	8.0	5.0	1.0	3.0	18.0	7.0	11.0	1.0	16.0	1.0	17.0	9.0	0.0	n/a	2
+51162	1	8.9199	2	L	111	106	116	WASI	WASI	WASI	10.0	6.0	2.0	0.0	1.0	3.0	9.0	2.0	7.0	1.0	6.0	1.0	7.0	4.0	0.0	n/a	2
+51163	1	9.0821	1	R	137	137	128	WASI	WASI	WASI	19.0	16.0	2.0	3.0	1.0	3.0	13.0	4.0	9.0	1.0	11.0	6.0	17.0	9.0	1.0	Sertraline; Risperidone	2
+51164	1	8.4216	2	Ambi	105	88	124	WASI	WASI	WASI	24.0	21.0	6.0	3.0	1.0	3.0	9.0	2.0	7.0	1.0	n/a	0.0	n/a	n/a	0.0	n/a	2
+51165	1	11.8433	1	R	78	72	89	WASI	WASI	WASI	21.0	22.0	11.0	5.0	1.0	3.0	13.0	6.0	7.0	1.0	n/a	n/a	n/a	n/a	0.0	n/a	2
+51166	1	8.3833	1	R	100	93	106	WASI	WASI	WASI	27.0	20.0	n/a	n/a	1.0	3.0	n/a	n/a	n/a	1.0	n/a	n/a	n/a	n/a	0.0	n/a	2
+51167	1	11.8789	2	R	98	96	99	WASI	WASI	WASI	29.0	23.0	7.0	5.0	1.0	3.0	8.0	3.0	5.0	1.0	n/a	5.0	n/a	n/a	0.0	n/a	2
+51168	1	11.2628	1	L	112	108	114	WASI	WASI	WASI	18.0	16.0	9.0	3.0	1.0	3.0	16.0	5.0	11.0	1.0	15.0	1.0	16.0	9.0	1.0	Escitalopram	2
+51169	1	9.7775	1	L	127	131	117	WASI	WASI	WASI	23.0	18.0	3.0	3.0	1.0	3.0	10.0	2.0	8.0	1.0	8.0	1.0	9.0	6.0	0.0	n/a	2
+51170	1	10.8652	2	R	97	86	109	WASI	WASI	WASI	16.0	10.0	6.0	1.0	1.0	3.0	16.0	5.0	11.0	1.0	15.0	1.0	16.0	9.0	1.0	Citalopram 	2
+51171	1	12.9363	1	R	141	143	129	WASI	WASI	WASI	26.0	22.0	6.0	5.0	1.0	3.0	15.0	5.0	10.0	1.0	15.0	6.0	21.0	10.0	0.0	n/a	2
+51172	1	8.7912	1	R	127	149	101	WASI	WASI	WASI	25.0	20.0	7.0	3.0	1.0	3.0	11.0	3.0	8.0	1.0	10.0	2.0	12.0	7.0	0.0	n/a	2
+51173	1	7.5284	1	R	124	113	129	WASI	WASI	WASI	13.0	11.0	3.0	1.0	1.0	3.0	10.0	2.0	8.0	1.0	8.0	3.0	11.0	7.0	0.0	n/a	2
+51174	1	9.9473	1	R	114	106	119	WASI	WASI	WASI	17.0	8.0	6.0	1.0	1.0	3.0	7.0	3.0	4.0	1.0	n/a	n/a	n/a	n/a	1.0	Dextroamphetamine and amphetamine; Citaopram; Risperidone; Paliperidone	2
+51175	1	8.5804	1	R	107	99	111	WASI	WASI	WASI	21.0	11.0	6.0	1.0	1.0	3.0	14.0	5.0	9.0	1.0	n/a	3.0	n/a	n/a	0.0	n/a	2
+51176	1	9.271	1	L	148	127	157	WASI	WASI	WASI	19.0	16.0	10.0	3.0	1.0	3.0	12.0	2.0	10.0	1.0	n/a	2.0	n/a	n/a	1.0	Methylphenidate Extended Release; Methylphenidate 	2
+51177	1	11.6982	1	R	113	117	106	WASI	WASI	WASI	22.0	19.0	4.0	5.0	1.0	3.0	14.0	4.0	10.0	1.0	n/a	1.0	n/a	n/a	0.0	n/a	2
+51178	1	11.4326	1	R	123	121	118	WASI	WASI	WASI	18.0	15.0	4.0	2.0	1.0	3.0	9.0	3.0	6.0	1.0	7.0	3.0	10.0	6.0	0.0	n/a	2
+51179	1	11.6543	1	R	97	101	93	WASI	WASI	WASI	10.0	10.0	5.0	2.0	1.0	3.0	12.0	3.0	9.0	1.0	8.0	2.0	10.0	6.0	1.0	Guanfacine	2
+51180	2	7.7502	2	R	136	144	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51181	2	9.3149	1	R	121	122	115	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51182	2	10.6927	1	R	93	88	99	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51183	2	8.2656	1	R	98	103	93	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51184	2	9.1068	2	R	124	98	145	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51185	2	8.2464	1	R	119	107	129	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51186	2	8.3203	1	R	98	88	107	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51187	2	8.3313	1	R	105	115	93	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51188	2	8.9747	2	R	80	83	81	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51189	2	9.2081	1	R	123	136	105	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51190	2	8.9363	1	Ambi	123	107	135	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51191	2	9.7201	1	R	79	67	99	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51192	2	10.2218	2	R	124	130	112	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51193	2	9.5202	1	R	122	132	107	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51194	2	12.3477	1	R	118	106	129	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51195	2	11.178	1	R	110	115	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51196	2	11.8816	1	R	117	131	101	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51197	2	12.4298	1	R	113	118	106	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51198	2	12.2546	1	Ambi	114	109	115	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2
+51199	2	12.3833	1	R	125	125	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2

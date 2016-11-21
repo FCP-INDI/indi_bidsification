@@ -1,0 +1,37 @@
+participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	fiq_test_type	ados_module	ados_total	ados_comm	ados_social	ados_gotham_socaffect	ados_gotham_rrb	ados_gotham_total	ados_gotham_severity	current_med_status	medication_name	eye_status_at_scan
+50135	1	0	12	1	L	97.0	WISC_III	3.0	18.0	5.0	13.0	17.0	0.0	17.0	9.0	0.0	n/a	1
+50122	1	0	12	1	L	112.0	WISC_III	3.0	14.0	4.0	10.0	13.0	3.0	16.0	9.0	1.0	Citalopram; Methylphenidate; Bupropion; Trazadone	1
+50129	1	0	12	1	R	108.0	WISC_III	3.0	19.0	6.0	13.0	15.0	2.0	17.0	9.0	1.0	Oxcarbazepine; Sertraline; Methylphenidate Extended Release; Bupropion	1
+50118	1	0	15	1	R	80.0	WISC_III	4.0	14.0	5.0	9.0	n/a	n/a	n/a	n/a	1.0	Aripiprazole; Venlafaxine	1
+50123	1	0	17	1	R	135.0	WAIS_III	4.0	15.0	5.0	10.0	n/a	n/a	n/a	n/a	1.0	Citalopram; Dextroamphetamine and Amphetamine; Dexedrine	1
+50136	1	0	19	1	R	131.0	WAIS_III	4.0	12.0	5.0	7.0	n/a	n/a	n/a	n/a	0.0	n/a	1
+50134	1	0	18	1	L	124.0	WAIS_III	4.0	12.0	3.0	9.0	n/a	n/a	n/a	n/a	n/a	n/a	1
+50126	1	0	17	1	R	133.0	WAIS_III	3.0	8.0	3.0	5.0	n/a	n/a	n/a	n/a	0.0	n/a	1
+50124	1	0	18	1	R	100.0	WAIS_III	4.0	14.0	4.0	10.0	n/a	n/a	n/a	n/a	0.0	n/a	1
+50133	1	0	11	1	R	112.0	WISC_III	3.0	20.0	6.0	14.0	n/a	n/a	n/a	n/a	1.0	Risperidone; Strattera; Methylphenidate	1
+50121	1	0	20	1	R	118.0	WAIS_III	4.0	17.0	4.0	13.0	n/a	n/a	n/a	n/a	0.0	n/a	1
+50137	1	0	20	1	R	120.0	WAIS_III	4.0	14.0	2.0	12.0	n/a	n/a	n/a	n/a	n/a	n/a	1
+50120	1	0	15	1	R	103.0	WISC_III	3.0	17.0	5.0	12.0	n/a	n/a	n/a	n/a	1.0	Dextroamphetamine and Amphetamine 	1
+50132	1	0	16	1	R	n/a	n/a	4.0	19.0	6.0	13.0	n/a	n/a	n/a	n/a	1.0	Risperidone	1
+50128	1	0	16	1	R	114.0	WAIS_III	4.0	15.0	5.0	10.0	n/a	n/a	n/a	n/a	1.0	Risperidone; Sertraline	1
+50127	1	0	14	2	R	115.0	WISC_III	4.0	11.0	3.0	8.0	n/a	n/a	n/a	n/a	1.0	Methylphenidate Extended Release; Methylphenidate	1
+50125	1	0	24	2	R	n/a	n/a	4.0	9.0	5.0	4.0	n/a	n/a	n/a	n/a	0.0	n/a	1
+50130	1	0	18	1	R	129.0	WAIS_III	4.0	7.0	4.0	3.0	n/a	n/a	n/a	n/a	1.0	Methylphenidate; Methylphenidate Extended Release; Risperidone; Dextroamphetamine and Amphetamine 	1
+50119	1	0	19	2	R	132.0	WAIS_III	4.0	8.0	3.0	5.0	n/a	n/a	n/a	n/a	n/a	n/a	1
+50131	1	0	21	1	L	71.0	WAIS_III	4.0	19.0	6.0	13.0	n/a	n/a	n/a	n/a	0.0	n/a	1
+50105	2	0	17	1	R	100.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50116	2	0	15	1	R	115.0	WISC_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50113	2	0	15	2	R	100.0	WISC_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50104	2	0	16	1	R	125.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50103	2	0	14	1	R	106.0	WISC_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50111	2	0	14	1	R	118.0	WISC_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50109	2	0	20	1	R	102.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50102	2	0	14	1	R	103.0	WISC_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50117	2	0	21	1	L	135.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50115	2	0	23	1	L	135.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50110	2	0	13	1	R	79.0	WISC_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50114	2	0	20	2	R	127.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50106	2	0	10	1	R	129.0	WISC_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50107	2	0	21	1	R	132.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50112	2	0	17	1	R	102.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50108	2	0	21	1	R	131.0	WAIS_III	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
