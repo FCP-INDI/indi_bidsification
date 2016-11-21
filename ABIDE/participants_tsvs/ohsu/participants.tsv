@@ -1,29 +1,29 @@
 participant_id	dx_group	age_at_scan	sex	handedness_category	fiq	fiq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_onset_total_d	adi_r_rsrch_reliable	ados_module	ados_total	ados_comm	ados_social	ados_stereo_behav	ados_rsrch_reliable	eye_status_at_scan
-50142	1	13.99	1	L	124.0	WISC_IV_4_SUBTESTS	12.0	11.0	6.0	1.0	1.0	3.0	7.0	1.0	6.0	1.0	1.0	1
-50143	1	13.79	1	R	130.0	WISC_IV_4_SUBTESTS	10.0	12.0	6.0	3.0	1.0	3.0	14.0	5.0	9.0	3.0	1.0	1
-50144	1	10.22	1	R	110.0	WISC_IV_4_SUBTESTS	13.0	20.0	8.0	3.0	1.0	3.0	13.0	3.0	10.0	2.0	1.0	1
-50145	1	10.75	1	R	82.0	WISC_IV_4_SUBTESTS	29.0	25.0	10.0	3.0	1.0	3.0	9.0	3.0	6.0	2.0	1.0	1
-50146	1	8.0	1	R	132.0	WISC_IV_4_SUBTESTS	25.0	25.0	13.0	4.0	1.0	3.0	7.0	3.0	4.0	1.0	1.0	1
-50147	1	11.35	1	R	128.0	WISC_IV_4_SUBTESTS	24.0	19.0	12.0	3.0	1.0	3.0	4.0	1.0	3.0	2.0	1.0	1
-50148	1	12.65	1	R	69.6	WISC_IV_4_SUBTESTS	27.0	19.0	8.0	5.0	1.0	3.0	9.0	2.0	7.0	0.0	1.0	1
-50149	1	12.32	1	R	107.6	WISC_IV_4_SUBTESTS	18.0	10.0	5.0	2.0	1.0	3.0	5.0	1.0	4.0	0.0	1.0	1
-50150	1	9.42	1	R	77.2	WISC_IV_4_SUBTESTS	13.0	15.0	3.0	3.0	1.0	3.0	14.0	5.0	9.0	1.0	1.0	1
-50152	1	9.73	1	R	105.7	WISC_IV_4_SUBTESTS	23.0	10.0	4.0	3.0	1.0	3.0	8.0	2.0	6.0	2.0	1.0	1
-50153	1	9.72	1	R	100.0	WISC_IV_4_SUBTESTS	22.0	22.0	6.0	5.0	1.0	3.0	11.0	4.0	7.0	3.0	1.0	1
-50155	1	14.42	1	R	n/a	WISC_IV_4_SUBTESTS	30.0	24.0	11.0	3.0	1.0	4.0	15.0	6.0	9.0	1.0	1.0	1
-50156	1	15.23	1	R	n/a	WISC_IV_4_SUBTESTS	25.0	22.0	9.0	3.0	1.0	3.0	10.0	2.0	8.0	2.0	1.0	1
-50157	2	10.5	1	R	104.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50158	2	11.55	1	R	106.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50159	2	10.29	1	R	132.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50160	2	11.45	1	R	112.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50161	2	9.15	1	R	104.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50162	2	8.94	1	R	120.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50163	2	9.4	1	R	118.7	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50164	2	8.86	1	R	122.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50165	2	9.69	1	R	126.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50166	2	8.2	1	R	126.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50167	2	10.08	1	R	115.2	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50168	2	9.69	1	R	105.7	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50169	2	11.99	1	R	130.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50170	2	10.53	1	R	94.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
-50171	2	10.64	1	R	120.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1
+50142	Autism	13.99	Male	L	124.0	WISC_IV_4_SUBTESTS	12.0	11.0	6.0	1.0	Research Reliable	3.0	7.0	1.0	6.0	1.0	Research Reliable	Open
+50143	Autism	13.79	Male	R	130.0	WISC_IV_4_SUBTESTS	10.0	12.0	6.0	3.0	Research Reliable	3.0	14.0	5.0	9.0	3.0	Research Reliable	Open
+50144	Autism	10.22	Male	R	110.0	WISC_IV_4_SUBTESTS	13.0	20.0	8.0	3.0	Research Reliable	3.0	13.0	3.0	10.0	2.0	Research Reliable	Open
+50145	Autism	10.75	Male	R	82.0	WISC_IV_4_SUBTESTS	29.0	25.0	10.0	3.0	Research Reliable	3.0	9.0	3.0	6.0	2.0	Research Reliable	Open
+50146	Autism	8.0	Male	R	132.0	WISC_IV_4_SUBTESTS	25.0	25.0	13.0	4.0	Research Reliable	3.0	7.0	3.0	4.0	1.0	Research Reliable	Open
+50147	Autism	11.35	Male	R	128.0	WISC_IV_4_SUBTESTS	24.0	19.0	12.0	3.0	Research Reliable	3.0	4.0	1.0	3.0	2.0	Research Reliable	Open
+50148	Autism	12.65	Male	R	69.6	WISC_IV_4_SUBTESTS	27.0	19.0	8.0	5.0	Research Reliable	3.0	9.0	2.0	7.0	0.0	Research Reliable	Open
+50149	Autism	12.32	Male	R	107.6	WISC_IV_4_SUBTESTS	18.0	10.0	5.0	2.0	Research Reliable	3.0	5.0	1.0	4.0	0.0	Research Reliable	Open
+50150	Autism	9.42	Male	R	77.2	WISC_IV_4_SUBTESTS	13.0	15.0	3.0	3.0	Research Reliable	3.0	14.0	5.0	9.0	1.0	Research Reliable	Open
+50152	Autism	9.73	Male	R	105.7	WISC_IV_4_SUBTESTS	23.0	10.0	4.0	3.0	Research Reliable	3.0	8.0	2.0	6.0	2.0	Research Reliable	Open
+50153	Autism	9.72	Male	R	100.0	WISC_IV_4_SUBTESTS	22.0	22.0	6.0	5.0	Research Reliable	3.0	11.0	4.0	7.0	3.0	Research Reliable	Open
+50155	Autism	14.42	Male	R	n/a	WISC_IV_4_SUBTESTS	30.0	24.0	11.0	3.0	Research Reliable	4.0	15.0	6.0	9.0	1.0	Research Reliable	Open
+50156	Autism	15.23	Male	R	n/a	WISC_IV_4_SUBTESTS	25.0	22.0	9.0	3.0	Research Reliable	3.0	10.0	2.0	8.0	2.0	Research Reliable	Open
+50157	Control	10.5	Male	R	104.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50158	Control	11.55	Male	R	106.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50159	Control	10.29	Male	R	132.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50160	Control	11.45	Male	R	112.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50161	Control	9.15	Male	R	104.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50162	Control	8.94	Male	R	120.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50163	Control	9.4	Male	R	118.7	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50164	Control	8.86	Male	R	122.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50165	Control	9.69	Male	R	126.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50166	Control	8.2	Male	R	126.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50167	Control	10.08	Male	R	115.2	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50168	Control	9.69	Male	R	105.7	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50169	Control	11.99	Male	R	130.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50170	Control	10.53	Male	R	94.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50171	Control	10.64	Male	R	120.0	WISC_IV_4_SUBTESTS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open

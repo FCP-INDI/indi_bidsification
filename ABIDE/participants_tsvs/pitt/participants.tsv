@@ -1,58 +1,58 @@
 participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	viq_test_type	piq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_onset_total_d	adi_r_rsrch_reliable	ados_module	ados_total	ados_comm	ados_social	ados_stereo_behav	ados_rsrch_reliable	current_med_status	medication_name	off_stimulants_at_scan	eye_status_at_scan
-50002	1	1	16.77	1	Ambi	103	116	89	WASI	WASI	WASI	16.0	9.0	5.0	4.0	1.0	4.0	12.0	4.0	8.0	3.0	1.0	0	n/a	n/a	2
-50003	1	1	24.45	1	R	124	128	115	WASI	WASI	WASI	27.0	22.0	5.0	3.0	1.0	4.0	13.0	5.0	8.0	1.0	1.0	1	Fluoxetine	n/a	2
-50004	1	1	19.09	1	R	113	108	117	WASI	WASI	WASI	19.0	12.0	5.0	3.0	1.0	4.0	18.0	6.0	12.0	2.0	1.0	0	n/a	n/a	2
-50005	1	1	13.73	2	R	119	117	118	WASI	WASI	WASI	23.0	19.0	3.0	4.0	1.0	4.0	12.0	4.0	8.0	1.0	1.0	1	Fluoxetine	n/a	2
-50006	1	1	13.37	1	L	109	99	119	WASI	WASI	WASI	13.0	10.0	4.0	3.0	1.0	4.0	12.0	4.0	8.0	4.0	1.0	0	n/a	n/a	2
-50007	1	1	17.78	1	R	110	106	112	WASI	WASI	WASI	21.0	14.0	9.0	1.0	1.0	3.0	17.0	5.0	12.0	2.0	1.0	0	n/a	n/a	2
-50008	1	1	32.45	1	R	123	123	114	WASI	WASI	WASI	24.0	20.0	10.0	2.0	1.0	n/a	16.0	4.0	12.0	n/a	1.0	1	Sertraline	n/a	2
-50009	1	1	33.86	1	R	126	118	128	WASI	WASI	WASI	20.0	11.0	3.0	2.0	1.0	n/a	10.0	4.0	6.0	n/a	1.0	1	Pantoprazole	n/a	2
-50010	1	1	35.2	1	L	81	81	93	WASI	WASI	WASI	n/a	n/a	n/a	n/a	1.0	n/a	n/a	n/a	n/a	n/a	1.0	0	n/a	n/a	2
-50011	1	1	16.93	1	L	111	101	120	WASI	WASI	WASI	24.0	14.0	6.0	1.0	1.0	n/a	13.0	4.0	9.0	n/a	1.0	0	n/a	n/a	2
-50012	1	1	21.48	1	R	128	119	128	WASI	WASI	WASI	21.0	17.0	6.0	2.0	1.0	4.0	12.0	4.0	8.0	2.0	1.0	0	n/a	n/a	2
-50013	1	1	9.33	1	R	86	89	87	WASI	WASI	WASI	17.0	17.0	6.0	5.0	1.0	3.0	12.0	4.0	8.0	5.0	1.0	0	n/a	n/a	2
-50014	1	1	14.2	1	R	96	97	96	WASI	WASI	WASI	22.0	17.0	7.0	1.0	1.0	3.0	16.0	5.0	11.0	3.0	1.0	1	Atomoxetine	n/a	2
-50015	1	1	14.2	1	R	99	98	99	WASI	WASI	WASI	12.0	18.0	7.0	2.0	1.0	n/a	19.0	7.0	12.0	n/a	1.0	0	n/a	n/a	2
-50016	1	1	21.82	1	R	123	120	119	WASI	WASI	WASI	22.0	18.0	8.0	5.0	1.0	4.0	10.0	4.0	6.0	1.0	1.0	0	n/a	n/a	2
-50017	1	1	22.7	1	R	87	91	86	WASI	WASI	WASI	22.0	20.0	6.0	3.0	1.0	4.0	17.0	5.0	12.0	2.0	1.0	0	n/a	n/a	2
-50019	1	1	27.81	1	R	100	89	111	WASI	WASI	WASI	20.0	17.0	7.0	3.0	1.0	4.0	13.0	4.0	9.0	3.0	1.0	1	Methylphenidate; Citalopram 	0.0	2
-50020	1	1	20.83	1	R	100	120	83	WASI	WASI	WASI	n/a	n/a	n/a	n/a	1.0	n/a	n/a	n/a	n/a	n/a	1.0	1	Lisdexamfetamine	n/a	2
-50022	1	1	16.99	1	R	119	110	110	WASI	WASI	WASI	23.0	21.0	7.0	2.0	1.0	4.0	12.0	4.0	8.0	2.0	1.0	0	n/a	n/a	2
-50023	1	1	12.64	2	R	97	83	111	WASI	WASI	WASI	n/a	n/a	n/a	n/a	1.0	n/a	n/a	n/a	n/a	n/a	1.0	0	n/a	n/a	2
-50024	1	1	22.64	1	R	127	121	126	WASI	WASI	WASI	19.0	11.0	4.0	3.0	1.0	4.0	11.0	5.0	6.0	6.0	1.0	0	n/a	n/a	2
-50025	1	1	31.72	1	R	131	132	123	WASI	WASI	WASI	26.0	18.0	12.0	2.0	1.0	4.0	8.0	3.0	5.0	3.0	1.0	0	n/a	n/a	2
-50026	1	1	16.28	1	R	87	90	88	WASI	WASI	WASI	22.0	18.0	5.0	5.0	1.0	3.0	13.0	5.0	8.0	3.0	1.0	1	Sertraline; Risperidone; Dextroamphetamine and Amphetamine	0.0	2
-50027	1	1	12.24	1	R	98	98	98	WASI	WASI	WASI	20.0	13.0	5.0	4.0	1.0	3.0	11.0	2.0	9.0	0.0	1.0	0	n/a	n/a	2
-50028	1	1	12.74	1	R	126	112	128	WASI	WASI	WASI	n/a	n/a	n/a	n/a	1.0	n/a	n/a	n/a	n/a	n/a	1.0	0	n/a	n/a	2
-50029	1	1	11.4	2	R	106	109	100	WASI	WASI	WASI	26.0	21.0	6.0	5.0	1.0	3.0	13.0	5.0	8.0	3.0	1.0	0	n/a	n/a	2
-50053	1	1	12.03	1	R	122	119	119	WASI	WASI	WASI	21.0	17.0	3.0	5.0	1.0	3.0	9.0	3.0	6.0	3.0	1.0	0	n/a	n/a	2
-50055	1	1	16.99	1	R	111	108	112	WASI	WASI	WASI	15.0	10.0	9.0	1.0	1.0	4.0	8.0	3.0	5.0	n/a	1.0	1	Methylphenidate Extended Release	0.0	2
-50056	1	1	13.59	1	R	113	101	125	WASI	WASI	WASI	18.0	11.0	8.0	4.0	1.0	3.0	8.0	3.0	5.0	2.0	1.0	0	n/a	n/a	2
-50057	1	1	12.62	2	R	124	115	128	WASI	WASI	WASI	21.0	12.0	8.0	4.0	1.0	3.0	7.0	2.0	5.0	0.0	1.0	0	n/a	n/a	2
-50030	2	0	25.12	1	n/a	105	100	108	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50031	2	0	12.92	1	R	106	102	107	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50032	2	0	19.8	1	R	119	116	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50033	2	0	12.15	1	R	98	98	96	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50034	2	0	14.77	1	R	97	98	96	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50035	2	0	17.36	1	R	107	109	102	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50036	2	0	13.28	2	R	103	94	112	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50037	2	0	19.16	1	R	115	112	115	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50038	2	0	13.95	2	R	130	132	121	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50039	2	0	30.66	1	R	118	110	123	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50040	2	0	24.6	1	R	110	109	108	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50041	2	0	27.92	1	R	103	108	96	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50042	2	0	33.17	1	R	109	111	104	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50043	2	0	13.78	1	R	113	115	107	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50044	2	0	17.13	1	R	110	117	102	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50045	2	0	15.7	1	R	114	115	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50046	2	0	20.65	1	R	100	88	111	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50047	2	0	15.35	1	R	103	95	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50048	2	0	11.81	1	R	107	98	117	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50049	2	0	15.82	2	R	100	96	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50050	2	0	14.37	1	L	113	104	121	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50051	2	0	12.83	1	R	107	101	110	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50052	2	0	33.24	1	R	122	123	115	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50054	2	0	9.44	1	R	95	99	90	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50058	2	0	23.1	1	R	127	128	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50059	2	0	21.22	2	R	117	109	121	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
-50060	2	0	20.34	1	R	126	122	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	2
+50002	Autism	Autism	16.77	Male	Ambi	103	116	89	WASI	WASI	WASI	16.0	9.0	5.0	4.0	Research Reliable	4.0	12.0	4.0	8.0	3.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50003	Autism	Autism	24.45	Male	R	124	128	115	WASI	WASI	WASI	27.0	22.0	5.0	3.0	Research Reliable	4.0	13.0	5.0	8.0	1.0	Research Reliable	Taking Medication	Fluoxetine	n/a	Closed
+50004	Autism	Autism	19.09	Male	R	113	108	117	WASI	WASI	WASI	19.0	12.0	5.0	3.0	Research Reliable	4.0	18.0	6.0	12.0	2.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50005	Autism	Autism	13.73	Female	R	119	117	118	WASI	WASI	WASI	23.0	19.0	3.0	4.0	Research Reliable	4.0	12.0	4.0	8.0	1.0	Research Reliable	Taking Medication	Fluoxetine	n/a	Closed
+50006	Autism	Autism	13.37	Male	L	109	99	119	WASI	WASI	WASI	13.0	10.0	4.0	3.0	Research Reliable	4.0	12.0	4.0	8.0	4.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50007	Autism	Autism	17.78	Male	R	110	106	112	WASI	WASI	WASI	21.0	14.0	9.0	1.0	Research Reliable	3.0	17.0	5.0	12.0	2.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50008	Autism	Autism	32.45	Male	R	123	123	114	WASI	WASI	WASI	24.0	20.0	10.0	2.0	Research Reliable	n/a	16.0	4.0	12.0	n/a	Research Reliable	Taking Medication	Sertraline	n/a	Closed
+50009	Autism	Autism	33.86	Male	R	126	118	128	WASI	WASI	WASI	20.0	11.0	3.0	2.0	Research Reliable	n/a	10.0	4.0	6.0	n/a	Research Reliable	Taking Medication	Pantoprazole	n/a	Closed
+50010	Autism	Autism	35.2	Male	L	81	81	93	WASI	WASI	WASI	n/a	n/a	n/a	n/a	Research Reliable	n/a	n/a	n/a	n/a	n/a	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50011	Autism	Autism	16.93	Male	L	111	101	120	WASI	WASI	WASI	24.0	14.0	6.0	1.0	Research Reliable	n/a	13.0	4.0	9.0	n/a	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50012	Autism	Autism	21.48	Male	R	128	119	128	WASI	WASI	WASI	21.0	17.0	6.0	2.0	Research Reliable	4.0	12.0	4.0	8.0	2.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50013	Autism	Autism	9.33	Male	R	86	89	87	WASI	WASI	WASI	17.0	17.0	6.0	5.0	Research Reliable	3.0	12.0	4.0	8.0	5.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50014	Autism	Autism	14.2	Male	R	96	97	96	WASI	WASI	WASI	22.0	17.0	7.0	1.0	Research Reliable	3.0	16.0	5.0	11.0	3.0	Research Reliable	Taking Medication	Atomoxetine	n/a	Closed
+50015	Autism	Autism	14.2	Male	R	99	98	99	WASI	WASI	WASI	12.0	18.0	7.0	2.0	Research Reliable	n/a	19.0	7.0	12.0	n/a	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50016	Autism	Autism	21.82	Male	R	123	120	119	WASI	WASI	WASI	22.0	18.0	8.0	5.0	Research Reliable	4.0	10.0	4.0	6.0	1.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50017	Autism	Autism	22.7	Male	R	87	91	86	WASI	WASI	WASI	22.0	20.0	6.0	3.0	Research Reliable	4.0	17.0	5.0	12.0	2.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50019	Autism	Autism	27.81	Male	R	100	89	111	WASI	WASI	WASI	20.0	17.0	7.0	3.0	Research Reliable	4.0	13.0	4.0	9.0	3.0	Research Reliable	Taking Medication	Methylphenidate; Citalopram 	No	Closed
+50020	Autism	Autism	20.83	Male	R	100	120	83	WASI	WASI	WASI	n/a	n/a	n/a	n/a	Research Reliable	n/a	n/a	n/a	n/a	n/a	Research Reliable	Taking Medication	Lisdexamfetamine	n/a	Closed
+50022	Autism	Autism	16.99	Male	R	119	110	110	WASI	WASI	WASI	23.0	21.0	7.0	2.0	Research Reliable	4.0	12.0	4.0	8.0	2.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50023	Autism	Autism	12.64	Female	R	97	83	111	WASI	WASI	WASI	n/a	n/a	n/a	n/a	Research Reliable	n/a	n/a	n/a	n/a	n/a	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50024	Autism	Autism	22.64	Male	R	127	121	126	WASI	WASI	WASI	19.0	11.0	4.0	3.0	Research Reliable	4.0	11.0	5.0	6.0	6.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50025	Autism	Autism	31.72	Male	R	131	132	123	WASI	WASI	WASI	26.0	18.0	12.0	2.0	Research Reliable	4.0	8.0	3.0	5.0	3.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50026	Autism	Autism	16.28	Male	R	87	90	88	WASI	WASI	WASI	22.0	18.0	5.0	5.0	Research Reliable	3.0	13.0	5.0	8.0	3.0	Research Reliable	Taking Medication	Sertraline; Risperidone; Dextroamphetamine and Amphetamine	No	Closed
+50027	Autism	Autism	12.24	Male	R	98	98	98	WASI	WASI	WASI	20.0	13.0	5.0	4.0	Research Reliable	3.0	11.0	2.0	9.0	0.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50028	Autism	Autism	12.74	Male	R	126	112	128	WASI	WASI	WASI	n/a	n/a	n/a	n/a	Research Reliable	n/a	n/a	n/a	n/a	n/a	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50029	Autism	Autism	11.4	Female	R	106	109	100	WASI	WASI	WASI	26.0	21.0	6.0	5.0	Research Reliable	3.0	13.0	5.0	8.0	3.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50053	Autism	Autism	12.03	Male	R	122	119	119	WASI	WASI	WASI	21.0	17.0	3.0	5.0	Research Reliable	3.0	9.0	3.0	6.0	3.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50055	Autism	Autism	16.99	Male	R	111	108	112	WASI	WASI	WASI	15.0	10.0	9.0	1.0	Research Reliable	4.0	8.0	3.0	5.0	n/a	Research Reliable	Taking Medication	Methylphenidate Extended Release	No	Closed
+50056	Autism	Autism	13.59	Male	R	113	101	125	WASI	WASI	WASI	18.0	11.0	8.0	4.0	Research Reliable	3.0	8.0	3.0	5.0	2.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50057	Autism	Autism	12.62	Female	R	124	115	128	WASI	WASI	WASI	21.0	12.0	8.0	4.0	Research Reliable	3.0	7.0	2.0	5.0	0.0	Research Reliable	Not Taking Medication	n/a	n/a	Closed
+50030	Control	Control	25.12	Male	n/a	105	100	108	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50031	Control	Control	12.92	Male	R	106	102	107	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50032	Control	Control	19.8	Male	R	119	116	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50033	Control	Control	12.15	Male	R	98	98	96	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50034	Control	Control	14.77	Male	R	97	98	96	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50035	Control	Control	17.36	Male	R	107	109	102	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50036	Control	Control	13.28	Female	R	103	94	112	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50037	Control	Control	19.16	Male	R	115	112	115	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50038	Control	Control	13.95	Female	R	130	132	121	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50039	Control	Control	30.66	Male	R	118	110	123	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50040	Control	Control	24.6	Male	R	110	109	108	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50041	Control	Control	27.92	Male	R	103	108	96	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50042	Control	Control	33.17	Male	R	109	111	104	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50043	Control	Control	13.78	Male	R	113	115	107	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50044	Control	Control	17.13	Male	R	110	117	102	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50045	Control	Control	15.7	Male	R	114	115	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50046	Control	Control	20.65	Male	R	100	88	111	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50047	Control	Control	15.35	Male	R	103	95	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50048	Control	Control	11.81	Male	R	107	98	117	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50049	Control	Control	15.82	Female	R	100	96	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50050	Control	Control	14.37	Male	L	113	104	121	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50051	Control	Control	12.83	Male	R	107	101	110	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50052	Control	Control	33.24	Male	R	122	123	115	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50054	Control	Control	9.44	Male	R	95	99	90	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50058	Control	Control	23.1	Male	R	127	128	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50059	Control	Control	21.22	Female	R	117	109	121	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed
+50060	Control	Control	20.34	Male	R	126	122	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	n/a	Closed

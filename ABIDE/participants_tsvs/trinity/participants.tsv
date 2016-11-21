@@ -1,50 +1,50 @@
 participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_onset_total_d	adi_r_rsrch_reliable	ados_module	ados_total	current_med_status	eye_status_at_scan
-50232	1	3	23.08	1	R	115	123	103.0	WASI	30.0	26.0	12.0	5.0	1.0	4.0	9.0	0	2
-50233	1	3	20.75	1	R	135	131	131.0	WASI	10.0	10.0	3.0	4.0	1.0	4.0	7.0	0	2
-50234	1	3	15.66	1	R	111	104	117.0	WASI	13.0	10.0	3.0	1.0	1.0	4.0	10.0	0	2
-50235	1	3	15.33	1	R	119	122	111.0	WASI	17.0	17.0	10.0	4.0	1.0	4.0	10.0	0	2
-50236	1	3	19.16	1	R	118	109	123.0	WASI	28.0	19.0	5.0	5.0	1.0	4.0	8.0	0	2
-50237	1	3	21.42	1	R	118	109	116.0	WASI	20.0	18.0	5.0	5.0	1.0	4.0	17.0	0	2
-50238	1	3	18.92	1	R	120	129	108.0	WISC_IV_4_SUBTESTS	27.0	21.0	8.0	4.0	1.0	4.0	8.0	0	2
-50239	1	1	17.03	1	R	97	92	102.0	WASI	20.0	18.0	4.0	5.0	1.0	4.0	11.0	0	2
-50240	1	2	15.05	1	R	132	135	121.0	WASI	11.0	9.0	7.0	3.0	1.0	4.0	9.0	0	2
-50241	1	1	17.17	1	R	89	95	87.0	WASI	20.0	8.0	5.0	3.0	1.0	4.0	10.0	0	2
-50242	1	1	12.75	1	R	117	116	117.0	WISC_IV_FULL	10.0	12.0	3.0	3.0	1.0	4.0	7.0	0	2
-50243	1	1	13.75	1	R	90	98	88.0	WISC_IV_4_SUBTESTS	29.0	14.0	5.0	3.0	1.0	4.0	9.0	0	2
-50244	1	2	25.91	1	R	106	103	106.0	WASI	20.0	19.0	3.0	3.0	1.0	4.0	8.0	0	2
-50245	1	1	21.58	1	R	72	85	63.0	WASI	22.0	15.0	3.0	5.0	1.0	4.0	12.0	0	2
-50246	1	1	19.5	1	R	105	108	99.0	WASI	20.0	22.0	11.0	5.0	1.0	4.0	16.0	0	2
-50247	1	2	12.0	1	R	103	99	n/a	WASI	17.0	13.0	6.0	3.0	1.0	4.0	7.0	0	2
-50248	1	1	13.58	1	R	117	112	117.0	WISC_IV_4_SUBTESTS	30.0	23.0	7.0	5.0	1.0	4.0	15.0	0	2
-50249	1	1	13.83	1	R	98	98	99.0	WISC_IV_4_SUBTESTS	25.0	17.0	6.0	4.0	0.0	4.0	13.0	0	2
-50250	1	1	13.91	1	R	99	99	98.0	WISC_IV_4_SUBTESTS	27.0	21.0	4.0	2.0	1.0	4.0	11.0	0	2
-50251	1	1	17.25	1	R	122	119	119.0	WASI	21.0	9.0	3.0	5.0	1.0	4.0	14.0	0	2
-50252	1	2	15.25	1	R	94	87	102.0	WASI	17.0	21.0	7.0	4.0	1.0	4.0	8.0	0	2
-50253	1	2	18.01	1	R	99	90	106.0	WASI	18.0	13.0	4.0	3.0	1.0	4.0	11.0	0	2
-50254	1	2	19.41	1	R	121	123	114.0	WASI	18.0	16.0	2.0	1.0	1.0	4.0	13.0	0	2
-50255	1	2	14.41	1	R	125	119	126.0	WASI	17.0	13.0	4.0	1.0	1.0	4.0	10.0	0	2
-50257	2	0	14.91	1	R	113	105	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50259	2	0	19.83	1	R	114	118	107.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50260	2	0	20.33	1	R	116	119	116.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50261	2	0	20.08	1	R	116	113	116.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50262	2	0	21.33	1	R	133	127	132.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50263	2	0	19.08	1	R	117	119	110.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50264	2	0	25.66	1	R	120	115	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50265	2	0	12.25	1	R	101	97	105.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50266	2	0	15.91	1	R	116	118	109.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50267	2	0	17.5	1	R	116	114	115.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50268	2	0	14.41	1	R	96	107	86.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50269	2	0	14.66	1	R	113	110	112.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50270	2	0	19.33	1	R	99	98	99.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-50271	2	0	19.66	1	R	105	96	114.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51132	2	0	24.83	1	R	119	113	121.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51133	2	0	12.04	1	R	91	100	84.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51134	2	0	16.83	1	R	89	81	101.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51135	2	0	13.75	1	R	101	95	108.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51136	2	0	12.66	1	R	126	125	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51137	2	0	13.25	1	R	131	137	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51138	2	0	12.66	1	R	99	94	103.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51139	2	0	19.5	1	R	112	115	112.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51140	2	0	15.75	1	R	128	132	121.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51141	2	0	15.91	1	R	97	91	102.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
-51142	2	0	14.91	1	R	104	101	105.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	2
+50232	Autism	PDD-NOSE	23.08	Male	R	115	123	103.0	WASI	30.0	26.0	12.0	5.0	Research Reliable	4.0	9.0	Not Taking Medication	Closed
+50233	Autism	PDD-NOSE	20.75	Male	R	135	131	131.0	WASI	10.0	10.0	3.0	4.0	Research Reliable	4.0	7.0	Not Taking Medication	Closed
+50234	Autism	PDD-NOSE	15.66	Male	R	111	104	117.0	WASI	13.0	10.0	3.0	1.0	Research Reliable	4.0	10.0	Not Taking Medication	Closed
+50235	Autism	PDD-NOSE	15.33	Male	R	119	122	111.0	WASI	17.0	17.0	10.0	4.0	Research Reliable	4.0	10.0	Not Taking Medication	Closed
+50236	Autism	PDD-NOSE	19.16	Male	R	118	109	123.0	WASI	28.0	19.0	5.0	5.0	Research Reliable	4.0	8.0	Not Taking Medication	Closed
+50237	Autism	PDD-NOSE	21.42	Male	R	118	109	116.0	WASI	20.0	18.0	5.0	5.0	Research Reliable	4.0	17.0	Not Taking Medication	Closed
+50238	Autism	PDD-NOSE	18.92	Male	R	120	129	108.0	WISC_IV_4_SUBTESTS	27.0	21.0	8.0	4.0	Research Reliable	4.0	8.0	Not Taking Medication	Closed
+50239	Autism	Autism	17.03	Male	R	97	92	102.0	WASI	20.0	18.0	4.0	5.0	Research Reliable	4.0	11.0	Not Taking Medication	Closed
+50240	Autism	Aspergers	15.05	Male	R	132	135	121.0	WASI	11.0	9.0	7.0	3.0	Research Reliable	4.0	9.0	Not Taking Medication	Closed
+50241	Autism	Autism	17.17	Male	R	89	95	87.0	WASI	20.0	8.0	5.0	3.0	Research Reliable	4.0	10.0	Not Taking Medication	Closed
+50242	Autism	Autism	12.75	Male	R	117	116	117.0	WISC_IV_FULL	10.0	12.0	3.0	3.0	Research Reliable	4.0	7.0	Not Taking Medication	Closed
+50243	Autism	Autism	13.75	Male	R	90	98	88.0	WISC_IV_4_SUBTESTS	29.0	14.0	5.0	3.0	Research Reliable	4.0	9.0	Not Taking Medication	Closed
+50244	Autism	Aspergers	25.91	Male	R	106	103	106.0	WASI	20.0	19.0	3.0	3.0	Research Reliable	4.0	8.0	Not Taking Medication	Closed
+50245	Autism	Autism	21.58	Male	R	72	85	63.0	WASI	22.0	15.0	3.0	5.0	Research Reliable	4.0	12.0	Not Taking Medication	Closed
+50246	Autism	Autism	19.5	Male	R	105	108	99.0	WASI	20.0	22.0	11.0	5.0	Research Reliable	4.0	16.0	Not Taking Medication	Closed
+50247	Autism	Aspergers	12.0	Male	R	103	99	n/a	WASI	17.0	13.0	6.0	3.0	Research Reliable	4.0	7.0	Not Taking Medication	Closed
+50248	Autism	Autism	13.58	Male	R	117	112	117.0	WISC_IV_4_SUBTESTS	30.0	23.0	7.0	5.0	Research Reliable	4.0	15.0	Not Taking Medication	Closed
+50249	Autism	Autism	13.83	Male	R	98	98	99.0	WISC_IV_4_SUBTESTS	25.0	17.0	6.0	4.0	Not Research Reliable	4.0	13.0	Not Taking Medication	Closed
+50250	Autism	Autism	13.91	Male	R	99	99	98.0	WISC_IV_4_SUBTESTS	27.0	21.0	4.0	2.0	Research Reliable	4.0	11.0	Not Taking Medication	Closed
+50251	Autism	Autism	17.25	Male	R	122	119	119.0	WASI	21.0	9.0	3.0	5.0	Research Reliable	4.0	14.0	Not Taking Medication	Closed
+50252	Autism	Aspergers	15.25	Male	R	94	87	102.0	WASI	17.0	21.0	7.0	4.0	Research Reliable	4.0	8.0	Not Taking Medication	Closed
+50253	Autism	Aspergers	18.01	Male	R	99	90	106.0	WASI	18.0	13.0	4.0	3.0	Research Reliable	4.0	11.0	Not Taking Medication	Closed
+50254	Autism	Aspergers	19.41	Male	R	121	123	114.0	WASI	18.0	16.0	2.0	1.0	Research Reliable	4.0	13.0	Not Taking Medication	Closed
+50255	Autism	Aspergers	14.41	Male	R	125	119	126.0	WASI	17.0	13.0	4.0	1.0	Research Reliable	4.0	10.0	Not Taking Medication	Closed
+50257	Control	Control	14.91	Male	R	113	105	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50259	Control	Control	19.83	Male	R	114	118	107.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50260	Control	Control	20.33	Male	R	116	119	116.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50261	Control	Control	20.08	Male	R	116	113	116.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50262	Control	Control	21.33	Male	R	133	127	132.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50263	Control	Control	19.08	Male	R	117	119	110.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50264	Control	Control	25.66	Male	R	120	115	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50265	Control	Control	12.25	Male	R	101	97	105.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50266	Control	Control	15.91	Male	R	116	118	109.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50267	Control	Control	17.5	Male	R	116	114	115.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50268	Control	Control	14.41	Male	R	96	107	86.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50269	Control	Control	14.66	Male	R	113	110	112.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50270	Control	Control	19.33	Male	R	99	98	99.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+50271	Control	Control	19.66	Male	R	105	96	114.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51132	Control	Control	24.83	Male	R	119	113	121.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51133	Control	Control	12.04	Male	R	91	100	84.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51134	Control	Control	16.83	Male	R	89	81	101.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51135	Control	Control	13.75	Male	R	101	95	108.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51136	Control	Control	12.66	Male	R	126	125	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51137	Control	Control	13.25	Male	R	131	137	120.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51138	Control	Control	12.66	Male	R	99	94	103.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51139	Control	Control	19.5	Male	R	112	115	112.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51140	Control	Control	15.75	Male	R	128	132	121.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51141	Control	Control	15.91	Male	R	97	91	102.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed
+51142	Control	Control	14.91	Male	R	104	101	105.0	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Closed

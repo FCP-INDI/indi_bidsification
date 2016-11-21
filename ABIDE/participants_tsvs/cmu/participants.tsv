@@ -1,28 +1,28 @@
 participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	viq_test_type	piq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_onset_total_d	adi_r_rsrch_reliable	ados_module	ados_total	ados_comm	ados_social	ados_stereo_behav	ados_rsrch_reliable	current_med_status	medication_name	eye_status_at_scan
-50642	1	1	33	1	R	103	98	107	WISC	WISC	WISC	19.0	16.0	8.0	3.0	1.0	4.0	12.0	5.0	7.0	1.0	1.0	1	Atomoxetine; Sertraline	2
-50643	1	1	21	1	R	123	112	128	WISC	WISC	WISC	21.0	17.0	6.0	2.0	1.0	4.0	12.0	4.0	8.0	2.0	1.0	0	n/a	2
-50644	1	1	19	2	R	107	110	102	WISC	WISC	WISC	27.0	20.0	6.0	5.0	1.0	4.0	12.0	5.0	7.0	3.0	1.0	0	n/a	2
-50645	1	1	20	1	R	124	128	115	WISC	WISC	WISC	27.0	22.0	5.0	3.0	1.0	4.0	13.0	5.0	8.0	1.0	1.0	1	Dextroamphetamine and amphetamine; Fluoxetine	2
-50646	1	1	21	1	R	108	100	115	WISC	WISC	WISC	22.0	15.0	5.0	2.0	1.0	4.0	14.0	5.0	9.0	1.0	1.0	0	n/a	2
-50647	1	1	27	1	R	104	97	109	WISC	WISC	WISC	20.0	16.0	7.0	3.0	1.0	4.0	8.0	2.0	6.0	3.0	1.0	1	Valproic acid; Lithium; Risperidone	2
-50648	1	1	31	2	R	121	132	106	WISC	WISC	WISC	15.0	9.0	6.0	3.0	1.0	4.0	16.0	6.0	10.0	3.0	1.0	0	n/a	2
-50649	1	1	22	1	R	127	121	126	WISC	WISC	WISC	19.0	11.0	4.0	3.0	1.0	4.0	11.0	5.0	6.0	6.0	1.0	0	n/a	2
-50650	1	1	31	2	R	123	119	121	WISC	WISC	WISC	10.0	8.0	6.0	2.0	1.0	4.0	9.0	2.0	7.0	4.0	1.0	1	Zolpidem; Lisinopril; Topiramato; Trazodone; Venlafaxine;  Bupropion; 	2
-50651	1	1	39	1	Ambi	116	108	121	WISC	WISC	WISC	21.0	16.0	8.0	5.0	1.0	4.0	11.0	4.0	7.0	1.0	1.0	0	n/a	2
-50652	1	1	24	1	R	118	113	119	WISC	WISC	WISC	10.0	16.0	3.0	3.0	1.0	4.0	19.0	6.0	13.0	3.0	1.0	0	n/a	2
-50653	1	1	30	1	R	134	131	129	WISC	WISC	WISC	20.0	13.0	3.0	1.0	1.0	4.0	18.0	5.0	13.0	3.0	1.0	0	n/a	2
-50654	1	1	24	1	L	95	99	92	WISC	WISC	WISC	20.0	12.0	4.0	5.0	1.0	4.0	15.0	5.0	10.0	2.0	1.0	0	n/a	2
-50655	1	1	27	1	R	100	89	111	WISC	WISC	WISC	20.0	17.0	7.0	3.0	1.0	4.0	13.0	4.0	9.0	3.0	1.0	1	Citalopram; Methylphenidated Extended release; Methylphenidate	2
-50656	2	0	28	2	R	129	125	127	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50657	2	0	21	1	R	120	112	124	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50658	2	0	27	1	R	103	108	96	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50659	2	0	27	1	R	109	111	106	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50660	2	0	25	1	Ambi	115	116	109	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50661	2	0	20	2	R	124	128	114	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50663	2	0	21	1	R	101	94	108	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50664	2	0	21	1	R	109	107	110	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50665	2	0	33	1	R	109	111	104	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50666	2	0	31	1	R	107	101	109	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50667	2	0	40	1	R	128	122	128	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50668	2	0	25	1	R	110	109	108	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
-50669	2	0	30	2	R	126	123	123	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	2
+50642	Autism	Autism	33	Male	R	103	98	107	WISC	WISC	WISC	19.0	16.0	8.0	3.0	Research Reliable	4.0	12.0	5.0	7.0	1.0	Research Reliable	Taking Medication	Atomoxetine; Sertraline	Closed
+50643	Autism	Autism	21	Male	R	123	112	128	WISC	WISC	WISC	21.0	17.0	6.0	2.0	Research Reliable	4.0	12.0	4.0	8.0	2.0	Research Reliable	Not Taking Medication	n/a	Closed
+50644	Autism	Autism	19	Female	R	107	110	102	WISC	WISC	WISC	27.0	20.0	6.0	5.0	Research Reliable	4.0	12.0	5.0	7.0	3.0	Research Reliable	Not Taking Medication	n/a	Closed
+50645	Autism	Autism	20	Male	R	124	128	115	WISC	WISC	WISC	27.0	22.0	5.0	3.0	Research Reliable	4.0	13.0	5.0	8.0	1.0	Research Reliable	Taking Medication	Dextroamphetamine and amphetamine; Fluoxetine	Closed
+50646	Autism	Autism	21	Male	R	108	100	115	WISC	WISC	WISC	22.0	15.0	5.0	2.0	Research Reliable	4.0	14.0	5.0	9.0	1.0	Research Reliable	Not Taking Medication	n/a	Closed
+50647	Autism	Autism	27	Male	R	104	97	109	WISC	WISC	WISC	20.0	16.0	7.0	3.0	Research Reliable	4.0	8.0	2.0	6.0	3.0	Research Reliable	Taking Medication	Valproic acid; Lithium; Risperidone	Closed
+50648	Autism	Autism	31	Female	R	121	132	106	WISC	WISC	WISC	15.0	9.0	6.0	3.0	Research Reliable	4.0	16.0	6.0	10.0	3.0	Research Reliable	Not Taking Medication	n/a	Closed
+50649	Autism	Autism	22	Male	R	127	121	126	WISC	WISC	WISC	19.0	11.0	4.0	3.0	Research Reliable	4.0	11.0	5.0	6.0	6.0	Research Reliable	Not Taking Medication	n/a	Closed
+50650	Autism	Autism	31	Female	R	123	119	121	WISC	WISC	WISC	10.0	8.0	6.0	2.0	Research Reliable	4.0	9.0	2.0	7.0	4.0	Research Reliable	Taking Medication	Zolpidem; Lisinopril; Topiramato; Trazodone; Venlafaxine;  Bupropion; 	Closed
+50651	Autism	Autism	39	Male	Ambi	116	108	121	WISC	WISC	WISC	21.0	16.0	8.0	5.0	Research Reliable	4.0	11.0	4.0	7.0	1.0	Research Reliable	Not Taking Medication	n/a	Closed
+50652	Autism	Autism	24	Male	R	118	113	119	WISC	WISC	WISC	10.0	16.0	3.0	3.0	Research Reliable	4.0	19.0	6.0	13.0	3.0	Research Reliable	Not Taking Medication	n/a	Closed
+50653	Autism	Autism	30	Male	R	134	131	129	WISC	WISC	WISC	20.0	13.0	3.0	1.0	Research Reliable	4.0	18.0	5.0	13.0	3.0	Research Reliable	Not Taking Medication	n/a	Closed
+50654	Autism	Autism	24	Male	L	95	99	92	WISC	WISC	WISC	20.0	12.0	4.0	5.0	Research Reliable	4.0	15.0	5.0	10.0	2.0	Research Reliable	Not Taking Medication	n/a	Closed
+50655	Autism	Autism	27	Male	R	100	89	111	WISC	WISC	WISC	20.0	17.0	7.0	3.0	Research Reliable	4.0	13.0	4.0	9.0	3.0	Research Reliable	Taking Medication	Citalopram; Methylphenidated Extended release; Methylphenidate	Closed
+50656	Control	Control	28	Female	R	129	125	127	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50657	Control	Control	21	Male	R	120	112	124	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50658	Control	Control	27	Male	R	103	108	96	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50659	Control	Control	27	Male	R	109	111	106	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50660	Control	Control	25	Male	Ambi	115	116	109	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50661	Control	Control	20	Female	R	124	128	114	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50663	Control	Control	21	Male	R	101	94	108	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50664	Control	Control	21	Male	R	109	107	110	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50665	Control	Control	33	Male	R	109	111	104	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50666	Control	Control	31	Male	R	107	101	109	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50667	Control	Control	40	Male	R	128	122	128	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50668	Control	Control	25	Male	R	110	109	108	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed
+50669	Control	Control	30	Female	R	126	123	123	WISC	WISC	WISC	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Closed

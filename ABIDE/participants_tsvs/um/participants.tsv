@@ -1,36 +1,111 @@
-participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	viq_test_type	piq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_rsrch_reliable	ados_module	ados_rsrch_reliable	ados_gotham_socaffect	ados_gotham_rrb	ados_gotham_total	ados_gotham_severity	current_med_status	medication_name	off_stimulants_at_scan	eye_status_at_scan
-50382	2	0	28.8	1	R	114.0	115	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50383	2	0	14.4	1	R	116.0	111	117	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50385	2	0	17.8	1	R	109.0	99	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50386	2	0	17.8	1	R	129.0	126	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50387	2	0	14.0	1	R	93.5	98	89	n/a	PPVT	RAVENS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50388	2	0	26.8	1	R	115.0	108	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50390	2	0	14.5	1	R	103.5	107	100	n/a	PPVT	RAVENS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50391	2	0	17.2	1	L	113.5	121	106	n/a	PPVT	RAVENS	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50397	1	1	14.7	1	n/a	116.0	132	100	n/a	ppvt	ravens	17.0	13.0	10.0	1.0	n/a	1.0	n/a	n/a	3.0	1.0	1	Dextroamphetamine and Amphetamine; Melatonin; Trazodone	0	1
-50399	1	2	17.4	1	R	104.5	129	80	n/a	ppvt	ravens	16.0	15.0	2.0	1.0	4.0	1.0	n/a	n/a	n/a	n/a	1	Escitalopram	0	1
-50402	1	1	13.1	1	R	121.0	117	125	n/a	PPVT    	Ravens  	25.0	16.0	10.0	1.0	3.0	1.0	11.0	4.0	15.0	9.0	1	Aripiprazole; Sertraline; melatonin	0	1
-50403	1	2	12.8	1	R	120.5	126	115	n/a	DAS_II_SA	DAS_II_SA	17.0	15.0	2.0	1.0	3.0	1.0	5.0	2.0	7.0	4.0	1	Lisdexamfetamine	0	1
-50404	1	1	15.8	1	R	129.5	132	127	n/a	PPVT    	Ravens  	18.0	16.0	6.0	1.0	3.0	1.0	6.0	4.0	10.0	6.0	1	Methylphenidate extended release; Risperidone	0	1
-50405	1	1	16.6	1	R	94.0	90	98	n/a	PPVT    	Ravens  	23.0	15.0	12.0	1.0	3.0	1.0	7.0	6.0	13.0	8.0	0	n/a	0	1
-50406	1	1	15.2	1	R	90.5	78	103	n/a	DAS_II_SA	DAS_II_SA	28.0	21.0	8.0	1.0	3.0	1.0	12.0	5.0	17.0	9.0	0	n/a	0	1
-50407	1	1	16.6	2	R	105.0	107	103	n/a	PPVT    	Ravens  	13.0	19.0	4.0	1.0	3.0	1.0	9.0	1.0	10.0	6.0	0	n/a	0	1
-50408	1	1	14.8	1	R	118.5	123	114	n/a	PPVT    	Ravens  	18.0	18.0	4.0	1.0	3.0	1.0	8.0	2.0	10.0	6.0	1	Methylphenidate extended release	0	1
-50410	1	1	16.1	1	R	110.5	113	108	n/a	DAS_II_SA	DAS_II_SA	12.0	18.0	7.0	1.0	3.0	1.0	7.0	4.0	11.0	7.0	1	Atomoxetine	0	1
-50411	1	2	14.0	1	R	125.5	126	125	n/a	Stanford	Stanford	10.0	17.0	2.0	1.0	4.0	1.0	n/a	n/a	n/a	n/a	0	n/a	0	1
-50412	1	1	13.2	1	R	133.5	137	130	n/a	PPVT    	Ravens  	25.0	18.0	8.0	1.0	3.0	1.0	11.0	2.0	13.0	8.0	0	n/a	0	1
-50413	1	1	13.1	1	L	114.5	96	133	n/a	PPVT	Ravens	11.0	9.0	5.0	1.0	3.0	1.0	7.0	4.0	11.0	7.0	0	n/a	0	1
-50414	2	0	13.8	2	R	109.0	132	86	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50415	2	0	17.6	1	R	111.5	117	106	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50416	2	0	14.8	1	R	108.5	114	103	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50417	2	0	13.3	1	L	121.5	128	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50418	2	0	14.9	1	R	112.0	109	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50419	2	0	15.8	1	R	111.0	95	127	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50421	2	0	15.4	1	R	116.0	126	106	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50422	2	0	14.8	1	R	114.5	119	110	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50423	2	0	14.1	1	R	111.5	117	106	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50424	2	0	17.9	1	R	125.5	136	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50425	2	0	16.6	1	R	112.0	109	115	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50426	2	0	13.6	1	R	113.0	115	111	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50427	2	0	15.8	1	R	96.0	100	92	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
-50428	2	0	15.5	1	R	89.5	98	81	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	0	1
+participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	viq_test_type	piq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_rsrch_reliable	ados_module	ados_rsrch_reliable	ados_gotham_socaffect	ados_gotham_rrb	ados_gotham_total	ados_gotham_severity	current_med_status	medication_name	off_stimulants_at_scan	eye_status_at_scan
+50272	Autism	Autism	14.2	Male	R	98.5	100	97.0	DAS_II_SA	DAS_II_SA	28.0	20.0	7.0	Research Reliable	3.0	Research Reliable	6.0	1.0	7.0	4.0	0	n/a	n/a	Open
+50273	Autism	Autism	16.8	Male	R	112.5	109	116.0	WASI    	WASI    	21.0	13.0	6.0	Research Reliable	4.0	n/a	n/a	n/a	n/a	n/a	1	Atomoxetine	n/a	Open
+50274	Autism	Autism	14.2	Male	R	111.5	106	117.0	WASI    	WASI    	19.0	14.0	8.0	Research Reliable	4.0	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50275	Autism	Autism	11.5	Male	L	85.0	106	64.0	PPVT	Ravens	14.0	14.0	6.0	Research Reliable	3.0	Research Reliable	10.0	2.0	12.0	7.0	0	n/a	n/a	Open
+50276	Autism	Autism	16.8	Female	n/a	146.5	145	148.0	DAS_II_SA	DAS_II_SA	20.0	11.0	7.0	Research Reliable	4.0	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50277	Autism	Autism	15.4	Male	L	107.5	96	119.0	WASI    	WASI    	22.0	19.0	9.0	Research Reliable	3.0	Research Reliable	8.0	5.0	13.0	8.0	0	n/a	n/a	Open
+50278	Autism	Autism	11.3	Female	R	107.5	93	122.0	PPVT	Ravens	19.0	12.0	7.0	Research Reliable	3.0	Research Reliable	9.0	3.0	12.0	7.0	0	n/a	n/a	Open
+50279	Autism	Autism	12.2	Male	R	87.5	75	100.0	DAS_II_SA	DAS_II_SA	15.0	16.0	8.0	Research Reliable	3.0	Research Reliable	20.0	8.0	28.0	10.0	0	n/a	n/a	Open
+50280	Autism	Autism	15.6	Male	n/a	85.0	81	89.0	DAS_II_SA	DAS_II_SA	11.0	12.0	3.0	Research Reliable	3.0	Research Reliable	7.0	0.0	7.0	4.0	1	Dextroamphetamine and Amphetamine; Buspirone	No	Open
+50281	Autism	Aspergers	10.7	Male	R	132.0	131	133.0	DAS_II_SA	DAS_II_SA	8.0	8.0	5.0	Research Reliable	3.0	Research Reliable	2.0	0.0	2.0	1.0	1	Fluoxetine	n/a	Open
+50282	Autism	Autism	15.2	Male	n/a	121.0	118	124.0	WASI    	WASI    	23.0	19.0	8.0	Research Reliable	3.0	Research Reliable	5.0	2.0	7.0	4.0	0	n/a	n/a	Open
+50283	Autism	Autism	11.2	Male	R	97.5	91	104.0	WISC4   	WISC4   	27.0	18.0	5.0	Research Reliable	3.0	Research Reliable	3.0	4.0	7.0	4.0	0	n/a	n/a	Open
+50284	Autism	Aspergers	11.2	Female	R	111.0	113	109.0	DAS_II_SA	DAS_II_SA	8.0	11.0	6.0	Research Reliable	3.0	Research Reliable	6.0	3.0	9.0	6.0	1	Methylphenidate Extended Release	No	Open
+50285	Autism	Autism	12.8	Female	R	99.5	94	105.0	PPVT    	Ravens  	25.0	17.0	4.0	Research Reliable	3.0	Research Reliable	7.0	2.0	9.0	6.0	0	n/a	n/a	Open
+50286	Autism	Aspergers	11.2	Male	R	130.5	139	122.0	DAS_II_SA	DAS_II_SA	9.0	10.0	4.0	Research Reliable	3.0	Research Reliable	8.0	2.0	10.0	6.0	1	Fluoxetine; Oxcarbazepine	n/a	Open
+50287	Autism	Autism	14.4	Male	L	96.5	90	103.0	DAS_II_SA	DAS_II_SA	19.0	23.0	8.0	Research Reliable	3.0	Research Reliable	3.0	1.0	4.0	2.0	1	Risperidone; Peroxatine; Methylphenidate Extended Release	n/a	Open
+50288	Autism	Autism	11.1	Male	R	105.0	104	106.0	WASI    	WASI    	15.0	13.0	11.0	Research Reliable	2.0	Research Reliable	10.0	6.0	16.0	9.0	0	n/a	n/a	Open
+50289	Autism	Aspergers	12.9	Male	L	105.0	100	110.0	DAS_II_SA	DAS_II_SA	17.0	12.0	1.0	Research Reliable	3.0	Research Reliable	5.0	2.0	7.0	4.0	0	n/a	n/a	Open
+50290	Autism	Autism	14.0	Male	R	108.5	103	114.0	DAS_II_SA	DAS_II_SA	26.0	17.0	6.0	Research Reliable	3.0	Research Reliable	5.0	1.0	6.0	3.0	0	n/a	n/a	Open
+50291	Autism	Autism	13.9	Male	R	96.0	98	94.0	PPVT	Ravens	23.0	16.0	3.0	Research Reliable	3.0	Research Reliable	8.0	1.0	9.0	6.0	`	n/a	n/a	Open
+50292	Autism	Autism	12.6	Male	R	89.5	91	88.0	PPVT	Ravens	25.0	15.0	9.0	Research Reliable	3.0	Research Reliable	7.0	2.0	9.0	6.0	1	Clonidine; Risperidone; Atomoxetine	n/a	Open
+50293	Autism	Autism	12.4	Male	R	n/a	126	n/a	PPVT    	Ravens	18.0	10.0	6.0	Research Reliable	3.0	Research Reliable	5.0	3.0	8.0	5.0	1	Dextroamphetamine and Amphetamine	No	Open
+50294	Autism	Aspergers	12.6	Male	R	103.0	110	96.0	PPVT	Ravens	9.0	9.0	3.0	Research Reliable	3.0	Research Reliable	5.0	4.0	9.0	6.0	0	n/a	n/a	Open
+50295	Autism	Autism	11.5	Male	R	135.0	133	137.0	PPVT    	DAS_II_SA	23.0	22.0	6.0	Research Reliable	3.0	Research Reliable	10.0	6.0	16.0	9.0	0	n/a	n/a	Open
+50296	Autism	Autism	15.1	Male	R	89.0	78	100.0	PPVT	Ravens	23.0	13.0	6.0	Research Reliable	3.0	Research Reliable	9.0	3.0	12.0	7.0	1	Fluoxetine; Buspirone; Atomoxetine	n/a	Open
+50297	Autism	n/a	15.9	Male	R	125.5	141	110.0	PPVT	Ravens	n/a	n/a	n/a	Research Reliable	3.0	Research Reliable	10.0	4.0	14.0	8.0	0	n/a	n/a	Open
+50298	Autism	Autism	12.8	Male	R	101.0	121	81.0	PPVT	Ravens	23.0	18.0	6.0	Research Reliable	3.0	Research Reliable	18.0	5.0	23.0	10.0	1	Fluoxetine	n/a	Open
+50299	Autism	Autism	12.2	Male	R	87.5	96	79.0	PPVT	Ravens	19.0	12.0	7.0	Research Reliable	3.0	Research Reliable	7.0	4.0	11.0	7.0	1	Dextroamphetamine and Amphetamine;Valproic acid; Quetiapine; Sertraline; Melatonin	No	Open
+50300	Autism	PDD-NOSE	9.7	Female	R	90.0	99	81.0	PPVT	Ravens	13.0	6.0	5.0	Research Reliable	3.0	Research Reliable	6.0	3.0	9.0	6.0	0	n/a	n/a	Open
+50301	Autism	Autism	16.1	Male	L	97.0	101	93.0	PPVT	Ravens	19.0	16.0	5.0	Research Reliable	3.0	Research Reliable	9.0	2.0	11.0	7.0	1	Fluoxetine; Atomoxetine	n/a	Open
+50302	Autism	n/a	10.4	Female	R	97.0	109	85.0	PPVT	Ravens	24.0	14.0	6.0	Research Reliable	3.0	Research Reliable	6.0	2.0	8.0	5.0	1	Methylphenidate extended release	No	Open
+50303	Autism	Autism	11.6	Male	R	84.0	75	93.0	PPVT	Ravens	19.0	12.0	6.0	Research Reliable	3.0	Research Reliable	7.0	3.0	10.0	6.0	1	Sertraline	n/a	Open
+50304	Autism	Autism	11.0	Male	n/a	96.5	99	94.0	PPVT	Ravens	23.0	16.0	6.0	Research Reliable	3.0	Research Reliable	7.0	2.0	9.0	6.0	n/a	n/a	n/a	Open
+50305	Autism	Autism	10.9	Male	R	85.0	103	67.0	PPVT	Ravens	24.0	14.0	10.0	Research Reliable	3.0	Research Reliable	8.0	2.0	10.0	6.0	1	Dextroamphetamine and amphetamine; Fluoxetine; Risperidone	No	Open
+50306	Autism	Autism	8.5	Male	R	76.0	86	66.0	PPVT	Ravens	21.0	18.0	10.0	Research Reliable	3.0	Research Reliable	10.0	6.0	16.0	9.0	1	Sertraline	n/a	Open
+50307	Autism	Autism	9.7	Male	Ambi	81.5	87	76.0	PPVT	Ravens	15.0	19.0	8.0	Research Reliable	3.0	Research Reliable	8.0	1.0	9.0	6.0	1	Risperidone; Quetiapine	n/a	Open
+50308	Autism	Autism	8.9	Male	n/a	113.0	113	113.0	PPVT	Ravens	23.0	24.0	8.0	Research Reliable	3.0	Research Reliable	12.0	3.0	7.0	4.0	0	n/a	n/a	Open
+50309	Autism	Autism	9.5	Female	n/a	81.5	81	82.0	PPVT	Ravens	25.0	20.0	8.0	Research Reliable	3.0	Research Reliable	8.0	2.0	10.0	6.0	0	n/a	n/a	Open
+50310	Autism	Autism	9.7	Male	R	78.5	82	75.0	PPVT	Ravens	26.0	22.0	8.0	Research Reliable	3.0	Research Reliable	8.0	1.0	9.0	6.0	0	n/a	n/a	Open
+50311	Autism	Autism	9.8	Male	n/a	89.0	96	82.0	PPVT	Ravens	22.0	17.0	6.0	Research Reliable	3.0	Research Reliable	15.0	5.0	20.0	10.0	1	Sertraline; Guanfacine; altrex	n/a	Open
+50312	Autism	Autism	11.2	Male	R	91.0	97	85.0	PPVT	Ravens	19.0	15.0	3.0	Research Reliable	3.0	Research Reliable	6.0	2.0	8.0	5.0	1	Atomoxetine	n/a	Open
+50313	Autism	Autism	13.4	Male	R	101.0	109	93.0	PPVT	Ravens	19.0	15.0	8.0	Research Reliable	3.0	Research Reliable	14.0	4.0	18.0	10.0	0	n/a	n/a	Open
+50314	Autism	Aspergers	16.1	Male	R	126.0	127	125.0	PPVT	Ravens	16.0	17.0	6.0	Research Reliable	3.0	Research Reliable	9.0	4.0	13.0	8.0	0	n/a	n/a	Open
+50315	Autism	Autism	13.4	Male	R	118.5	126	111.0	PPVT	Ravens	18.0	14.0	8.0	Research Reliable	3.0	Research Reliable	8.0	2.0	10.0	6.0	0	n/a	n/a	Open
+50316	Autism	Autism	11.8	Male	R	109.0	125	93.0	PPVT	Ravens	23.0	15.0	12.0	Research Reliable	3.0	Research Reliable	7.0	4.0	11.0	7.0	n/a	n/a	n/a	Open
+50317	Autism	Autism	9.8	Male	R	115.0	117	113.0	PPVT	Ravens	18.0	15.0	8.0	Research Reliable	3.0	Research Reliable	14.0	6.0	20.0	10.0	1	Risperidone	n/a	Open
+50318	Autism	Autism	9.2	Male	L	147.5	180	115.0	PPVT	Ravens	19.0	22.0	10.0	Research Reliable	3.0	Research Reliable	n/a	n/a	9.0	6.0	0	n/a	n/a	Open
+50319	Autism	Autism	15.0	Female	R	126.0	125	127.0	PPVT	Ravens	20.0	15.0	3.0	Research Reliable	3.0	Research Reliable	n/a	n/a	19.0	10.0	n/a	n/a	n/a	Open
+50320	Autism	Autism	18.6	Male	R	108.0	89	127.0	PPVT	Ravens	20.0	17.0	9.0	Research Reliable	3.0	Research Reliable	n/a	n/a	20.0	10.0	1	Paroxetine; Lisdexamfetamine	n/a	Open
+50321	Autism	Autism	18.0	Female	R	98.5	116	81.0	PPVT	Ravens	21.0	15.0	5.0	Research Reliable	3.0	Research Reliable	n/a	n/a	12.0	7.0	1	Aripiprazole; Synthroid	n/a	Open
+50322	Autism	Autism	12.4	Male	R	92.5	103	82.0	PPVT	Ravens	17.0	13.0	6.0	Research Reliable	3.0	Research Reliable	n/a	n/a	12.0	7.0	1	Sertraline; Ziprasidone; Lisdexamfetamine	n/a	Open
+50323	Autism	Autism	14.2	Male	R	125.0	135	115.0	PPVT	Ravens	22.0	19.0	4.0	Research Reliable	3.0	Research Reliable	n/a	n/a	14.0	8.0	1	Sertraline	n/a	Open
+50324	Autism	Autism	13.8	Male	R	124.5	136	113.0	PPVT	Ravens	23.0	17.0	5.0	Research Reliable	3.0	Research Reliable	n/a	n/a	12.0	7.0	0	n/a	n/a	Open
+50325	Autism	Aspergers	13.1	Male	R	77.0	95	59.0	PPVT	Ravens	23.0	16.0	2.0	Research Reliable	3.0	n/a	n/a	n/a	n/a	n/a	1	Methylphenidate extended release; Risperidone; Methylphenidate; Guanfacine	No	Open
+50326	Autism	Autism	12.0	Male	R	79.0	88	70.0	PPVT	Ravens	26.0	16.0	6.0	Research Reliable	3.0	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50327	Control	Control	15.3	Male	L	111.0	107	115.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50328	Control	Control	17.4	Male	R	91.5	87	96.0	PPVT    	Ravens  	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50329	Control	Control	17.1	Male	R	100.0	107	93.0	PPVT    	Ravens  	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50330	Control	Control	16.1	Male	R	120.0	147	93.0	PPVT    	Ravens  	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50331	Control	Control	17.2	Male	L	n/a	138	n/a	PPVT    	Ravens  	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50332	Control	Control	10.4	Male	R	103.5	121	86.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50333	Control	Control	10.2	Male	R	100.5	101	100.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50334	Control	Control	11.0	Male	R	108.0	108	108.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50335	Control	Control	17.8	Male	R	108.0	120	96.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50336	Control	Control	14.3	Female	R	108.0	113	103.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50337	Control	Control	11.8	Male	R	112.0	126	98.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50338	Control	Control	13.5	Female	R	106.5	111	102.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50339	Control	Control	18.0	Male	R	n/a	119	n/a	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50340	Control	Control	16.1	Female	R	110.0	110	110.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50341	Control	Control	18.2	Female	R	n/a	123	n/a	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50342	Control	Control	12.6	Male	R	103.5	107	100.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50343	Control	Control	13.8	Female	R	124.5	136	113.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50344	Control	Control	18.2	Male	R	121.5	126	117.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50345	Control	Control	17.3	Male	R	118.5	122	115.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50346	Control	Control	18.9	Male	R	115.5	120	111.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50347	Control	Control	15.6	Male	R	122.0	129	115.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1	Levothyroxine	n/a	Open
+50348	Control	Control	19.2	Female	R	112.5	114	111.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50349	Control	Control	18.9	Male	R	111.0	116	106.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50350	Control	Control	12.4	Male	R	109.5	109	110.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50351	Control	Control	16.8	Male	R	116.0	107	125.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50352	Control	Control	15.5	Male	L	113.5	121	106.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50353	Control	Control	13.1	Female	R	89.0	96	82.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50354	Control	Control	14.0	Female	R	103.0	110	96.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50355	Control	Control	10.9	Male	R	127.5	138	117.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50356	Control	Control	17.2	Female	L	92.5	86	99.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50357	Control	Control	9.5	Female	R	92.5	103	82.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50358	Control	Control	9.8	Male	R	99.5	106	93.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50359	Control	Control	10.4	Male	R	85.0	95	75.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50360	Control	Control	13.9	Male	R	113.5	119	108.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50361	Control	Control	18.3	Female	n/a	106.5	100	113.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50362	Control	Control	11.2	Male	L	108.0	106	110.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50363	Control	Control	9.8	Male	R	104.5	103	106.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50364	Control	Control	10.8	Male	R	97.0	102	92.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50365	Control	Control	15.6	Male	L	106.5	98	115.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50366	Control	Control	8.2	Male	n/a	102.0	114	90.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50367	Control	Control	10.8	Male	n/a	105.0	112	98.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50368	Control	Control	17.9	Male	R	118.5	124	113.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50369	Control	Control	14.8	Female	R	96.5	97	96.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50370	Control	Control	12.8	Male	R	93.5	98	89.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50371	Control	Control	12.2	Male	R	97.5	123	72.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Open
+50372	Control	Control	10.2	Male	R	107.5	109	106.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50373	Control	Control	17.2	Female	R	94.0	94	94.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50374	Control	Control	9.7	Female	R	106.0	120	92.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50375	Control	Control	11.6	Female	R	123.5	137	110.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50376	Control	Control	9.2	Male	R	98.5	118	79.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50377	Control	Control	11.5	Male	R	113.5	129	98.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50378	Control	Control	11.6	Male	L	114.0	135	93.0	PPVT    	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50379	Control	Control	14.3	Female	R	104.0	116	92.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50380	Control	Control	17.4	Female	L	95.5	88	103.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open
+50381	Control	Control	16.5	Male	R	114.5	121	108.0	PPVT	Ravens	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	n/a	Open

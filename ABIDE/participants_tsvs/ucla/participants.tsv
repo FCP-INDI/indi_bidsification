@@ -1,28 +1,28 @@
 participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	viq_test_type	piq_test_type	adi_r_social_total_a	adi_r_verbal_total_bv	adi_rrb_total_c	adi_r_onset_total_d	adi_r_rsrch_reliable	ados_module	ados_total	ados_comm	ados_social	ados_stereo_behav	ados_rsrch_reliable	ados_gotham_socaffect	ados_gotham_rrb	ados_gotham_total	ados_gotham_severity	current_med_status	medication_name	eye_status_at_scan	age_at_mprage
-51291	1	1	16.47	1	R	86	83	91	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	23.0	15.0	9.0	4.0	1.0	4.0	11.0	3.0	8.0	1.0	1.0	n/a	n/a	n/a	n/a	0	n/a	1	16.63
-51292	1	1	12.24	1	R	75	83	79	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	10.0	11.0	6.0	2.0	1.0	3.0	11.0	2.0	9.0	4.0	1.0	9.0	4.0	13.0	8.0	1	Methylphenidate Extended Release	1	12.24
-51293	1	1	13.08	1	R	92	102	90	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	23.0	15.0	8.0	2.0	1.0	3.0	16.0	4.0	12.0	6.0	1.0	11.0	7.0	18.0	10.0	1	Escitalopram; Valproic Acid; Guanfacine	1	13.08
-51294	1	1	11.7	1	R	87	89	90	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	22.0	24.0	8.0	5.0	1.0	3.0	9.0	1.0	8.0	2.0	1.0	7.0	3.0	10.0	6.0	1	Atomoxetine; Methylphenidate transdermal patch	1	12.06
-51295	1	1	10.04	1	L	108	95	120	WASI	WASI	WASI	21.0	13.0	9.0	4.0	1.0	3.0	14.0	4.0	10.0	2.0	1.0	11.0	1.0	12.0	7.0	1	Methylphenidate transdermal patch	1	10.33
-51296	1	1	11.16	1	R	77	71	85	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	27.0	16.0	9.0	5.0	1.0	3.0	17.0	6.0	11.0	5.0	1.0	14.0	5.0	19.0	10.0	1	Dexmethylphenidate; Citalopram; Atomoxetine; Methylphenidate transdermal patch	1	11.16
-51297	1	1	14.27	1	L	88	98	87	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	28.0	20.0	12.0	3.0	1.0	3.0	14.0	4.0	10.0	2.0	1.0	12.0	3.0	15.0	9.0	0	n/a	1	14.27
-51298	1	1	10.57	1	R	118	104	132	WASI	WASI	WASI	21.0	16.0	5.0	2.0	1.0	3.0	15.0	5.0	10.0	3.0	1.0	13.0	4.0	17.0	9.0	1	Risperidone	1	10.69
-51299	1	1	14.77	1	R	104	106	99	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	8.0	4.0	4.0	0.0	1.0	3.0	9.0	2.0	7.0	1.0	1.0	8.0	3.0	11.0	7.0	1	Dextroamphetamine and Amphetamine; Risperidone; Fluoxetine	1	14.77
-51300	1	1	14.08	1	L	92	104	89	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	14.0	10.0	1.0	4.0	1.0	3.0	13.0	4.0	9.0	1.0	1.0	10.0	2.0	12.0	7.0	1	Methylphenidate transdermal patch	1	14.08
-51301	1	1	13.28	1	R	91	108	86	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	25.0	19.0	4.0	3.0	1.0	3.0	15.0	4.0	11.0	4.0	1.0	11.0	4.0	15.0	9.0	0	n/a	1	13.28
-51302	1	1	10.85	1	R	87	75	97	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	25.0	19.0	7.0	4.0	1.0	3.0	15.0	5.0	10.0	2.0	1.0	13.0	3.0	16.0	9.0	0	n/a	1	10.85
-51303	2	0	13.0	2	R	99	95	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	13.12
-51304	2	0	10.53	1	R	120	120	116	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	10.53
-51305	2	0	12.64	2	R	102	105	99	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	12.64
-51306	2	0	11.66	1	R	119	115	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	11.66
-51307	2	0	12.15	1	R	128	127	124	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	12.15
-51308	2	0	9.79	1	R	124	125	118	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	10.08
-51309	2	0	11.9	1	R	107	116	97	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	11.93
-51310	2	0	11.7	1	R	87	90	88	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	n/a
-51311	2	0	11.95	1	R	103	96	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	11.95
-51312	2	0	12.9	1	R	123	123	116	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	12.9
-51313	2	0	13.36	1	R	112	112	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	Levothyroxine	1	13.36
-51314	2	0	13.12	1	R	97	106	89	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	13.12
-51315	2	0	13.63	1	R	118	115	117	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	13.63
-51316	2	0	12.66	1	L	94	87	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	12.66
-51317	1	1	12.82	1	R	102	99	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0	n/a	1	12.82
+51291	Autism	Autism	16.47	Male	R	86	83	91	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	23.0	15.0	9.0	4.0	Research Reliable	4.0	11.0	3.0	8.0	1.0	Research Reliable	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	16.63
+51292	Autism	Autism	12.24	Male	R	75	83	79	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	10.0	11.0	6.0	2.0	Research Reliable	3.0	11.0	2.0	9.0	4.0	Research Reliable	9.0	4.0	13.0	8.0	Taking Medication	Methylphenidate Extended Release	Open	12.24
+51293	Autism	Autism	13.08	Male	R	92	102	90	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	23.0	15.0	8.0	2.0	Research Reliable	3.0	16.0	4.0	12.0	6.0	Research Reliable	11.0	7.0	18.0	10.0	Taking Medication	Escitalopram; Valproic Acid; Guanfacine	Open	13.08
+51294	Autism	Autism	11.7	Male	R	87	89	90	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	22.0	24.0	8.0	5.0	Research Reliable	3.0	9.0	1.0	8.0	2.0	Research Reliable	7.0	3.0	10.0	6.0	Taking Medication	Atomoxetine; Methylphenidate transdermal patch	Open	12.06
+51295	Autism	Autism	10.04	Male	L	108	95	120	WASI	WASI	WASI	21.0	13.0	9.0	4.0	Research Reliable	3.0	14.0	4.0	10.0	2.0	Research Reliable	11.0	1.0	12.0	7.0	Taking Medication	Methylphenidate transdermal patch	Open	10.33
+51296	Autism	Autism	11.16	Male	R	77	71	85	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	27.0	16.0	9.0	5.0	Research Reliable	3.0	17.0	6.0	11.0	5.0	Research Reliable	14.0	5.0	19.0	10.0	Taking Medication	Dexmethylphenidate; Citalopram; Atomoxetine; Methylphenidate transdermal patch	Open	11.16
+51297	Autism	Autism	14.27	Male	L	88	98	87	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	28.0	20.0	12.0	3.0	Research Reliable	3.0	14.0	4.0	10.0	2.0	Research Reliable	12.0	3.0	15.0	9.0	Not Taking Medication	n/a	Open	14.27
+51298	Autism	Autism	10.57	Male	R	118	104	132	WASI	WASI	WASI	21.0	16.0	5.0	2.0	Research Reliable	3.0	15.0	5.0	10.0	3.0	Research Reliable	13.0	4.0	17.0	9.0	Taking Medication	Risperidone	Open	10.69
+51299	Autism	Autism	14.77	Male	R	104	106	99	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	8.0	4.0	4.0	0.0	Research Reliable	3.0	9.0	2.0	7.0	1.0	Research Reliable	8.0	3.0	11.0	7.0	Taking Medication	Dextroamphetamine and Amphetamine; Risperidone; Fluoxetine	Open	14.77
+51300	Autism	Autism	14.08	Male	L	92	104	89	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	14.0	10.0	1.0	4.0	Research Reliable	3.0	13.0	4.0	9.0	1.0	Research Reliable	10.0	2.0	12.0	7.0	Taking Medication	Methylphenidate transdermal patch	Open	14.08
+51301	Autism	Autism	13.28	Male	R	91	108	86	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	25.0	19.0	4.0	3.0	Research Reliable	3.0	15.0	4.0	11.0	4.0	Research Reliable	11.0	4.0	15.0	9.0	Not Taking Medication	n/a	Open	13.28
+51302	Autism	Autism	10.85	Male	R	87	75	97	WISC_IV_FULL	WISC_IV_FULL	WISC_IV_FULL	25.0	19.0	7.0	4.0	Research Reliable	3.0	15.0	5.0	10.0	2.0	Research Reliable	13.0	3.0	16.0	9.0	Not Taking Medication	n/a	Open	10.85
+51303	Control	Control	13.0	Female	R	99	95	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	13.12
+51304	Control	Control	10.53	Male	R	120	120	116	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	10.53
+51305	Control	Control	12.64	Female	R	102	105	99	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	12.64
+51306	Control	Control	11.66	Male	R	119	115	119	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	11.66
+51307	Control	Control	12.15	Male	R	128	127	124	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	12.15
+51308	Control	Control	9.79	Male	R	124	125	118	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	10.08
+51309	Control	Control	11.9	Male	R	107	116	97	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	11.93
+51310	Control	Control	11.7	Male	R	87	90	88	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	n/a
+51311	Control	Control	11.95	Male	R	103	96	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	11.95
+51312	Control	Control	12.9	Male	R	123	123	116	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	12.9
+51313	Control	Control	13.36	Male	R	112	112	109	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	Levothyroxine	Open	13.36
+51314	Control	Control	13.12	Male	R	97	106	89	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	13.12
+51315	Control	Control	13.63	Male	R	118	115	117	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	13.63
+51316	Control	Control	12.66	Male	L	94	87	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	12.66
+51317	Autism	Autism	12.82	Male	R	102	99	103	WASI	WASI	WASI	n/a	n/a	n/a	n/a	Research Reliable	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	Not Taking Medication	n/a	Open	12.82

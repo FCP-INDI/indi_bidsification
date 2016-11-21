@@ -1,36 +1,30 @@
-participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	viq	piq	fiq_test_type	srs_raw_total	srs_awareness	srs_cognition	srs_communication	srs_motivation	srs_mannerisms	scq_total	eye_status_at_scan
-50722	2	0	13.8	2	L	86	89	WISC_III_DUTCH	36	5	10	10	7	4	2	2
-50723	2	0	13.8	2	L	97	100	WISC_III_DUTCH	51	9	12	14	12	4	2	2
-50724	2	0	15.1	1	R	103	106	WISC_III_DUTCH	53	11	6	20	9	7	15	2
-50725	2	0	14.2	1	L	105	126	WISC_III_DUTCH	30	7	5	10	4	4	10	2
-50726	2	0	16.6	1	R	130	106	WISC_III_DUTCH	17	5	4	4	3	1	1	2
-50727	2	0	13.9	1	L->R	122	111	WISC_III_DUTCH	14	4	0	8	2	0	2	2
-50728	2	0	15.6	1	R	116	109	WISC_III_DUTCH	13	2	2	3	5	1	3	2
-50730	2	0	12.3	2	R	111	109	WISC_III_DUTCH	11	5	1	3	2	0	0	2
-50731	2	0	16.2	1	R	124	111	WISC_III_DUTCH	2	3	2	0	2	0	2	2
-50732	2	0	12.4	1	R	127	120	WISC_III_DUTCH	10	3	2	0	3	2	1	2
-50733	2	0	14.7	1	R	124	111	WISC_III_DUTCH	21	2	3	8	8	0	2	2
-50734	2	0	16.6	1	R	97	97	WISC_III_DUTCH	14	7	0	1	3	3	9	2
-50735	2	0	14.3	2	R	103	103	WISC_III_DUTCH	10	2	4	3	1	0	8	2
-50736	2	0	13.6	2	R	119	111	WISC_III_DUTCH	5	1	3	1	0	0	2	2
-50737	2	0	12.2	1	R	119	103	WISC_III_DUTCH	11	1	2	3	3	2	8	2
-50738	2	0	12.8	1	R	124	103	WISC_III_DUTCH	6	1	0	0	0	5	1	2
-50739	2	0	15.2	1	R	119	103	WISC_III_DUTCH	7	1	0	0	0	6	1	2
-50740	2	0	12.4	1	R	127	97	WISC_III_DUTCH	9	2	2	2	2	1	0	2
-50741	2	0	14.2	1	R	119	114	WISC_III_DUTCH	18	4	2	7	3	2	2	2
-50742	2	0	16.9	1	R	122	103	WISC_III_DUTCH	35	9	7	11	3	5	2	2
-50743	1	1	14.2	2	R	62	103	WISC_III_DUTCH	64	5	13	21	19	6	25	2
-50744	1	1	12.5	2	R	100	94	WISC_III_DUTCH	80	7	14	24	19	16	20	2
-50745	1	1	13.0	1	R	103	86	WISC_III_DUTCH	95	11	18	31	16	16	27	2
-50746	1	1	13.8	1	R	84	109	WISC_III_DUTCH	93	11	18	31	17	16	16	2
-50747	1	1	14.2	1	R	84	106	WISC_III_DUTCH	137	13	26	46	29	23	23	2
-50748	1	1	14.2	1	R	105	106	WISC_III_DUTCH	124	18	23	44	19	20	27	2
-50749	1	1	15.3	2	L	70	102	WISC_III_DUTCH	82	9	18	27	12	16	6	2
-50750	1	1	16.8	1	R	50	85	WISC_III_DUTCH	139	13	29	51	21	25	37	2
-50751	1	1	12.1	1	R	124	132	WISC_III_DUTCH	27	6	3	10	6	2	16	2
-50752	1	1	14.7	1	L	92	117	WISC_III_DUTCH	44	11	6	12	7	8	5	2
-50753	1	1	14.3	1	R	78	86	WISC_III_DUTCH	133	18	27	44	23	21	29	2
-50754	1	1	12.3	1	R	97	97	WISC_III_DUTCH	80	8	14	24	18	16	14	2
-50755	1	1	12.2	1	R	116	83	WISC_III_DUTCH	94	12	17	20	24	21	26	2
-50756	1	1	14.9	1	R	92	114	WISC_III_DUTCH	115	13	23	38	26	15	14	2
-50757	1	1	14.3	1	R	70	83	WISC_III_DUTCH	59	11	11	17	7	13	18	2
+participant_id	dx_group	dsm_iv_tr	age_at_scan	sex	handedness_category	fiq	viq	piq	fiq_test_type	viq_test_type	piq_test_type	srs_version	srs_raw_total	srs_awareness	srs_cognition	srs_communication	srs_motivation	srs_mannerisms	aq_total	current_med_status	medication_name	off_stimulants_at_scan	eye_status_at_scan
+50682	Control	Control	23	Male	R	128	118	132	WAIS_III	WAIS_III	WAIS_III	Adult	38	3	7	15	6	7	10	Not Taking Medication	0	n/a	Open
+50683	Control	Control	24	Male	R	106	113	96	WAIS_III	WAIS_III	WAIS_III	Adult	35	8	6	15	4	2	12	Not Taking Medication	0	n/a	Open
+50685	Control	Control	23	Male	R	112	114	108	WAIS_III	WAIS_III	WAIS_III	Adult	32	5	7	9	3	8	11	Not Taking Medication	0	n/a	Open
+50686	Autism	Autism	19	Male	R	92	88	101	WAIS_III	WAIS_III	WAIS_III	Adult	68	10	15	22	15	6	33	Not Taking Medication	0	n/a	Open
+50687	Control	Control	22	Male	R	124	121	117	WAIS_III	WAIS_III	WAIS_III	Adult	54	6	11	15	8	14	15	Not Taking Medication	0	n/a	Open
+50688	Control	Control	21	Male	R	98	103	93	WAIS_III	WAIS_III	WAIS_III	Adult	53	8	10	16	8	11	8	Not Taking Medication	0	n/a	Open
+50689	Autism	Autism	21	Male	R	106	115	93	WAIS_III	WAIS_III	WAIS_III	Adult	55	4	11	17	14	9	32	Not Taking Medication	0	n/a	Open
+50690	Autism	Autism	22	Male	R	101	95	111	WAIS_III	WAIS_III	WAIS_III	Adult	31	5	7	8	6	5	8	Not Taking Medication	0	n/a	Open
+50691	Control	Control	22	Male	R	146	133	155	WAIS_III	WAIS_III	WAIS_III	Adult	37	4	7	13	8	5	15	Not Taking Medication	0	n/a	Open
+50692	Control	Control	22	Male	R	109	112	106	WAIS_III	WAIS_III	WAIS_III	Adult	41	8	5	14	6	8	17	Not Taking Medication	0	n/a	Open
+50693	Autism	Autism	22	Male	R	128	128	120	WAIS_III	WAIS_III	WAIS_III	Adult	72	9	15	26	10	12	30	Not Taking Medication	0	n/a	Open
+50694	Autism	Autism	19	Male	R	109	103	117	WAIS_III	WAIS_III	WAIS_III	Adult	88	12	20	30	16	10	31	Not Taking Medication	0	n/a	Open
+50695	Autism	Autism	19	Male	R	101	126	74	WAIS_III	WAIS_III	WAIS_III	Adult	77	10	10	24	18	15	36	Not Taking Medication	0	n/a	Open
+50696	Autism	Autism	20	Male	R	121	118	119	WAIS_III	WAIS_III	WAIS_III	Adult	119	16	24	36	20	23	40	Taking Medication	Fluoxetine Hcl; Bupropion	Yes	Open
+50697	Autism	Autism	19	Male	R	101	99	106	WAIS_III	WAIS_III	WAIS_III	Adult	68	8	16	19	13	12	23	Not Taking Medication	0	n/a	Open
+50698	Control	Control	28	Male	R	109	107	113	WAIS_III	WAIS_III	WAIS_III	Adult	33	10	4	9	5	5	9	Not Taking Medication	0	n/a	Open
+50699	Control	Control	21	Male	R	104	114	92	WAIS_III	WAIS_III	WAIS_III	Adult	8	1	2	0	5	0	10	Not Taking Medication	0	n/a	Open
+50700	Autism	Autism	23	Male	L	128	110	149	WAIS_III	WAIS_III	WAIS_III	Adult	98	13	19	29	21	16	37	Taking Medication	Methylphenidate; Risperidone	Yes	Open
+50701	Control	Control	18	Male	R	109	131	84	WAIS_III	WAIS_III	WAIS_III	Adult	36	8	5	9	4	10	7	Not Taking Medication	0	n/a	Open
+50702	Autism	Autism	18	Male	R	100	110	88	WAIS_III	WAIS_III	WAIS_III	Adult	80	9	14	28	15	14	33	Taking Medication	Methylphenidate; Risperidone	Yes	Open
+50703	Control	Control	29	Male	R	108	112	103	WAIS_III	WAIS_III	WAIS_III	Adult	58	11	7	21	13	6	11	Not Taking Medication	0	n/a	Open
+50704	Autism	Autism	29	Male	R	119	121	113	WAIS_III	WAIS_III	WAIS_III	Adult	96	9	11	31	25	20	30	Taking Medication	Lamotrigine; Lithium Carbonate	Yes	Open
+50705	Autism	Autism	24	Male	R	111	113	107	WAIS_III	WAIS_III	WAIS_III	Adult	62	10	8	23	11	10	20	Not Taking Medication	0	n/a	Open
+50706	Control	Control	22	Male	L	134	136	123	WAIS_III	WAIS_III	WAIS_III	Adult	38	6	1	11	13	7	11	Not Taking Medication	0	n/a	Open
+50707	Control	Control	22	Male	R	113	121	101	WAIS_III	WAIS_III	WAIS_III	Adult	103	11	22	34	20	16	32	Not Taking Medication	0	n/a	Open
+50708	Autism	Autism	32	Male	R	89	97	84	WAIS_III	WAIS_III	WAIS_III	Adult	83	7	19	28	12	17	33	Taking Medication	Benperidol	Yes	Open
+50709	Control	Control	25	Male	R	116	121	107	WAIS_III	WAIS_III	WAIS_III	Adult	65	8	9	27	13	8	17	Not Taking Medication	0	n/a	Open
+50710	Control	Control	27	Male	R	106	106	107	WAIS_III	WAIS_III	WAIS_III	Adult	23	6	6	8	3	0	7	Not Taking Medication	0	n/a	Open
+50711	Autism	Autism	19	Male	R	126	123	121	WAIS_III	WAIS_III	WAIS_III	Adult	80	8	15	29	14	15	33	Not Taking Medication	0	n/a	Open
