@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import os, sys
-from glob import glob
 import pandas as pd
 
 codes = {'SJTYP' : {1 : 'MTA Randomized Trial Subject', 2 : 'Local Normative Comparison Group (LNCG) Subject' } , \
@@ -34,20 +33,22 @@ codes = {'SJTYP' : {1 : 'MTA Randomized Trial Subject', 2 : 'Local Normative Com
 
 pheno_dir = os.path.abspath(sys.argv[1])
 out_dir = os.path.abspath(sys.argv[2])
-
 pheno_file = os.path.join(pheno_dir, 'mta_1_phenotypic_data.csv')
-# Get site name and set up output path.
-site = 'mta_1'
-if not os.path.exists(os.path.join(out_dir,site)):
-        os.makedirs(os.path.join(out_dir,site))
-target = os.path.join(out_dir,site,'participants.tsv')
 # Read in phenotypic csv as data frame.
 pheno = pd.read_csv(pheno_file,na_values=['.',-1, '#'])
 # Make column values more verbose
 pheno = pheno.replace(codes)
 # Make columns lowercase.
 pheno.columns = map(str.lower, pheno.columns)
-# Rename 'sub_id' to BIDS standard 'participant_id'
+# Rename 'subid' to BIDS standard 'participant_id'
 pheno = pheno.rename(columns = {'subid':'participant_id'})
-# Save out.
-pheno.to_csv(target,sep='\t',na_rep='n/a',header=True,index=False)
+
+# Make participants.tsv files for all sites separately.
+for site in pheno['site_id'].unique():
+    # Get site name and set up output path.
+    if not os.path.exists(os.path.join(out_dir,'mta_1',str(site))):
+            os.makedirs(os.path.join(out_dir,'mta_1',str(site)))
+    target = os.path.join(out_dir,'mta_1',str(site),'participants.tsv')
+    site_df = pheno[pheno['site_id']==site].drop('site_id',1)
+    # Save out.
+    site_df.to_csv(target,sep='\t',na_rep='n/a',header=True,index=False)
