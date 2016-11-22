@@ -64,18 +64,22 @@ r"\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi\5"]
 
 }
 
-srclist_filt=[]
-destlist=[]
 
-for sl in sorted(srclist):
-    if re.match(matchdct['dti'][0],sl):
-        print sl,re.sub(matchdct['dti'][0],matchdct['dti'][1],sl)
-        srclist_filt.append(sl)
-        destlist.append(re.sub(matchdct['dti'][0],matchdct['dti'][1],sl))
+for mk in matchdct.keys():
+    print mk
+
+    srclist_filt=[]
+    destlist=[]
+
+    for sl in sorted(srclist):
+        if re.match(matchdct['dti'][0],sl):
+            print sl,re.sub(matchdct['dti'][0],matchdct['dti'][1],sl)
+            srclist_filt.append(sl)
+            destlist.append(re.sub(matchdct['dti'][0],matchdct['dti'][1],sl))
 
 
-# Note might error with make_public=True, removing it stops error, unsure why error occurs
-aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=True,make_public=True)
+    # Note might error with make_public=True, removing it stops error, unsure why error occurs
+    aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=True,make_public=True)
 
 
 r"""
