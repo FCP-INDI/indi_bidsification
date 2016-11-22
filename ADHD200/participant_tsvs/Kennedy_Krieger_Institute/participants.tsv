@@ -1,0 +1,23 @@
+participant_id	gender	age	handedness	dx	iq_measure	verbal_iq	performance_iq	full4_iq	qc_rest_1	qc_anatomical_1
+20001	Male	10.09	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	104.0	117.0	108.0	Pass	Pass
+20002	Female	10.97	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	112.0	112.0	111.0	Pass	Pass
+20003	Male	9.47	Left	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	128.0	117.0	120.0	Pass	Pass
+20008	Male	8.32	Right	ADHD-Combined	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	102.0	117.0	104.0	Pass	Pass
+20010	Male	8.39	Right	ADHD-Combined	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	119.0	143.0	126.0	Pass	Pass
+20014	Male	10.63	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	116.0	115.0	116.0	Pass	Pass
+20015	Male	8.39	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	130.0	121.0	125.0	Pass	Pass
+20016	Male	11.32	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	106.0	115.0	114.0	Pass	Pass
+20017	Male	9.5	Right	ADHD-Combined	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	104.0	100.0	102.0	Pass	Pass
+20021	Male	11.82	Left	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	110.0	112.0	109.0	Pass	Pass
+20022	Male	11.77	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	121.0	112.0	117.0	Pass	Pass
+20001	Male	10.09	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	104.0	117.0	108.0	Pass	Pass
+20002	Female	10.97	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	112.0	112.0	111.0	Pass	Pass
+20003	Male	9.47	Left	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	128.0	117.0	120.0	Pass	Pass
+20008	Male	8.32	Right	ADHD-Combined	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	102.0	117.0	104.0	Pass	Pass
+20010	Male	8.39	Right	ADHD-Combined	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	119.0	143.0	126.0	Pass	Pass
+20014	Male	10.63	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	116.0	115.0	116.0	Pass	Pass
+20015	Male	8.39	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	130.0	121.0	125.0	Pass	Pass
+20016	Male	11.32	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	106.0	115.0	114.0	Pass	Pass
+20017	Male	9.5	Right	ADHD-Combined	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	104.0	100.0	102.0	Pass	Pass
+20021	Male	11.82	Left	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	110.0	112.0	109.0	Pass	Pass
+20022	Male	11.77	Right	Typically Developing Children	Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)	121.0	112.0	117.0	Pass	Pass

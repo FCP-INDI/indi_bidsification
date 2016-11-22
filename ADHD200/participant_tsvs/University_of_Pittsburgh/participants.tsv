@@ -1,0 +1,19 @@
+participant_id	gender	age	handedness	dx	med_status	iq_measure	verbal_iq	performance_iq	full4_iq	qc_rest_1	qc_anatomical_1
+25000	Male	15.29	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	110.0	106.0	109.0	Pass	Pass
+25001	Female	14.53	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	93.0	86.0	87.0	Pass	Pass
+25002	Male	17.03	Right	ADHD-Inattentive	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	99.0	107.0	104.0	Pass	Pass
+25003	Male	14.4	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	116.0	101.0	109.0	Pass	Pass
+25008	Male	15.9	Right	ADHD-Inattentive	Not Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	127.0	105.0	117.0	Pass	Pass
+25009	Male	13.87	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	135.0	119.0	130.0	Pass	Pass
+25012	Female	15.04	Right	ADHD-Inattentive	Not Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	95.0	88.0	90.0	Pass	Pass
+25013	Male	13.64	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	114.0	109.0	113.0	Pass	Questionable
+25014	Male	13.72	Right	ADHD-Inattentive	Not Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	103.0	103.0	104.0	Pass	Pass
+25000	Male	15.29	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	110.0	106.0	109.0	Pass	Pass
+25001	Female	14.53	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	93.0	86.0	87.0	Pass	Pass
+25002	Male	17.03	Right	ADHD-Inattentive	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	99.0	107.0	104.0	Pass	Pass
+25003	Male	14.4	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	116.0	101.0	109.0	Pass	Pass
+25008	Male	15.9	Right	ADHD-Inattentive	Not Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	127.0	105.0	117.0	Pass	Pass
+25009	Male	13.87	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	135.0	119.0	130.0	Pass	Pass
+25012	Female	15.04	Right	ADHD-Inattentive	Not Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	95.0	88.0	90.0	Pass	Pass
+25013	Male	13.64	Right	Typically Developing Children	Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	114.0	109.0	113.0	Pass	Questionable
+25014	Male	13.72	Right	ADHD-Inattentive	Not Medication Naive	Wechsler Abbreviated Scale of Intelligence (WASI)	103.0	103.0	104.0	Pass	Pass
