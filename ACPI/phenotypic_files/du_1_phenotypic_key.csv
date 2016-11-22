@@ -1,0 +1,13 @@
+COLUMN LABEL,DESCRIPTION,DATA TYPE,REQUIREMENT LEVEL
+SUB_ID,INDI Subject ID,integer,required
+SESSION,"Scan Sessions (1,2,3,etc)",string,required
+SCANNUM,Scan number (within session),integer,
+SCANDESC,Scan description (Pre or Post),string,
+AGE_AT_SCAN_1,Age at scan session 1 in years (1 decimal place),float,required
+SEX,"Sex (1: female, 2: male)",integer,required
+HANDEDNESS,"1: left, 2: right, 3: ambidextrous",integer,required
+RESTING_STATE_INSTRUCTION,Instructions,string,required
+VISUAL_STIMULATION_CONDITION,"Visual stimulation for rest (1: fixation, 2: blank screen, 3: word, 4:eyes closed, 5: other",integer,required
+WEIGHT,Weight in kg,float,recommended
+TIME_OF_DAY,"0 [0-3:59], 1[4:00-7:59], 2[8:00-11:59], 3[12:00-15:59], 4 [16-19:59], 5[20:00-23:59]",integer,recommended
+SEASON,"0: winter, 1: spring, 2: summer, 3: fall",integer,recommended
