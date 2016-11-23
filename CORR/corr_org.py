@@ -10,8 +10,12 @@ keyspath=sys.argv[1]
 bucket = fetch_creds.return_bucket(keyspath, 'fcp-indi')
 
 
+#Be sure to put in the last forward slash as may act as wildcard otherwise
+ipdir='data/Projects/CORR/RawData/'
+opdir='data/Projects/CORR/RawDataBIDs/'
+
 srclist=[]
-for i,k in enumerate(bucket.list(prefix='data/Projects/CORR/RawData')):
+for i,k in enumerate(bucket.list(prefix=ipdir)):
     srclist.append(k.name)
     print k.name
 
@@ -22,9 +26,9 @@ matchdct={
 ["(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat.nii.gz" ,
 r"\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_T1w.nii.gz"],
 
-'mpi_anat_comp': 
-[r"(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat_([a-z12\_]+).nii.gz" , 
-r"\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_acq-\5_run-\4_T1w.nii.gz"],
+#'mpi_anat_comp': 
+#[r"(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat_([a-z12\_]+).nii.gz" , 
+#r"\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_acq-\5_run-\4_T1w.nii.gz"],
 
 'dti' : 
  [r"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.nii.gz" , 
@@ -60,7 +64,8 @@ r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-checkerboard_acq-tr\4ms_run-\5_func.n
 
 'dti' : 
 [r"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti(.+)" , 
-r"\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi\5"]
+r"\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi\5"],
+
 
 }
 
@@ -72,10 +77,10 @@ for mk in matchdct.keys():
     destlist=[]
 
     for sl in sorted(srclist):
-        if re.match(matchdct['dti'][0],sl):
-            print sl,re.sub(matchdct['dti'][0],matchdct['dti'][1],sl)
+        if re.match(matchdct[mk][0],sl):
+            print sl,re.sub(matchdct[mk][0],matchdct[mk][1],sl)
             srclist_filt.append(sl)
-            destlist.append(re.sub(matchdct['dti'][0],matchdct['dti'][1],sl))
+            destlist.append(re.sub(matchdct[mk][0],matchdct[mk][1],sl).replace(ipdir,opdir))
 
 
     # Note might error with make_public=True, removing it stops error, unsure why error occurs
@@ -97,9 +102,6 @@ r"""
 # Breath Hold Checkerboard eyemovement MSIT
 
 # DTI
-"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.nii.gz" , "\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.nii.gz"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.bval" , "\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.bval"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.bvec" , "\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.bvec"
 
 # Fieldmaps
 "(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_magnitude.nii.gz" , "\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_magnitude.nii.gz"
