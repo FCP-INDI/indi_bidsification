@@ -2,14 +2,14 @@
 import os, sys
 import pandas as pd
 
-codes = { 'Site' : { 1 : 'Peking University' , \
-        2 : 'Bradley Hospital/Brown University' , \
-        3 : 'Kennedy Krieger Institute' , \
-        4 : 'NeuroIMAGE Sample' , \
-        5 : 'New York University Child Study Center' , \
-        6 : 'Oregon Health & Science University' , \
-        7 : 'University of Pittsburgh' , \
-        8 : 'Washington University in St. Louis' } , \
+codes = { 'Site' : { 1 : 'Peking_1' , \
+        2 : 'Brown' , \
+        3 : 'KKI' , \
+        4 : 'NeuroIMAGE' , \
+        5 : 'NYU' , \
+        6 : 'OHSU' , \
+        7 : 'Pittsburgh' , \
+        8 : 'WashU' } , \
         'Gender' : { 0 : 'Female', 1 : 'Male' } , \
         'Handedness' : { '0' : 'Left', '1' : 'Right', '2' : 'Ambidextrous' } , \
         'DX' : { 0 : 'Typically Developing Children', 1 : 'ADHD-Combined', \
