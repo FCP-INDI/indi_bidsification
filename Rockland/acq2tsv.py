@@ -1,7 +1,8 @@
+import os
 import json
 import pandas as pd
 import bioread
-from settings import ACQRELABELS
+from settings import ACQRELABELS, SERIESMAP
 
 def physio_to_tsv(source, target, despiked_target, start_time = 0):
     '''
@@ -76,4 +77,65 @@ def despike(ts, fac=5):
         ts[index]=(ts[index+1]+ts[index-1])/2
     return ts, idx
 
+def get_bids_path(filename):
+    '''
+    Desc:
+        Takes in a BIOPAC filename of the form <URSI>_<VISIT>_<SERIES> and converts it to a BIDS filename.
+        Displays an error for an unrecognized series or URSI.
+    Input:
+        filename (str) - The BIOPAC file name.
+    '''
+    flist = filename.split('_')
+    ursi = flist[0]
+    visit = flist[1]
+    series = '_'.join(flist[2:]).replace('.acq','')
+    if series in SERIESMAP.keys():
+        series = SERIESMAP[series]
+    else:
+        raise Exception
+    newfile = 'sub-%s_ses-%s_%s.tsv.gz' % (ursi, visit, series)
+    if 'dwi' in newfile:
+        newpath = os.path.join('sub-%s' % ursi ,'dwi',newfile)
+    else:
+        newpath = os.path.join('sub-%s' % ursi,'func',newfile)
+    return newpath
+
+if __name__ == '__main__':
+    '''
+    Takes in an input directory and converts to BIDS in a specified out directory.
+    '''
+    import sys
+    if len(sys.argv) != 3:
+        print 'Usage: python acq2tsv.py <input directory> <output directory>'
+        sys.exit(1)
+    indir = os.path.abspath(sys.argv[1])
+    outdir = os.path.abspath(sys.argv[2])
+   
+    # Check if input and output dirs exist
+    if not os.path.exists(indir):
+        sys.exit(1)
+    if not os.path.exists(outdir):
+        os.makedirs(outdir)
+
+    with open(os.path.join(outdir,'err.txt'), 'w') as err:
+        for dirpath, dirnames, filenames in os.walk(indir): 
+            for filename in filenames:
+                if '.acq' in filename:
+                    source = os.path.join(dirpath, filename)
+                    try:
+                        target = get_bids_path(filename)
+                        despiked_target = target.replace('_physio','_recording-despiked_physio')
+                        target = os.path.join(outdir, target)
+                        despiked_target = os.path.join(outdir, 'derivatives', target)
+                    except:
+                        print 'Could not get BIDS file path for %s.\n' % source
+                        print 'Correct filename / double check.'
+                        err.write('%s\n' % source)
+                        continue
+                    print '%s : %s : %s' % (source, target, despiked_target)
+                    
+                    if not os.path.isfile(target):
+                        if not os.path.exists(os.path.dirname(target)):
+                            os.makedirs(os.path.dirname(target))
+                        physio_to_tsv(source, target, despiked_target)
 
