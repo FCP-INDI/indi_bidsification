@@ -1,0 +1,11 @@
+subid,site,session,sex,age_at_scan_1,handedness,retest_design,retest_duration,retest_units,preceding_condition,visual_stimulation_condition,resting_state_instruction
+26017,Utah_2,Baseline,male,39,R,within and between,#,#,no active task,blank screen,Keep eyes open and let mind wander'
+26017,Utah_2,Retest_1,male,39,R,within and between,2,days,no active task,other,Watch Cartoons'
+26017,Utah_2,Retest_2,male,39,R,within and between,6,days,no active task,blank screen,Keep eyes open and let mind wander'
+26017,Utah_2,Retest_3,male,39,R,within and between,8,days,no active task,blank screen,Keep eyes open and let mind wander'
+26017,Utah_2,Retest_4,male,39,R,within and between,8,days,no active task,blank screen,Keep eyes open and let mind wander'
+26017,Utah_2,Retest_5,male,39,R,within and between,13,days,no active task,other,Watch Cartoons'
+26017,Utah_2,Retest_6,male,39,R,within and between,14,days,no active task,other,Watch Cartoons'
+26017,Utah_2,Retest_7,male,39,R,within and between,15,days,no active task,other,Watch Cartoons'
+26017,Utah_2,Retest_8,male,39,R,within and between,15,days,no active task,other,Watch Cartoons'
+26017,Utah_2,Retest_9,male,39,R,within and between,16,days,no active task,blank screen,Keep eyes open and let mind wander'

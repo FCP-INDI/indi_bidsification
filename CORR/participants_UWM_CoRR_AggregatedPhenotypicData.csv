@@ -1,0 +1,76 @@
+subid,site,session,sex,age_at_scan_1,handedness,retest_design,retest_duration,retest_units,preceding_condition,visual_stimulation_condition,resting_state_instruction
+27259,UWM,Baseline,male,22,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27259,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27259,UWM,retest_2,#,#,#,#,78,days,no active task,#,#
+27260,UWM,Baseline,female,30,Amb,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27260,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27260,UWM,retest_2,#,#,#,#,99,days,no active task,#,#
+27261,UWM,Baseline,female,25,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27261,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27261,UWM,retest_2,#,#,#,#,124,days,no active task,#,#
+27262,UWM,Baseline,male,23,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27262,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27262,UWM,retest_2,#,#,#,#,314,days,no active task,#,#
+27263,UWM,Baseline,female,27,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27263,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27263,UWM,retest_2,#,#,#,#,133,days,no active task,#,#
+27264,UWM,Baseline,male,22,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27264,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27264,UWM,retest_2,#,#,#,#,155,days,no active task,#,#
+27265,UWM,Baseline,male,23,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27265,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27265,UWM,retest_2,#,#,#,#,115,days,no active task,#,#
+27266,UWM,Baseline,female,29,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27266,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27266,UWM,retest_2,#,#,#,#,112,days,no active task,#,#
+27267,UWM,Baseline,female,21,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27267,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27267,UWM,retest_2,#,#,#,#,128,days,no active task,#,#
+27268,UWM,Baseline,male,24,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27268,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27268,UWM,retest_2,#,#,#,#,113,days,no active task,#,#
+27269,UWM,Baseline,female,23,Left,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27269,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27269,UWM,retest_2,#,#,#,#,121,days,no active task,#,#
+27270,UWM,Baseline,female,31,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27270,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27270,UWM,retest_2,#,#,#,#,77,days,no active task,#,#
+27271,UWM,Baseline,female,29,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27271,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27271,UWM,retest_2,#,#,#,#,130,days,no active task,#,#
+27272,UWM,Baseline,male,25,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27272,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27272,UWM,retest_2,#,#,#,#,121,days,no active task,#,#
+27273,UWM,Baseline,female,24,Amb,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27273,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27273,UWM,retest_2,#,#,#,#,106,days,no active task,#,#
+27274,UWM,Baseline,male,22,Amb,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27274,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27274,UWM,retest_2,#,#,#,#,148,days,no active task,#,#
+27275,UWM,Baseline,male,29,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27275,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27275,UWM,retest_2,#,#,#,#,116,days,no active task,#,#
+27276,UWM,Baseline,male,25,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27276,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27276,UWM,retest_2,#,#,#,#,81,days,no active task,#,#
+27277,UWM,Baseline,female,21,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27277,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27277,UWM,retest_2,#,#,#,#,78,days,no active task,#,#
+27278,UWM,Baseline,male,32,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27278,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27278,UWM,retest_2,#,#,#,#,70,days,no active task,#,#
+27279,UWM,Baseline,male,24,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27279,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27279,UWM,retest_2,#,#,#,#,63,days,no active task,#,#
+27280,UWM,Baseline,male,22,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27280,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27280,UWM,retest_2,#,#,#,#,69,days,no active task,#,#
+27281,UWM,Baseline,male,24,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27281,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27281,UWM,retest_2,#,#,#,#,92,days,no active task,#,#
+27282,UWM,Baseline,male,24,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27282,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27282,UWM,retest_2,#,#,#,#,56,days,no active task,#,#
+27283,UWM,Baseline,female,23,Right,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+27283,UWM,retest_1,#,#,#,#,30,minutes,no active task,#,#
+27283,UWM,retest_2,#,#,#,#,62,days,no active task,#,#

@@ -1,0 +1,123 @@
+participant_id,site,session,sex,age_at_scan_1,handedness,retest_design,retest_duration,retest_units,preceding_condition,visual_stimulation_condition,resting_state_instruction
+25921,BNU_2,Baseline,female,20.7,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25921,BNU_2,Retest_1,#,#,#,#,103,days,no active task,#,#
+25922,BNU_2,Baseline,female,21.7,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25922,BNU_2,Retest_1,#,#,#,#,178,days,no active task,#,#
+25923,BNU_2,Baseline,female,22.5,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25923,BNU_2,Retest_1,#,#,#,#,154,days,no active task,#,#
+25924,BNU_2,Baseline,female,21,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25924,BNU_2,Retest_1,#,#,#,#,179,days,no active task,#,#
+25925,BNU_2,Baseline,female,21.2,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25925,BNU_2,Retest_1,#,#,#,#,171,days,no active task,#,#
+25926,BNU_2,Baseline,male,22.2,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25926,BNU_2,Retest_1,#,#,#,#,168,days,no active task,#,#
+25927,BNU_2,Baseline,male,20.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25927,BNU_2,Retest_1,#,#,#,#,181,days,no active task,#,#
+25928,BNU_2,Baseline,male,20.2,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25928,BNU_2,Retest_1,#,#,#,#,168,days,no active task,#,#
+25929,BNU_2,Baseline,male,20.1,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25929,BNU_2,Retest_1,#,#,#,#,178,days,no active task,#,#
+25930,BNU_2,Baseline,male,22.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25930,BNU_2,Retest_1,#,#,#,#,157,days,no active task,#,#
+25931,BNU_2,Baseline,male,21.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25931,BNU_2,Retest_1,#,#,#,#,172,days,no active task,#,#
+25932,BNU_2,Baseline,male,20.9,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25932,BNU_2,Retest_1,#,#,#,#,173,days,no active task,#,#
+25933,BNU_2,Baseline,female,21.6,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25933,BNU_2,Retest_1,#,#,#,#,168,days,no active task,#,#
+25934,BNU_2,Baseline,male,20.9,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25934,BNU_2,Retest_1,#,#,#,#,168,days,no active task,#,#
+25935,BNU_2,Baseline,male,22,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25935,BNU_2,Retest_1,#,#,#,#,145,days,no active task,#,#
+25936,BNU_2,Baseline,male,22.5,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25936,BNU_2,Retest_1,#,#,#,#,150,days,no active task,#,#
+25937,BNU_2,Baseline,male,21.7,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25937,BNU_2,Retest_1,#,#,#,#,149,days,no active task,#,#
+25938,BNU_2,Baseline,male,21.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25938,BNU_2,Retest_1,#,#,#,#,163,days,no active task,#,#
+25939,BNU_2,Baseline,male,20.4,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25939,BNU_2,Retest_1,#,#,#,#,185,days,no active task,#,#
+25940,BNU_2,Baseline,male,20.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25940,BNU_2,Retest_1,#,#,#,#,188,days,no active task,#,#
+25941,BNU_2,Baseline,female,23.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25941,BNU_2,Retest_1,#,#,#,#,156,days,no active task,#,#
+25942,BNU_2,Baseline,female,21,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25942,BNU_2,Retest_1,#,#,#,#,150,days,no active task,#,#
+25943,BNU_2,Baseline,female,22.9,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25943,BNU_2,Retest_1,#,#,#,#,166,days,no active task,#,#
+25944,BNU_2,Baseline,female,21.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25944,BNU_2,Retest_1,#,#,#,#,155,days,no active task,#,#
+25945,BNU_2,Baseline,female,19.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25945,BNU_2,Retest_1,#,#,#,#,144,days,no active task,#,#
+25946,BNU_2,Baseline,male,19.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25946,BNU_2,Retest_1,#,#,#,#,175,days,no active task,#,#
+25947,BNU_2,Baseline,male,21.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25947,BNU_2,Retest_1,#,#,#,#,189,days,no active task,#,#
+25948,BNU_2,Baseline,female,21.5,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25948,BNU_2,Retest_1,#,#,#,#,167,days,no active task,#,#
+25949,BNU_2,Baseline,female,20.4,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25949,BNU_2,Retest_1,#,#,#,#,133,days,no active task,#,#
+25950,BNU_2,Baseline,female,21.7,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25950,BNU_2,Retest_1,#,#,#,#,150,days,no active task,#,#
+25951,BNU_2,Baseline,female,21.5,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25951,BNU_2,Retest_1,#,#,#,#,136,days,no active task,#,#
+25952,BNU_2,Baseline,female,19.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25952,BNU_2,Retest_1,#,#,#,#,159,days,no active task,#,#
+25953,BNU_2,Baseline,female,21.1,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25953,BNU_2,Retest_1,#,#,#,#,150,days,no active task,#,#
+25954,BNU_2,Baseline,female,22.7,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25954,BNU_2,Retest_1,#,#,#,#,158,days,no active task,#,#
+25955,BNU_2,Baseline,male,19.5,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25955,BNU_2,Retest_1,#,#,#,#,159,days,no active task,#,#
+25956,BNU_2,Baseline,male,21.4,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25956,BNU_2,Retest_1,#,#,#,#,159,days,no active task,#,#
+25957,BNU_2,Baseline,male,21.1,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25957,BNU_2,Retest_1,#,#,#,#,146,days,no active task,#,#
+25958,BNU_2,Baseline,male,20.1,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25958,BNU_2,Retest_1,#,#,#,#,179,days,no active task,#,#
+25959,BNU_2,Baseline,male,21.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25959,BNU_2,Retest_1,#,#,#,#,154,days,no active task,#,#
+25960,BNU_2,Baseline,male,21.1,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25960,BNU_2,Retest_1,#,#,#,#,185,days,no active task,#,#
+25961,BNU_2,Baseline,male,21.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25961,BNU_2,Retest_1,#,#,#,#,162,days,no active task,#,#
+25962,BNU_2,Baseline,male,21.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25962,BNU_2,Retest_1,#,#,#,#,162,days,no active task,#,#
+25963,BNU_2,Baseline,male,21.6,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25963,BNU_2,Retest_1,#,#,#,#,175,days,no active task,#,#
+25964,BNU_2,Baseline,male,22,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25964,BNU_2,Retest_1,#,#,#,#,164,days,no active task,#,#
+25965,BNU_2,Baseline,male,21.4,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25965,BNU_2,Retest_1,#,#,#,#,155,days,no active task,#,#
+25966,BNU_2,Baseline,male,22,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25966,BNU_2,Retest_1,#,#,#,#,162,days,no active task,#,#
+25967,BNU_2,Baseline,female,21.6,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25967,BNU_2,Retest_1,#,#,#,#,142,days,no active task,#,#
+25968,BNU_2,Baseline,male,21.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25968,BNU_2,Retest_1,#,#,#,#,145,days,no active task,#,#
+25969,BNU_2,Baseline,male,21.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25969,BNU_2,Retest_1,#,#,#,#,159,days,no active task,#,#
+25970,BNU_2,Baseline,female,21.2,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25970,BNU_2,Retest_1,#,#,#,#,162,days,no active task,#,#
+25971,BNU_2,Baseline,female,20.5,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25971,BNU_2,Retest_1,#,#,#,#,148,days,no active task,#,#
+25972,BNU_2,Baseline,female,21.4,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25972,BNU_2,Retest_1,#,#,#,#,148,days,no active task,#,#
+25973,BNU_2,Baseline,female,22.2,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25973,BNU_2,Retest_1,#,#,#,#,155,days,no active task,#,#
+25974,BNU_2,Baseline,male,21.7,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25974,BNU_2,Retest_1,#,#,#,#,139,days,no active task,#,#
+25975,BNU_2,Baseline,female,21.6,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25975,BNU_2,Retest_1,#,#,#,#,171,days,no active task,#,#
+25976,BNU_2,Baseline,female,21.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25976,BNU_2,Retest_1,#,#,#,#,172,days,no active task,#,#
+25977,BNU_2,Baseline,female,23.1,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25977,BNU_2,Retest_1,#,#,#,#,169,days,no active task,#,#
+25978,BNU_2,Baseline,female,21.8,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25978,BNU_2,Retest_1,#,#,#,#,185,days,no active task,#,#
+25979,BNU_2,Baseline,male,21.1,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25979,BNU_2,Retest_1,#,#,#,#,150,days,no active task,#,#
+25980,BNU_2,Baseline,male,19.5,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25980,BNU_2,Retest_1,#,#,#,#,157,days,no active task,#,#
+25981,BNU_2,Baseline,female,21.3,#,between session,#,#,no active task,eyes closed,"Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting."
+25981,BNU_2,Retest_1,#,#,#,#,142,days,no active task,#,#

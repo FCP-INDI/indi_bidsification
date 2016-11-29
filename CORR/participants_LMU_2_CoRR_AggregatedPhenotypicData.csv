@@ -1,0 +1,161 @@
+participant_id,site,session,sex,age_at_scan_1,handedness,retest_design,retest_duration,retest_units,preceding_condition,visual_stimulation_condition,resting_state_instruction
+25362,LMU_2,Baseline,male,60,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25362,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25362,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25362,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25363,LMU_2,Baseline,female,71,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25363,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25363,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25363,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25364,LMU_2,Baseline,male,72,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25364,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25364,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25364,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25365,LMU_2,Baseline,female,73,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25365,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25365,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25365,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25366,LMU_2,Baseline,female,74,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25366,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25366,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25366,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25367,LMU_2,Baseline,female,68,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25367,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25367,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25367,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25368,LMU_2,Baseline,male,72,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25368,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25368,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25368,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25369,LMU_2,Baseline,male,67,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25369,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25369,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25369,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25370,LMU_2,Baseline,male,71,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25370,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25370,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25370,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25371,LMU_2,Baseline,male,69,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25371,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25371,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25371,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25372,LMU_2,Baseline,male,70,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25372,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25372,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25372,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25373,LMU_2,Baseline,female,67,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25373,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25373,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25373,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25374,LMU_2,Baseline,male,69,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25374,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25374,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25374,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25375,LMU_2,Baseline,female,69,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25375,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25375,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25375,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25376,LMU_2,Baseline,male,59,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25376,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25376,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25376,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25377,LMU_2,Baseline,female,55,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25377,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25377,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25377,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25378,LMU_2,Baseline,female,61,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25378,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25378,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25378,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25379,LMU_2,Baseline,female,69,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25379,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25379,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25379,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25380,LMU_2,Baseline,male,55,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25380,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25380,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25380,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25381,LMU_2,Baseline,female,70,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25381,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25381,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25381,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25382,LMU_2,Baseline,female,69,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25382,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25382,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25382,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25383,LMU_2,Baseline,male,55,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25383,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25383,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25383,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25384,LMU_2,Baseline,female,75,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25384,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25384,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25384,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25385,LMU_2,Baseline,male,69,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25385,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25385,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25385,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25386,LMU_2,Baseline,female,79,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25386,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25386,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25386,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25387,LMU_2,Baseline,male,28,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25387,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25387,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25387,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25388,LMU_2,Baseline,female,20,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25388,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25388,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25388,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25389,LMU_2,Baseline,female,26,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25389,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25389,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25389,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25390,LMU_2,Baseline,male,25,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25390,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25390,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25390,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25391,LMU_2,Baseline,female,22,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25391,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25391,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25391,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25392,LMU_2,Baseline,female,24,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25392,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25392,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25392,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25393,LMU_2,Baseline,male,22,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25393,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25393,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25393,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25394,LMU_2,Baseline,male,23,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25394,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25394,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25394,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25395,LMU_2,Baseline,female,27,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25395,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25395,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25395,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25396,LMU_2,Baseline,female,21,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25396,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25396,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25396,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25397,LMU_2,Baseline,male,21,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25397,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25397,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25397,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25398,LMU_2,Baseline,female,24,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25398,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25398,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25398,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25399,LMU_2,Baseline,female,20,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25399,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25399,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25399,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25400,LMU_2,Baseline,male,21,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25400,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25400,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25400,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#
+25401,LMU_2,Baseline,female,21,#,between session,#,#,no active task,eyes closed,Keep your eyes closed without falling asleep and do not think of anything in particular.
+25401,LMU_2,Retest_1,#,#,#,#,150,minutes,no active task,#,#
+25401,LMU_2,Retest_2,#,#,#,#,300,minutes,no active task,#,#
+25401,LMU_2,Retest_3,#,#,#,#,450,minutes,no active task,#,#

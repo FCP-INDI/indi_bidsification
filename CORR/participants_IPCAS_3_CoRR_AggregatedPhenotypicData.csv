@@ -1,0 +1,81 @@
+participant_id,site,session,sex,age_at_scan_1,handedness,retest_design,retest_duration,retest_units,preceding_condition,visual_stimulation_condition,resting_state_instruction
+25550,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25550,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25551,IPCAS_3,Baseline,female,21,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25551,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25552,IPCAS_3,Baseline,female,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25552,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25553,IPCAS_3,Baseline,male,24,#,within and between,#,#,no active task,fixation,Lie Still and Relax During Scan
+25553,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25554,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25554,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25555,IPCAS_3,Baseline,male,21,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25555,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25556,IPCAS_3,Baseline,female,18,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25556,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25557,IPCAS_3,Baseline,female,19,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25557,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25557,IPCAS_3,Retest_2,#,#,#,#,1,days,no active task,#,#
+25557,IPCAS_3,Retest_3,#,#,#,#,40,minutes,active task,#,#
+25558,IPCAS_3,Baseline,male,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25558,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25559,IPCAS_3,Baseline,female,18,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25559,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25560,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25560,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25561,IPCAS_3,Baseline,male,25,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25561,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25561,IPCAS_3,Retest_2,#,#,#,#,2,days,no active task,#,#
+25561,IPCAS_3,Retest_3,#,#,#,#,40,minutes,active task,#,#
+25562,IPCAS_3,Baseline,male,24,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25562,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25562,IPCAS_3,Retest_2,#,#,#,#,2,days,no active task,#,#
+25562,IPCAS_3,Retest_3,#,#,#,#,40,minutes,active task,#,#
+25563,IPCAS_3,Baseline,male,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25563,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25564,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25564,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25565,IPCAS_3,Baseline,male,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25565,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25566,IPCAS_3,Retest_2,#,#,#,#,1,days,no active task,#,#
+25566,IPCAS_3,Retest_3,#,#,#,#,40,minutes,active task,#,#
+25567,IPCAS_3,Baseline,female,21,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25567,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25567,IPCAS_3,Retest_2,#,#,#,#,1,days,no active task,#,#
+25567,IPCAS_3,Retest_3,#,#,#,#,40,minutes,active task,#,#
+25568,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25568,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25569,IPCAS_3,Baseline,male,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25569,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25570,IPCAS_3,Baseline,male,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25570,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25571,IPCAS_3,Baseline,female,21,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25571,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25572,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25572,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25573,IPCAS_3,Baseline,male,21,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25573,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25574,IPCAS_3,Baseline,female,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25574,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25575,IPCAS_3,Baseline,female,23,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25575,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25576,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25576,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25577,IPCAS_3,Baseline,female,23,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25577,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25578,IPCAS_3,Baseline,female,17,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25578,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25579,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25579,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25580,IPCAS_3,Baseline,male,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25580,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25581,IPCAS_3,Baseline,male,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25581,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25582,IPCAS_3,Baseline,female,23,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25582,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25583,IPCAS_3,Baseline,female,22,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25583,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25584,IPCAS_3,Baseline,female,21,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25584,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#
+25585,IPCAS_3,Baseline,female,20,#,within session,#,#,no active task,fixation,Lie Still and Relax During Scan
+25585,IPCAS_3,Retest_1,#,#,#,#,40,minutes,active task,#,#

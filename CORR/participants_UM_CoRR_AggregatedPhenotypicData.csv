@@ -1,0 +1,321 @@
+subid,site,session,sex,age_at_scan_1,handedness,retest_design,retest_duration,retest_units,preceding_condition,visual_stimulation_condition,resting_state_instruction
+26007,UM,Baseline,female,75,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26007,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26007,UM,Retest_2,#,#,#,#,106,days,no active task,#,#
+26007,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26008,UM,Baseline,female,64,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26008,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26008,UM,Retest_2,#,#,#,#,143,days,no active task,#,#
+26008,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26009,UM,Baseline,female,69,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26009,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26009,UM,Retest_2,#,#,#,#,119,days,no active task,#,#
+26009,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26010,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26010,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26010,UM,Retest_2,#,#,#,#,94,days,no active task,#,#
+26010,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26011,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26011,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26011,UM,Retest_2,#,#,#,#,151,days,no active task,#,#
+26011,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26012,UM,Baseline,female,60,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26012,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26012,UM,Retest_2,#,#,#,#,91,days,no active task,#,#
+26012,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26013,UM,Baseline,male,67,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26013,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26013,UM,Retest_2,#,#,#,#,83,days,no active task,#,#
+26013,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26014,UM,Baseline,female,66,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26014,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26014,UM,Retest_2,#,#,#,#,79,days,no active task,#,#
+26014,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26015,UM,Baseline,female,74,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26015,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26015,UM,Retest_2,#,#,#,#,105,days,no active task,#,#
+26015,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26016,UM,Baseline,female,57,A,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26016,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26016,UM,Retest_2,#,#,#,#,113,days,no active task,#,#
+26016,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26120,UM,Baseline,female,62,L,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26120,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26120,UM,Retest_2,#,#,#,#,100,days,no active task,#,#
+26120,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26121,UM,Baseline,female,66,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26121,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26121,UM,Retest_2,#,#,#,#,132,days,no active task,#,#
+26121,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26122,UM,Baseline,male,65,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26122,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26122,UM,Retest_2,#,#,#,#,103,days,no active task,#,#
+26122,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26123,UM,Baseline,female,58,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26123,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26123,UM,Retest_2,#,#,#,#,111,days,no active task,#,#
+26123,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26124,UM,Baseline,female,65,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26124,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26124,UM,Retest_2,#,#,#,#,135,days,no active task,#,#
+26124,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26125,UM,Baseline,male,63,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26125,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26125,UM,Retest_2,#,#,#,#,99,days,no active task,#,#
+26125,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26126,UM,Baseline,male,65,L,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26126,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26126,UM,Retest_2,#,#,#,#,92,days,no active task,#,#
+26126,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26127,UM,Baseline,female,83,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26127,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26127,UM,Retest_2,#,#,#,#,131,days,no active task,#,#
+26127,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26128,UM,Baseline,female,64,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26128,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26128,UM,Retest_2,#,#,#,#,94,days,no active task,#,#
+26128,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26129,UM,Baseline,female,71,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26129,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26129,UM,Retest_2,#,#,#,#,91,days,no active task,#,#
+26129,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26130,UM,Baseline,male,79,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26130,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26130,UM,Retest_2,#,#,#,#,97,days,no active task,#,#
+26130,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26131,UM,Baseline,female,73,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26131,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26131,UM,Retest_2,#,#,#,#,84,days,no active task,#,#
+26131,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26132,UM,Baseline,female,67,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26132,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26132,UM,Retest_2,#,#,#,#,89,days,no active task,#,#
+26132,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26133,UM,Baseline,male,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26133,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26133,UM,Retest_2,#,#,#,#,119,days,no active task,#,#
+26133,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26134,UM,Baseline,female,72,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26134,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26134,UM,Retest_2,#,#,#,#,98,days,no active task,#,#
+26134,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26135,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26135,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26135,UM,Retest_2,#,#,#,#,92,days,no active task,#,#
+26135,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26136,UM,Baseline,female,71,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26136,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26136,UM,Retest_2,#,#,#,#,100,days,no active task,#,#
+26136,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26137,UM,Baseline,female,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26137,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26137,UM,Retest_2,#,#,#,#,85,days,no active task,#,#
+26137,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26138,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26138,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26138,UM,Retest_2,#,#,#,#,96,days,no active task,#,#
+26138,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26139,UM,Baseline,female,67,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26139,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26139,UM,Retest_2,#,#,#,#,98,days,no active task,#,#
+26139,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26140,UM,Baseline,female,58,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26140,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26140,UM,Retest_2,#,#,#,#,91,days,no active task,#,#
+26140,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26141,UM,Baseline,female,58,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26141,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26141,UM,Retest_2,#,#,#,#,142,days,no active task,#,#
+26141,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26142,UM,Baseline,male,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26142,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26142,UM,Retest_2,#,#,#,#,93,days,no active task,#,#
+26142,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26143,UM,Baseline,female,77,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26143,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26143,UM,Retest_2,#,#,#,#,81,days,no active task,#,#
+26143,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26144,UM,Baseline,female,72,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26144,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26144,UM,Retest_2,#,#,#,#,93,days,no active task,#,#
+26144,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26145,UM,Baseline,male,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26145,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26145,UM,Retest_2,#,#,#,#,148,days,no active task,#,#
+26145,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26146,UM,Baseline,male,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26146,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26146,UM,Retest_2,#,#,#,#,118,days,no active task,#,#
+26146,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26147,UM,Baseline,female,60,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26147,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26147,UM,Retest_2,#,#,#,#,134,days,no active task,#,#
+26147,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26148,UM,Baseline,male,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26148,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26148,UM,Retest_2,#,#,#,#,130,days,no active task,#,#
+26148,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26149,UM,Baseline,female,61,L,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26149,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26149,UM,Retest_2,#,#,#,#,99,days,no active task,#,#
+26149,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26150,UM,Baseline,male,82,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26150,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26150,UM,Retest_2,#,#,#,#,113,days,no active task,#,#
+26150,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26151,UM,Baseline,female,64,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26151,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26151,UM,Retest_2,#,#,#,#,123,days,no active task,#,#
+26151,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26152,UM,Baseline,female,70,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26152,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26152,UM,Retest_2,#,#,#,#,110,days,no active task,#,#
+26152,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26153,UM,Baseline,male,73,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26153,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26153,UM,Retest_2,#,#,#,#,185,days,no active task,#,#
+26153,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26154,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26154,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26154,UM,Retest_2,#,#,#,#,150,days,no active task,#,#
+26154,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26155,UM,Baseline,female,84,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26155,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26155,UM,Retest_2,#,#,#,#,93,days,no active task,#,#
+26155,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26156,UM,Baseline,female,63,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26156,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26156,UM,Retest_2,#,#,#,#,120,days,no active task,#,#
+26156,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26157,UM,Baseline,female,75,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26157,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26157,UM,Retest_2,#,#,#,#,99,days,no active task,#,#
+26157,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26158,UM,Baseline,female,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26158,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26158,UM,Retest_2,#,#,#,#,99,days,no active task,#,#
+26158,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26159,UM,Baseline,female,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26159,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26159,UM,Retest_2,#,#,#,#,104,days,no active task,#,#
+26159,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26160,UM,Baseline,female,63,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26160,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26160,UM,Retest_2,#,#,#,#,154,days,no active task,#,#
+26160,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26161,UM,Baseline,male,61,A,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26161,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26161,UM,Retest_2,#,#,#,#,134,days,no active task,#,#
+26161,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26162,UM,Baseline,female,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26162,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26162,UM,Retest_2,#,#,#,#,152,days,no active task,#,#
+26162,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26163,UM,Baseline,female,67,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26163,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26163,UM,Retest_2,#,#,#,#,116,days,no active task,#,#
+26163,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26164,UM,Baseline,female,63,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26164,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26164,UM,Retest_2,#,#,#,#,118,days,no active task,#,#
+26164,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26165,UM,Baseline,male,58,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26165,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26165,UM,Retest_2,#,#,#,#,86,days,no active task,#,#
+26165,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26166,UM,Baseline,female,60,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26166,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26166,UM,Retest_2,#,#,#,#,91,days,no active task,#,#
+26166,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26167,UM,Baseline,male,67,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26167,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26167,UM,Retest_2,#,#,#,#,89,days,no active task,#,#
+26167,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26168,UM,Baseline,female,64,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26168,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26168,UM,Retest_2,#,#,#,#,133,days,no active task,#,#
+26168,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26169,UM,Baseline,male,66,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26169,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26169,UM,Retest_2,#,#,#,#,129,days,no active task,#,#
+26169,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26170,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26170,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26170,UM,Retest_2,#,#,#,#,102,days,no active task,#,#
+26170,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26171,UM,Baseline,female,73,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26171,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26171,UM,Retest_2,#,#,#,#,74,days,no active task,#,#
+26171,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26172,UM,Baseline,female,57,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26172,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26172,UM,Retest_2,#,#,#,#,105,days,no active task,#,#
+26172,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26173,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26173,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26173,UM,Retest_2,#,#,#,#,148,days,no active task,#,#
+26173,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26174,UM,Baseline,male,59,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26174,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26174,UM,Retest_2,#,#,#,#,112,days,no active task,#,#
+26174,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26175,UM,Baseline,female,58,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26175,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26175,UM,Retest_2,#,#,#,#,92,days,no active task,#,#
+26175,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26176,UM,Baseline,male,71,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26176,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26176,UM,Retest_2,#,#,#,#,128,days,no active task,#,#
+26176,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26177,UM,Baseline,female,65,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26177,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26177,UM,Retest_2,#,#,#,#,91,days,no active task,#,#
+26177,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26178,UM,Baseline,female,64,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26178,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26178,UM,Retest_2,#,#,#,#,113,days,no active task,#,#
+26178,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26179,UM,Baseline,male,72,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26179,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26179,UM,Retest_2,#,#,#,#,194,days,no active task,#,#
+26179,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26180,UM,Baseline,female,55,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26180,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26180,UM,Retest_2,#,#,#,#,150,days,no active task,#,#
+26180,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26181,UM,Baseline,female,71,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26181,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26181,UM,Retest_2,#,#,#,#,132,days,no active task,#,#
+26181,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26182,UM,Baseline,female,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26182,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26182,UM,Retest_2,#,#,#,#,86,days,no active task,#,#
+26182,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26183,UM,Baseline,female,61,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26183,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26183,UM,Retest_2,#,#,#,#,80,days,no active task,#,#
+26183,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26184,UM,Baseline,female,70,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26184,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26184,UM,Retest_2,#,#,#,#,132,days,no active task,#,#
+26184,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26185,UM,Baseline,male,70,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26185,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26185,UM,Retest_2,#,#,#,#,106,days,no active task,#,#
+26185,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26186,UM,Baseline,male,64,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26186,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26186,UM,Retest_2,#,#,#,#,99,days,no active task,#,#
+26186,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26187,UM,Baseline,female,60,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26187,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26187,UM,Retest_2,#,#,#,#,91,days,no active task,#,#
+26187,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26188,UM,Baseline,female,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26188,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26188,UM,Retest_2,#,#,#,#,100,days,no active task,#,#
+26188,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
+26189,UM,Baseline,male,62,R,within and between,#,#,no active task,eyes closed,"Close your eyes, relax and dont fall asleep."
+26189,UM,Retest_1,#,#,#,within and between,1,minutes,no active task,eyes closed,#
+26189,UM,Retest_2,#,#,#,#,120,days,no active task,#,#
+26189,UM,Retest_3,#,#,#,#,1,minutes,no active task,#,#
