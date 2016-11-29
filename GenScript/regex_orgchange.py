@@ -50,6 +50,8 @@ if s3flag == True:
 
 else:
     srclist=[]
+    files_converted=[]
+    destlist_tot=[]
 
     for root,dirs,fs in os.walk(ipdir):
         for f in fs:
@@ -60,6 +62,11 @@ else:
         print mk
         srclist_filt=[s for s in srclist if re.match(matchdct[mk][0],s)]
         destlist=[re.sub(matchdct[mk][0],matchdct[mk][1],sf).replace(ipdir,opdir) for sf in srclist_filt]
+        files_converted=files_converted+srclist_filt
+        destlist_tot=destlist_tot+destlist
+
+        if len(destlist) != len(set(destlist)):
+            raise Exception('Duplicate Destination Filepaths exist')
 
         changekey=zip(srclist_filt,destlist)
 
@@ -74,7 +81,14 @@ else:
 
             if not os.path.isfile(newfile) and not os.path.islink(newfile):
                 print 'Linking ',oldfile,' to ',newfile
-                os.symlink(oldfile,newfile)
+                os.symlink(os.path.abspath(oldfile),newfile)
             else:
                 pass #print 'File ',newfile,' already exists, please delete if a new file is needed'
+
+    print 'num files pulled in:',len(files_converted),'num files produced',len(destlist_tot)
+
+    if len(files_converted) != len(destlist_tot):
+        raise Exception('There is a mismatch in the total files read in, and total files produced')
+
+    print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
             

@@ -1,105 +1,105 @@
 'anat' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/anat_(0-9{1,2})/anat.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat.nii.gz' 
     -'\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_T1w.nii.gz'
 
 'mpi_anat_comp': 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/anat_(0-9{1,2})/anat_(a-z12\_+).nii.gz'
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat_([a-z12\_]+).nii.gz'
     -'\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_acq-\5_run-\4_T1w.nii.gz'
 
 'dti' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/dti_(0-9{1,2})/dti.nii.gz'
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.nii.gz'
     -'\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.nii.gz'
 
 'func_rest_nogz' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/rest_(0-9{1,2})/rest.nii$'
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/rest_([0-9]{1,2})/rest.nii$'
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_run-\4_func.nii' 
 
 
 'func_rest' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/rest_(0-9{1,2})/rest.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/rest_([0-9]{1,2})/rest.nii.gz' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_run-\4_func.nii.gz'
 
 'func_rest_mb' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/rest_(0-9{3,4})_(0-9{1,2})/rest.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/rest_([0-9]{3,4})_([0-9]{1,2})/rest.nii.gz' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_acq-tr\4ms_run-\5_func.nii.gz'
 
 'func_rest_pref' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/rest_(0-9{1,2})_(a-z+)/rest.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/rest_([0-9]{1,2})_([a-z]+)/rest.nii.gz' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_acq-fov\5_run-\4_func.nii.gz'
 
 'func_msit' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/msit_(0-9{1,2})/msit.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/msit_([0-9]{1,2})/msit.nii.gz' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-msit_run-\4_func.nii.gz'
 
 'func_eyetracker' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/eyemovement_(0-9{3,4})_(0-9{1,2})/eyemovement.+.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/eyemovement_([0-9]{3,4})_([0-9]{1,2})/eyemovement.+.nii.gz' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-eyemovement_acq-tr\4ms_run-\5_func.nii.gz'
 
 'func_breathhold' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/breathhold_(0-9{3,4})_(0-9{1,2})/breathhold.+.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/breathhold_([0-9]{3,4})_([0-9]{1,2})/breathhold.+.nii.gz' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-breathhold_acq-tr\4ms_run-\5_func.nii.gz'
 
 'func_checker' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/checkerboard_(0-9{3,4})_(0-9{1,2})/checkerboard.+.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/checkerboard_([0-9]{3,4})_([0-9]{1,2})/checkerboard.+.nii.gz' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-checkerboard_acq-tr\4ms_run-\5_func.nii.gz'
 
 'dti' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/dti_(0-9{1,2})/dti(.+)' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti(.+)' 
     -'\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi\5'
 
 'fmap_phs' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/fieldmap_(0-9{1,2})/fieldmap_phase.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_phase.nii.gz' 
     -'\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_phasediff.nii.gz'
 
 'fmap_mag' : 
- r'(.+)/(0-9+)/session_(0-9{1,2})/fieldmap_(0-9{1,2})/fieldmap_magnitude.nii.gz' 
+ r'(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_magnitude.nii.gz' 
     -'\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_magnitude.nii.gz'
 
 'fmap_phs_noscannum' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/FieldMap/phase.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/phase.nii.gz' 
     -'\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_phasediff.nii.gz'
 
 'fmap_mag_noscannum' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/FieldMap/magnitude(12).nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/magnitude(12).nii.gz' 
     -'\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_magnitude\4.nii.gz'
 
 'cbf' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/cbf_(0-9{1,2})/cbf.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/cbf_([0-9]{1,2})/cbf.nii.gz' 
     -'\1/sub-\2/ses-\3/cbf/sub-\2_ses-\3_task-est_run-\4_cbf.nii.gz'
 
 'asl' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/asl_(0-9{1,2})/asl.nii.gz' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/asl_([0-9]{1,2})/asl.nii.gz' 
     -'\1/sub-\2/ses-\3/asl/sub-\2_ses-\3_run-\4_asl.nii.gz'
 
 'iba_trt_msitbehav' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/msit_(1-9{1})/(a-z+).txt' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/msit_(1-9{1})/([a-z]+).txt' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-msit_run-\4_\5.txt'
 
 'utah_physio_mat' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/Pphysio/Physio_scan_(0-9{1,2}).mat' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/Pphysio/Physio_scan_([0-9]{1,2}).mat' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_run-\4_recording-physio.mat'
 
 'utah_physio_resp-puls' : 
-    -'(.+)/(0-9+)/session_(0-9{1,2})/Pphysio/EPIlog_scan_(0-9{1,2}).(a-z{4})' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/Pphysio/EPIlog_scan_([0-9]{1,2}).([a-z]{4})' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_run-\4_recording-\5.\5'
 
 'utah_physio_resp-puls-txt' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/Pphysio/(a-z{4})_scan_(0-9{1,2}).txt' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/Pphysio/([a-z]{4})_scan_([0-9]{1,2}).txt' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_run-\5_recording-\4.txt'
 
 'utah_physio_pmu_resp-puls' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/Pphysio/.+_rest(0-9{1}).(a-z{4})' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/Pphysio/.+_rest([0-9]{1}).([a-z]{4})' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_run-\4_recording-\5.\5'
 
 'utah_nophys' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/Pphysio/no_physio_available.txt' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/Pphysio/no_physio_available.txt' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_no_physio_available.txt'
 
 'utah_nophys2' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/Pphysio/NoPhysio_Scan2' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/Pphysio/NoPhysio_Scan2' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_no_physio_available.txt'
 
 'utah_pyhsio_pmu_norunnum' :
-    -'(.+)/(0-9+)/session_(0-9{1,2})/Pphysio/.+_rest.(a-z{4})' 
+    -'(.+)/([0-9]+)/session_([0-9]{1,2})/Pphysio/.+_rest.([a-z]{4})' 
     -'\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-est_run-1_recording-\4.\4'
 
