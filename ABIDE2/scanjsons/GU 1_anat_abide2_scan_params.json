@@ -1,0 +1,29 @@
+[
+  {
+    "Acquisition Matrix": "256x256", 
+    "Acquisition Time [min:sec]": "8:05", 
+    "Bandwidth per Voxel (Readout) [Hz]": 190.0, 
+    "Echo Time (TE) [ms]": "3.5", 
+    "Fat Suppression": "No", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "256x256", 
+    "Flip Angle [Deg]": 7.0, 
+    "Headcoil": "12Ch", 
+    "Inversion Time (TI) [ms]": 1100.0, 
+    "Manufacturer": "Siemens", 
+    "Model": "TriTim", 
+    "Notes": NaN, 
+    "Number of Slices": 176.0, 
+    "Orientation": "Saggital", 
+    "Parallel Acquisition": "G2", 
+    "Phase Partial Fourier": "No", 
+    "Repetition Time (TR) [ms]": "2530", 
+    "Sequence": "MPRAGE", 
+    "Site": "GU 1", 
+    "Slice Acquisition Order": "Interleaved Ascending", 
+    "Slice Gap [mm]": 0.5, 
+    "Slice In-Place Resolution [mm2]": "1x1", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 1.0
+  }
+]

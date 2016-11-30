@@ -1,0 +1,29 @@
+[
+  {
+    "Acquisition Matrix": "256x256", 
+    "Acquisition Time [min:sec]": "5:40", 
+    "Bandwidth per Voxel (Readout) [Hz]": 20.83, 
+    "Echo Time (TE) [ms]": "4.236", 
+    "Fat Suppression": "No", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "230x230", 
+    "Flip Angle [Deg]": 16.0, 
+    "Headcoil": "8Ch", 
+    "Inversion Time (TI) [ms]": 350.0, 
+    "Manufacturer": "GE", 
+    "Model": "MR750", 
+    "Notes": NaN, 
+    "Number of Slices": 186.0, 
+    "Orientation": "Saggital", 
+    "Parallel Acquisition": "A2", 
+    "Phase Partial Fourier": NaN, 
+    "Repetition Time (TR) [ms]": "10.27", 
+    "Sequence": "IR-FSPGR", 
+    "Site": "EMC 1", 
+    "Slice Acquisition Order": NaN, 
+    "Slice Gap [mm]": 0.0, 
+    "Slice In-Place Resolution [mm2]": "0.9x0.9", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 0.9
+  }
+]

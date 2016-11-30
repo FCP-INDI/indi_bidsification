@@ -1,0 +1,29 @@
+[
+  {
+    "Acquisition Matrix": "240x240", 
+    "Acquisition Time [min:sec]": "4:37", 
+    "Bandwidth per Voxel (Readout) [Hz]": NaN, 
+    "Echo Time (TE) [ms]": "5.6", 
+    "Fat Suppression": "No", 
+    "Field Strength": "1.5T", 
+    "Field of View [mm]": "240x240", 
+    "Flip Angle [Deg]": 30.0, 
+    "Headcoil": NaN, 
+    "Inversion Time (TI) [ms]": NaN, 
+    "Manufacturer": "Philips", 
+    "Model": "Achieva", 
+    "Notes": "Reconstructed Voxels 0.94x0.94x1", 
+    "Number of Slices": 170.0, 
+    "Orientation": "Saggital", 
+    "Parallel Acquisition": "S2", 
+    "Phase Partial Fourier": NaN, 
+    "Repetition Time (TR) [ms]": "25", 
+    "Sequence": "MPRAGE", 
+    "Site": "IP 1", 
+    "Slice Acquisition Order": NaN, 
+    "Slice Gap [mm]": NaN, 
+    "Slice In-Place Resolution [mm2]": "1x1", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 1.0
+  }
+]

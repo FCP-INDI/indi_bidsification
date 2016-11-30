@@ -1,0 +1,29 @@
+[
+  {
+    "Acquisition Matrix": "208x207", 
+    "Acquisition Time [min:sec]": "1:43", 
+    "Bandwidth per Voxel (Readout) [Hz]": 131.0, 
+    "Echo Time (TE) [ms]": "4.6", 
+    "Fat Suppression": "No", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "250x250", 
+    "Flip Angle [Deg]": 8.0, 
+    "Headcoil": "32Ch", 
+    "Inversion Time (TI) [ms]": 900.0, 
+    "Manufacturer": "Philips", 
+    "Model": "Achieva Ds", 
+    "Notes": "Reconstructed Voxels 0.98x0.98x1.2", 
+    "Number of Slices": 182.0, 
+    "Orientation": "Coronal", 
+    "Parallel Acquisition": "S P1.5 S2.5", 
+    "Phase Partial Fourier": NaN, 
+    "Repetition Time (TR) [ms]": "9.4", 
+    "Sequence": "3D TFE", 
+    "Site": "KUL 1", 
+    "Slice Acquisition Order": NaN, 
+    "Slice Gap [mm]": NaN, 
+    "Slice In-Place Resolution [mm2]": "1.2x1.2", 
+    "Slice Phase Encoding Direction": "RL", 
+    "Slice Thickness [mm]": 1.2
+  }
+]
