@@ -6,7 +6,7 @@ aggphenokeyf=sys.argv[2]
 sitecol=sys.argv[3]
 subcol=sys.argv[4]
 
-
+opname=aggphenof.split('/')[-1].split('.')[0]+'.tsv'
 
 aggpheno=pd.read_csv(aggphenof)
 
@@ -34,4 +34,4 @@ aggpheno.columns=map(str.lower,aggpheno.columns)
 
 for site in sites:
     subdf=aggpheno[aggpheno[sitecol.lower()] ==site]
-    subdf.to_csv('participants_'+site+'_'+aggphenof.split('/')[-1],index=False)
+    subdf.to_csv('participants_'+site+'_'+opname,index=False,sep='\t')

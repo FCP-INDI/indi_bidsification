@@ -1,0 +1,121 @@
+participant_id	site	session	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+25485	IPCAS_1	Baseline	female	23	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25485	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25485	IPCAS_1	Retest_2	#	#	#	between session	22	days	no active task	#	#
+25485	IPCAS_1	Retest_3	#	#	#	between session	22	days	active task	#	#
+25486	IPCAS_1	Baseline	male	22	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25486	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25486	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25486	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25487	IPCAS_1	Baseline	female	18	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25487	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25487	IPCAS_1	Retest_2	#	#	#	between session	9	days	no active task	#	#
+25487	IPCAS_1	Retest_3	#	#	#	between session	9	days	active task	#	#
+25488	IPCAS_1	Baseline	male	21	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25488	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25488	IPCAS_1	Retest_2	#	#	#	between session	23	days	no active task	#	#
+25488	IPCAS_1	Retest_3	#	#	#	between session	23	days	active task	#	#
+25489	IPCAS_1	Baseline	female	23	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25489	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25489	IPCAS_1	Retest_2	#	#	#	between session	12	days	no active task	#	#
+25489	IPCAS_1	Retest_3	#	#	#	between session	12	days	active task	#	#
+25490	IPCAS_1	Baseline	male	24	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25490	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25490	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25490	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25491	IPCAS_1	Baseline	male	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25491	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25491	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25491	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25492	IPCAS_1	Baseline	female	22	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25492	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25492	IPCAS_1	Retest_2	#	#	#	between session	23	days	no active task	#	#
+25492	IPCAS_1	Retest_3	#	#	#	between session	23	days	active task	#	#
+25493	IPCAS_1	Baseline	female	18	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25493	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25493	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25493	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25494	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25494	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25494	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25494	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25495	IPCAS_1	Baseline	female	19	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25495	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25495	IPCAS_1	Retest_2	#	#	#	between session	9	days	no active task	#	#
+25495	IPCAS_1	Retest_3	#	#	#	between session	9	days	active task	#	#
+25496	IPCAS_1	Baseline	female	22	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25496	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25496	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25496	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25497	IPCAS_1	Baseline	female	19	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25497	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25497	IPCAS_1	Retest_2	#	#	#	between session	22	days	no active task	#	#
+25497	IPCAS_1	Retest_3	#	#	#	between session	22	days	active task	#	#
+25498	IPCAS_1	Baseline	male	23	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25498	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25498	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25498	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25499	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25499	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25499	IPCAS_1	Retest_2	#	#	#	between session	24	days	no active task	#	#
+25499	IPCAS_1	Retest_3	#	#	#	between session	24	days	active task	#	#
+25500	IPCAS_1	Baseline	female	18	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25500	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25500	IPCAS_1	Retest_2	#	#	#	between session	12	days	no active task	#	#
+25500	IPCAS_1	Retest_3	#	#	#	between session	12	days	active task	#	#
+25501	IPCAS_1	Baseline	male	22	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25501	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25501	IPCAS_1	Retest_2	#	#	#	between session	23	days	no active task	#	#
+25501	IPCAS_1	Retest_3	#	#	#	between session	23	days	active task	#	#
+25502	IPCAS_1	Baseline	female	21	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25502	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25502	IPCAS_1	Retest_2	#	#	#	between session	5	days	no active task	#	#
+25502	IPCAS_1	Retest_3	#	#	#	between session	5	days	active task	#	#
+25503	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25503	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25503	IPCAS_1	Retest_2	#	#	#	between session	23	days	no active task	#	#
+25503	IPCAS_1	Retest_3	#	#	#	between session	23	days	active task	#	#
+25504	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25504	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25504	IPCAS_1	Retest_2	#	#	#	between session	24	days	no active task	#	#
+25504	IPCAS_1	Retest_3	#	#	#	between session	24	days	active task	#	#
+25505	IPCAS_1	Baseline	female	21	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25505	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25505	IPCAS_1	Retest_2	#	#	#	between session	22	days	no active task	#	#
+25505	IPCAS_1	Retest_3	#	#	#	between session	22	days	active task	#	#
+25506	IPCAS_1	Baseline	male	22	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25506	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25506	IPCAS_1	Retest_2	#	#	#	between session	9	days	no active task	#	#
+25506	IPCAS_1	Retest_3	#	#	#	between session	9	days	active task	#	#
+25507	IPCAS_1	Baseline	female	23	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25507	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25507	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25507	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25508	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25508	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25508	IPCAS_1	Retest_2	#	#	#	between session	9	days	no active task	#	#
+25508	IPCAS_1	Retest_3	#	#	#	between session	9	days	active task	#	#
+25509	IPCAS_1	Baseline	male	23	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25509	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25509	IPCAS_1	Retest_2	#	#	#	between session	24	days	no active task	#	#
+25509	IPCAS_1	Retest_3	#	#	#	between session	24	days	active task	#	#
+25510	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25510	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25510	IPCAS_1	Retest_2	#	#	#	between session	24	days	no active task	#	#
+25510	IPCAS_1	Retest_3	#	#	#	between session	24	days	active task	#	#
+25511	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25511	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25511	IPCAS_1	Retest_2	#	#	#	between session	22	days	no active task	#	#
+25511	IPCAS_1	Retest_3	#	#	#	between session	22	days	active task	#	#
+25512	IPCAS_1	Baseline	female	20	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25512	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25512	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25512	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25513	IPCAS_1	Baseline	male	19	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25513	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25513	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25513	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#
+25514	IPCAS_1	Baseline	female	24	#	#	#	#	no active task	fixation	'Lie Still and Relax During Scan'
+25514	IPCAS_1	Retest_1	#	#	#	within session	29	minutes	active task	#	#
+25514	IPCAS_1	Retest_2	#	#	#	between session	7	days	no active task	#	#
+25514	IPCAS_1	Retest_3	#	#	#	between session	7	days	active task	#	#

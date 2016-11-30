@@ -1,0 +1,56 @@
+participant_id	site	session	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+27284	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27284	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27284	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27285	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27285	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27285	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27286	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27286	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27287	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27287	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27287	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27288	IPCAS_5	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27288	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27289	IPCAS_5	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27289	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27289	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27290	IPCAS_5	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27290	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27290	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27291	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27291	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27292	IPCAS_5	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27292	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27292	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27293	IPCAS_5	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27293	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27294	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27294	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27294	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27295	IPCAS_5	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27295	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27295	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27296	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27296	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27296	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27297	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27297	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27298	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27298	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27298	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27299	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27299	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27300	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27300	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27301	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27301	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27302	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27302	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27302	IPCAS_5	Retest_2	#	#	#	#	40	minutes	no active task	#	#
+27303	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27303	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27304	IPCAS_5	Baseline	male	18	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27304	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
+27305	IPCAS_5	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+27305	IPCAS_5	Retest_1	#	#	#	#	10	minutes	no active task	#	#
