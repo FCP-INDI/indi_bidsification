@@ -1,0 +1,14 @@
+[
+  {
+    "EchoTime(TE)[ms]": "2.45", 
+    "FieldStrength": "7T", 
+    "Headcoil": "24Chan", 
+    "InversionTime(TI)[ms]": "900/2750", 
+    "Manufacturer": "Siemens", 
+    "Model": "Magnetom", 
+    "ParallelAcquisition": "G2", 
+    "RepetitionTime(TR)[ms]": 5000.0, 
+    "Sequence": "3D MP2RAGE", 
+    "VoxelVolume": 0.34299999999999997
+  }
+]

@@ -37,5 +37,7 @@ aggpheno.columns=map(str.lower,aggpheno.columns)
 
 for site in sites:
     subdf=aggpheno[aggpheno[sitecol.lower()] ==site]
-    print 'Writing file', 'participants_'+site+'_'+opname
-    subdf.to_csv('participants_'+site+'_'+opname,index=False,sep='\t')
+    subopname='participants_'+site+'_'+opname
+    subopname=subopname.replace(' ','')
+    print 'Writing file', subopname
+    subdf.to_csv(subopname,index=False,sep='\t')

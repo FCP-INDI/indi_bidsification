@@ -1,0 +1,28 @@
+[
+  {
+    "Acquisition Matrix": "64x64", 
+    "Acquisition Time [min:sec]": "16:21", 
+    "Bandwidth per Voxel (Readout) [Hz]": "2604", 
+    "Echo Time (TE) [ms]": 28.0, 
+    "Fat Suppression": "Yes", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "220x220", 
+    "Flip Angle [Deg]": 60.0, 
+    "Headcoil": "32Ch", 
+    "Manufacturer": "Siemens", 
+    "Model": "TriTim", 
+    "Notes": "CMRR Multiband", 
+    "Number of Measurements": 433.0, 
+    "Number of Slices": 42.0, 
+    "Orientation": "T>C23", 
+    "Parallel Acquisition": "None", 
+    "Prospective Motion Correction": "No", 
+    "Repetition Time (TR) [ms]": 813.0, 
+    "Sequence": "EPI", 
+    "Slice Acquisition Order": "Interleaved Ascending", 
+    "Slice Gap [mm]": 0.0, 
+    "Slice In-Place Resolution [mm2]": "3.4x3.4", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 3.4
+  }
+]

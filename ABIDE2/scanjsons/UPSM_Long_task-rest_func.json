@@ -1,0 +1,27 @@
+[
+  {
+    "Acquisition Matrix": "64x64", 
+    "Acquisition Time [min:sec]": "5.06", 
+    "Bandwidth per Voxel (Readout) [Hz]": "3126", 
+    "Echo Time (TE) [ms]": 25.0, 
+    "Fat Suppression": "Yes", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "200x200", 
+    "Flip Angle [Deg]": 70.0, 
+    "Headcoil": "8Ch", 
+    "Manufacturer": "Siemens", 
+    "Model": "Allegra", 
+    "Number of Measurements": 200.0, 
+    "Number of Slices": 29.0, 
+    "Orientation": "T>C-18.14", 
+    "Parallel Acquisition": "None", 
+    "Prospective Motion Correction": "Off", 
+    "Repetition Time (TR) [ms]": 1500.0, 
+    "Sequence": "EPI", 
+    "Slice Acquisition Order": "Interleaved Ascending", 
+    "Slice Gap [mm]": 0.0, 
+    "Slice In-Place Resolution [mm2]": "3.1x3.1", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 4.0
+  }
+]

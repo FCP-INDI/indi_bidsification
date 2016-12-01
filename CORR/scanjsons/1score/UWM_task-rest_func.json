@@ -1,0 +1,24 @@
+[
+  {
+    "AcquisitionMatrix": "64x64", 
+    "AcquisitionTime[min:sec]": "10:01", 
+    "EchoTime(TE)[ms]": 25, 
+    "FatSuppression": "No (Spectral Spatial RF pulse)", 
+    "FieldStrength": "3T", 
+    "FieldofView[mm]": "224", 
+    "FlipAngle[Deg]": 60, 
+    "Headcoil": "8 chan", 
+    "Manufacturer": "GE", 
+    "Model": "Discovery MR750", 
+    "NumberofMeasurements": 231, 
+    "NumberofSlices": 40, 
+    "ParallelAcquisition": "Off", 
+    "RepetitionTime(TR)[ms]": 2600, 
+    "Sequence": "EPI", 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.0, 
+    "SliceIn-PlaceResolution[mm2]": "3.5x3.5", 
+    "SlicePhaseEncodingDirection": "A-P", 
+    "SliceThickness[mm]": 3.5
+  }
+]

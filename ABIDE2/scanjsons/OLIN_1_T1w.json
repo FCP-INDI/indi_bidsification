@@ -1,0 +1,27 @@
+[
+  {
+    "Acquisition Matrix": "320x320", 
+    "Acquisition Time [min:sec]": "3:25", 
+    "Bandwidth per Voxel (Readout) [Hz]": 200.0, 
+    "Echo Time (TE) [ms]": "2.88", 
+    "Fat Suppression": "No", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "256x176", 
+    "Flip Angle [Deg]": 13.0, 
+    "Headcoil": "32Ch", 
+    "Inversion Time (TI) [ms]": 794.0, 
+    "Manufacturer": "Siemens", 
+    "Model": "Skyra", 
+    "Number of Slices": 208.0, 
+    "Orientation": "Axial", 
+    "Parallel Acquisition": "G3", 
+    "Phase Partial Fourier": "No", 
+    "Repetition Time (TR) [ms]": "2200", 
+    "Sequence": "MPRAGE", 
+    "Slice Acquisition Order": "Interleaved Ascending", 
+    "Slice Gap [mm]": 0.4, 
+    "Slice In-Place Resolution [mm2]": "0.8x0.8", 
+    "Slice Phase Encoding Direction": "RL", 
+    "Slice Thickness [mm]": 0.8
+  }
+]
