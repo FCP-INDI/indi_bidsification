@@ -16,15 +16,26 @@ s3flag=sys.argv[5]
 #ipdir='data/Projects/CORR/RawData/'
 #opdir='data/Projects/CORR/RawDataBIDs/'
 
+try:
+    s3flag=bool(s3flag)
+except:
+    raise Exception('s3flag must be True or False')
+
 with open(matchdct_fpath) as mdf:
     matchdct=yaml.load(mdf)
 
 
+
 if s3flag == True:
+
     bucket = fetch_creds.return_bucket(keyspath, 'fcp-indi')
 
 
     srclist=[]
+
+    files_converted=[]
+    destlist_tot=[]
+
     for i,k in enumerate(bucket.list(prefix=ipdir)):
         srclist.append(k.name)
         print k.name
@@ -38,17 +49,32 @@ if s3flag == True:
         srclist_filt=[]
         destlist=[]
 
+        if len(destlist) != len(set(destlist)):
+            raise Exception('Duplicate Destination Filepaths exist')
+
         for sl in sorted(srclist):
             if re.match(matchdct[mk][0],sl):
                 #print sl,re.sub(matchdct[mk][0],matchdct[mk][1],sl)
                 srclist_filt.append(sl)
                 destlist.append(re.sub(matchdct[mk][0],matchdct[mk][1],sl).replace(ipdir,opdir))
 
+        files_converted=files_converted+srclist_filt
+        destlist_tot=destlist_tot+destlist
 
         # Note might error with make_public=True, removing it stops error, unsure why error occurs
         aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=True)#,make_public=True)
 
-else:
+
+    print 'num files pulled in:',len(files_converted),'num files produced',len(destlist_tot)
+
+    if len(files_converted) != len(destlist_tot):
+        raise Exception('There is a mismatch in the total files read in, and total files produced')
+
+    print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
+
+
+
+elif s3flag == False:
     srclist=[]
     files_converted=[]
     destlist_tot=[]
@@ -92,3 +118,5 @@ else:
 
     print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
             
+else:
+    raise Exception('Must specify s3flag')
