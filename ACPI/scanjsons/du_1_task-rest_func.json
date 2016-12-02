@@ -1,0 +1,16 @@
+[
+  {
+    "AcquisitionMatrix": "64x64", 
+    "EchoTime(TE)[ms]": 27, 
+    "FieldStrength": "3T", 
+    "FlipAngle[Deg]": 60, 
+    "Headcoil": "8 Chan", 
+    "Manufacturer": "GE", 
+    "Model": "Signa Excite", 
+    "NumberofMeasurements": 178, 
+    "NumberofSlices": 34, 
+    "RepetitionTime(TR)[ms]": 2000, 
+    "SliceIn-PlaceResolution[mm2]": "4.0x4.0", 
+    "SliceThickness[mm]": 3.8
+  }
+]
