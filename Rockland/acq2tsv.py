@@ -1,4 +1,5 @@
 import os
+import shutil
 import json
 import pandas as pd
 import bioread
@@ -95,9 +96,9 @@ def get_bids_path(filename):
         raise Exception
     newfile = 'sub-%s_ses-%s_%s.tsv.gz' % (ursi, visit, series)
     if 'dwi' in newfile:
-        newpath = os.path.join('sub-%s' % ursi ,'dwi',newfile)
+        newpath = os.path.join('sub-%s' % ursi ,'ses-%s' % visit, 'dwi',newfile)
     else:
-        newpath = os.path.join('sub-%s' % ursi,'func',newfile)
+        newpath = os.path.join('sub-%s' % ursi,'ses-%s' % visit, 'func',newfile)
     return newpath
 
 if __name__ == '__main__':
@@ -125,17 +126,26 @@ if __name__ == '__main__':
                     try:
                         target = get_bids_path(filename)
                         despiked_target = target.replace('_physio','_recording-despiked_physio')
+                        cp_target = os.path.join(outdir, 'sourcedata', target.replace('.tsv.gz','.acq'))
                         target = os.path.join(outdir, target)
-                        despiked_target = os.path.join(outdir, 'derivatives', target)
+                        despiked_target = os.path.join(outdir, 'derivatives', despiked_target)
                     except:
                         print 'Could not get BIDS file path for %s.\n' % source
                         print 'Correct filename / double check.'
                         err.write('%s\n' % source)
                         continue
-                    print '%s : %s : %s' % (source, target, despiked_target)
+                    print '%s : %s : %s : %s' % (source, target, despiked_target, cp_target)
                     
                     if not os.path.isfile(target):
                         if not os.path.exists(os.path.dirname(target)):
                             os.makedirs(os.path.dirname(target))
+                        if not os.path.exists(os.path.dirname(despiked_target)):
+                            os.makedirs(os.path.dirname(despiked_target))
                         physio_to_tsv(source, target, despiked_target)
+
+                    if not os.path.isfile(cp_target):
+                        print cp_target
+                        if not os.path.exists(os.path.dirname(cp_target)):
+                            os.makedirs(os.path.dirname(cp_target))
+                        shutil.copy(source, cp_target)
 
