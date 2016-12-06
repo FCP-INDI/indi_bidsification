@@ -10,8 +10,12 @@ keyspath=sys.argv[1]
 bucket = fetch_creds.return_bucket(keyspath, 'fcp-indi')
 
 
+#Be sure to put in the last forward slash as may act as wildcard otherwise
+ipdir='data/Projects/CORR/RawData/'
+opdir='data/Projects/CORR/RawDataBIDs/'
+
 srclist=[]
-for i,k in enumerate(bucket.list(prefix='data/Projects/CORR/RawData')):
+for i,k in enumerate(bucket.list(prefix=ipdir)):
     srclist.append(k.name)
     print k.name
 
@@ -22,9 +26,9 @@ matchdct={
 ["(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat.nii.gz" ,
 r"\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_T1w.nii.gz"],
 
-'mpi_anat_comp': 
-[r"(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat_([a-z12\_]+).nii.gz" , 
-r"\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_acq-\5_run-\4_T1w.nii.gz"],
+#'mpi_anat_comp': 
+#[r"(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat_([a-z12\_]+).nii.gz" , 
+#r"\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_acq-\5_run-\4_T1w.nii.gz"],
 
 'dti' : 
  [r"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.nii.gz" , 
@@ -60,7 +64,64 @@ r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-checkerboard_acq-tr\4ms_run-\5_func.n
 
 'dti' : 
 [r"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti(.+)" , 
-r"\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi\5"]
+r"\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi\5"],
+
+'fmap_phs' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_phase.nii.gz" , 
+r"\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_phasediff.nii.gz"],
+
+'fmap_mag' : 
+[ r"(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_magnitude.nii.gz" , 
+r"\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_magnitude.nii.gz"],
+
+'fmap_phs_noscannum' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/phase.nii.gz" , 
+r"\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_phasediff.nii.gz"],
+
+'fmap_mag_noscannum' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/magnitude([12]).nii.gz" , 
+r"\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_magnitude\4.nii.gz"],
+
+'cbf' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/cbf_([0-9]{1,2})/cbf.nii.gz" , 
+r"\1/sub-\2/ses-\3/cbf/sub-\2_ses-\3_task-rest_run-\4_cbf.nii.gz"],
+
+'asl' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/asl_([0-9]{1,2})/asl.nii.gz" , 
+r"\1/sub-\2/ses-\3/asl/sub-\2_ses-\3_run-\4_asl.nii.gz"],
+
+'iba_trt_msitbehav' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/msit_([1-9]{1})/([a-z]+).txt" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-msit_run-\4_\5.txt"],
+
+'utah_physio_mat' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/Physio_scan_([0-9]{1,2}).mat" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_recording-physio.mat"],
+
+'utah_physio_resp-puls' : 
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/EPIlog_scan_([0-9]{1,2}).([a-z]{4})" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_recording-\5.\5"],
+
+'utah_physio_resp-puls-txt' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/([a-z]{4})_scan_([0-9]{1,2}).txt" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\5_recording-\4.txt"],
+
+'utah_physio_pmu_resp-puls' :
+[ r"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/.+_rest([0-9]{1}).([a-z]{4})" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_recording-\5.\5"],
+
+'utah_nophys' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/no_physio_available.txt" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_no_physio_available.txt"],
+
+'utah_nophys2' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/NoPhysio_Scan2" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_no_physio_available.txt"],
+
+'utah_pyhsio_pmu_norunnum' :
+[r"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/.+_rest.([a-z]{4})" , 
+r"\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-1_recording-\4.\4"]
+
 
 }
 
@@ -72,10 +133,10 @@ for mk in matchdct.keys():
     destlist=[]
 
     for sl in sorted(srclist):
-        if re.match(matchdct['dti'][0],sl):
-            print sl,re.sub(matchdct['dti'][0],matchdct['dti'][1],sl)
+        if re.match(matchdct[mk][0],sl):
+            #print sl,re.sub(matchdct[mk][0],matchdct[mk][1],sl)
             srclist_filt.append(sl)
-            destlist.append(re.sub(matchdct['dti'][0],matchdct['dti'][1],sl))
+            destlist.append(re.sub(matchdct[mk][0],matchdct[mk][1],sl).replace(ipdir,opdir))
 
 
     # Note might error with make_public=True, removing it stops error, unsure why error occurs
@@ -97,41 +158,28 @@ r"""
 # Breath Hold Checkerboard eyemovement MSIT
 
 # DTI
-"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.nii.gz" , "\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.nii.gz"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.bval" , "\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.bval"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.bvec" , "\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.bvec"
 
 # Fieldmaps
-"(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_magnitude.nii.gz" , "\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_magnitude.nii.gz"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_phase.nii.gz" , "\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_phasediff.nii.gz"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/magnitude([12]).nii.gz" , "\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_magnitude\4.nii.gz"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/phase.nii.gz" , "\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_phasediff.nii.gz"
 
 # CBF
-"(.+)/([0-9]+)/session_([0-9]{1,2})/cbf_([0-9]{1,2})/cbf.nii.gz" , "\1/sub-\2/ses-\3/cbf/sub-\2_ses-\3_task-rest_run-\4_cbf.nii.gz"
 
 # ASL
-"(.+)/([0-9]+)/session_([0-9]{1,2})/asl_([0-9]{1,2})/asl.nii.gz" , "\1/sub-\2/ses-\3/asl/sub-\2_ses-\3_run-\4_asl.nii.gz"
 
 # Physio
 # UTAH
 # .mat Physio Files with run number in original filename
-"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/Physio_scan_([0-9]{1,2}).mat" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_recording-physio.mat"
+
 # EPI log .resp/.puls Files with run number in original filename
-"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/EPIlog_scan_([0-9]{1,2}).([a-z]{4})" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_recording-\5.\5"
+
 # resp/puls text Files with run number in original filename
-"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/([a-z]{4})_scan_([0-9]{1,2}).txt" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\5_recording-\4.txt"
+
 # EPI/PMU log .resp/.puls Files with run number in original filename
-"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/.+_rest([0-9]{1}).([a-z]{4})" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_recording-\5.\5"
+
 # no phys available text files
-"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/no_physio_available.txt" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_no_physio_available.txt"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/NoPhysio_Scan2" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_no_physio_available.txt"
 
 # EPI/PMU log .resp/.puls Files WITHOUT run number in original filename
-"(.+)/([0-9]+)/session_([0-9]{1,2})/[Pp]hysio/.+_rest.([a-z]{4})" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-1_recording-\4.\4"
 
 # IBA MSIT Behavioural
-"(.+)/([0-9]+)/session_([0-9]{1,2})/msit_([1-9]{1})/behavior.txt" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-msit_run-\4_behavior.txt"
-"(.+)/([0-9]+)/session_([0-9]{1,2})/msit_([1-9]{1})/logfile.txt" , "\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-msit_run-\4_logfile.txt"
+
 
 """

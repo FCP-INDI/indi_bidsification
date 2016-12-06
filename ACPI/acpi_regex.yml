@@ -1,0 +1,8 @@
+'func_rest' : 
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/rest_([0-9]+)/rest'
+    - '\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_func'
+
+'anat' :
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]+)/anat'
+    - '\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_T1w'
+

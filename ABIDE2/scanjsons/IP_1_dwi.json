@@ -1,0 +1,26 @@
+[
+  {
+    "Acquisition Matrix": "96x74", 
+    "Acquisition Time [min:sec]": "3:09", 
+    "B Value(s) [s/mm2]": "0;1000", 
+    "Echo Time (TE) [ms]": 86.0, 
+    "Fat Suppression": "SPIR", 
+    "Field Strength": "1.5T", 
+    "Field of View [mm]": "240x190", 
+    "Flip Angle [Deg]": 90.0, 
+    "Manufacturer": "Philips", 
+    "Model": "Achieva", 
+    "Number of B Zeros": 1.0, 
+    "Number of Directions": 32, 
+    "Number of Slices": 45, 
+    "Orientation": "Axial", 
+    "Parallel Acquisition": "S2", 
+    "Repetition Time (TR) [ms]": 5407, 
+    "Sequence": "EPI", 
+    "Slice Acquisition Order": "Default", 
+    "Slice Gap [mm]": 0, 
+    "Slice In-Place Resolution [mm2]": "2.5x2.5", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 2.5
+  }
+]

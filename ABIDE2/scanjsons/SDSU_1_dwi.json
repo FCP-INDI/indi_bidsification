@@ -1,0 +1,20 @@
+[
+  {
+    "Fat Suppression": "Yes", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "128x128", 
+    "Headcoil": "8Ch", 
+    "Manufacturer": "GE", 
+    "Model": "MR750", 
+    "Number of B Zeros": 1.0, 
+    "Number of Directions": 61, 
+    "Number of Slices": 68, 
+    "Orientation": "Axial", 
+    "Repetition Time (TR) [ms]": 8500, 
+    "Sequence": "EPI", 
+    "Slice Acquisition Order": "Interleaved Ascending", 
+    "Slice Gap [mm]": 0, 
+    "Slice In-Place Resolution [mm2]": "0.9375x0.9375/1.875x1.875", 
+    "Slice Thickness [mm]": 2.0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "AcquisitionMatrix": "256x256", 
+    "AcquisitionTime[min:sec]": "8:06", 
+    "BandwidthperVoxel(Readout)[Hz]": 140.0, 
+    "EchoTime(TE)[ms]": "4.33", 
+    "FatSuppression": "On", 
+    "FieldStrength": "3T", 
+    "FieldofView[mm]": "256x256", 
+    "FlipAngle[Deg]": 7, 
+    "InversionTime(TI)[ms]": 1100, 
+    "Manufacturer": "Siemens", 
+    "Model": "TrioTIm", 
+    "NumberofSlices": 160, 
+    "Orientation": "saggital", 
+    "ParallelAcquisition": "Off", 
+    "PhasePartialFourier": "7/8", 
+    "RepetitionTime(TR)[ms]": 2170.0, 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.6, 
+    "SliceIn-PlaceResolution[mm2]": "1.0x1.0", 
+    "SlicePhaseEncodingDirection": "AP", 
+    "SliceThickness[mm]": 1.2
+  }
+]

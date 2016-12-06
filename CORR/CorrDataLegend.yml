@@ -1,0 +1,49 @@
+'SEX' :
+    '1' : 'female'
+    '2' : 'male'
+
+'VISUAL_STIMULATION_CONDITION' :
+    '1' : 'fixation'
+    '2' : 'blank screen'
+    '3' : 'work'
+    '4' : 'eyes closed'
+    '5' : 'other'
+
+'RETEST_DESIGN' : 
+    '1' : 'within session'
+    '2' : 'between session'
+    '3' : 'within and between'
+
+'PRECEDING_CONDITION' :
+    '0' : 'no active task'
+    '1' : 'active task'
+    '2' : 'music listening'
+    '3' : 'video watching'
+    '4' : 'unknown'
+
+'RETEST_UNITS' :
+    'm' : 'minutes'
+    'd' : 'days'
+
+'TIME_OF_DAY' :
+    '0' : '[00:00-03:59]'
+    '1' : '[04:00-07:59]'
+    '2' : '[08:00-11:59]'
+    '3' : '[12:00-15:59]'
+    '4' : '[16:00-19:59]'
+    '5' : '[20:00-23:59]'
+
+'SEASON' :
+    '0' : 'winter'
+    '1' : 'spring'
+    '2' : 'summer'
+    '3' : 'fall'
+
+'SATIETY' :
+    '0' : 'unknown'
+    '1' : 'post-prandial'
+    '2' : 'fasting'
+
+'LMP' :
+    '0' : 'unknown'
+    '-1' : 'male'

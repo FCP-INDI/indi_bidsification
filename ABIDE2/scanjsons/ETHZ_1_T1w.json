@@ -1,0 +1,21 @@
+[
+  {
+    "Acquisition Matrix": "256x256", 
+    "Acquisition Time [min:sec]": "5:46", 
+    "Echo Time (TE) [ms]": "Shortest", 
+    "Fat Suppression": "No", 
+    "Field of View [mm]": "230x230", 
+    "Flip Angle [Deg]": 8.0, 
+    "Headcoil": "32Ch", 
+    "Inversion Time (TI) [ms]": 1150.0, 
+    "Manufacturer": "Philips", 
+    "Model": "Achieva", 
+    "Number of Slices": 180.0, 
+    "Orientation": "Axial", 
+    "Parallel Acquisition": "S2.3", 
+    "Repetition Time (TR) [ms]": "8.4", 
+    "Sequence": "3D TFE", 
+    "Slice In-Place Resolution [mm2]": "0.9x0.9", 
+    "Slice Thickness [mm]": 0.9
+  }
+]

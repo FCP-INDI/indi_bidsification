@@ -1,0 +1,61 @@
+participant_id	site	session	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+25599	JHNU_1	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25599	JHNU_1	Retest_1	#	#	#	#	900	days	no active task	#	#
+25600	JHNU_1	Baseline	male	21	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25600	JHNU_1	Retest_1	#	#	#	#	365	days	no active task	#	#
+25601	JHNU_1	Baseline	male	40	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25601	JHNU_1	Retest_1	#	#	#	#	540	days	no active task	#	#
+25602	JHNU_1	Baseline	female	20	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25602	JHNU_1	Retest_1	#	#	#	#	7	days	no active task	#	#
+25603	JHNU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25603	JHNU_1	Retest_1	#	#	#	#	0	days	no active task	#	#
+25604	JHNU_1	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25604	JHNU_1	Retest_1	#	#	#	#	1	days	no active task	#	#
+25605	JHNU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25605	JHNU_1	Retest_1	#	#	#	#	90	days	no active task	#	#
+25606	JHNU_1	Baseline	male	20	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25606	JHNU_1	Retest_1	#	#	#	#	900	days	no active task	#	#
+25607	JHNU_1	Baseline	male	22	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25607	JHNU_1	Retest_1	#	#	#	#	900	days	no active task	#	#
+25608	JHNU_1	Baseline	male	21	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25608	JHNU_1	Retest_1	#	#	#	#	180	days	no active task	#	#
+25609	JHNU_1	Baseline	female	22	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25609	JHNU_1	Retest_1	#	#	#	#	13	days	no active task	#	#
+25610	JHNU_1	Baseline	male	21	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25610	JHNU_1	Retest_1	#	#	#	#	300	days	no active task	#	#
+25611	JHNU_1	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25611	JHNU_1	Retest_1	#	#	#	#	120	days	no active task	#	#
+25612	JHNU_1	Baseline	female	20	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25612	JHNU_1	Retest_1	#	#	#	#	9	days	no active task	#	#
+25613	JHNU_1	Baseline	male	22	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25613	JHNU_1	Retest_1	#	#	#	#	60	days	no active task	#	#
+25614	JHNU_1	Baseline	male	22	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25614	JHNU_1	Retest_1	#	#	#	#	19	days	no active task	#	#
+25615	JHNU_1	Baseline	female	22	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25615	JHNU_1	Retest_1	#	#	#	#	120	days	no active task	#	#
+25616	JHNU_1	Baseline	female	22	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25616	JHNU_1	Retest_1	#	#	#	#	8	days	no active task	#	#
+25617	JHNU_1	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25617	JHNU_1	Retest_1	#	#	#	#	150	days	no active task	#	#
+25618	JHNU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25618	JHNU_1	Retest_1	#	#	#	#	270	days	no active task	#	#
+25619	JHNU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25619	JHNU_1	Retest_1	#	#	#	#	150	days	no active task	#	#
+25620	JHNU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25620	JHNU_1	Retest_1	#	#	#	#	150	days	no active task	#	#
+25621	JHNU_1	Baseline	female	20	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25621	JHNU_1	Retest_1	#	#	#	#	90	days	no active task	#	#
+25622	JHNU_1	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25622	JHNU_1	Retest_1	#	#	#	#	150	days	no active task	#	#
+25623	JHNU_1	Baseline	male	22	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25623	JHNU_1	Retest_1	#	#	#	#	0	days	no active task	#	#
+25624	JHNU_1	Baseline	male	26	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25624	JHNU_1	Retest_1	#	#	#	#	1	days	no active task	#	#
+25625	JHNU_1	Baseline	female	21	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25625	JHNU_1	Retest_1	#	#	#	#	540	days	no active task	#	#
+25626	JHNU_1	Baseline	male	26	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25626	JHNU_1	Retest_1	#	#	#	#	0	days	no active task	#	#
+25627	JHNU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25627	JHNU_1	Retest_1	#	#	#	#	15	days	no active task	#	#
+25628	JHNU_1	Baseline	male	28	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25628	JHNU_1	Retest_1	#	#	#	#	30	days	no active task	#	#

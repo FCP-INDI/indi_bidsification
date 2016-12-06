@@ -1,0 +1,156 @@
+participant_id	site	session	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+25335	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25335	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25335	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25335	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25335	LMU_1	Retest_5	#	#	#	#	600	minutes	active task	#	#
+25336	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25336	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25336	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25336	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25336	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25336	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25337	LMU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25337	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25337	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25337	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25337	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25338	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25338	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25338	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25338	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25338	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25338	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25339	LMU_1	Baseline	female	22	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25339	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25339	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25339	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25339	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25339	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25340	LMU_1	Baseline	male	26	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25340	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25340	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25340	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25340	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25340	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25341	LMU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25341	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25341	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25341	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25341	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25342	LMU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25342	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25342	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25342	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25342	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25343	LMU_1	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25343	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25343	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25343	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25343	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25343	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25344	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25344	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25344	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25344	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25344	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25344	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25345	LMU_1	Baseline	female	20	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25345	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25345	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25345	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25345	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25345	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25346	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25346	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25346	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25346	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25346	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25346	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25347	LMU_1	Baseline	female	22	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25347	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25347	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25347	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25347	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25347	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25348	LMU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25348	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25348	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25348	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25348	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25349	LMU_1	Baseline	male	25	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25349	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25349	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25349	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25349	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25349	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25350	LMU_1	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25350	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25350	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25350	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25350	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25350	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25351	LMU_1	Baseline	male	26	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25351	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25351	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25351	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25351	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25351	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25352	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25352	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25352	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25352	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25352	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25352	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25353	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25353	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25353	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25353	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25353	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25353	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25354	LMU_1	Baseline	male	23	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25354	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25354	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25354	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25354	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25354	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25355	LMU_1	Baseline	male	27	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25355	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25355	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25355	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25355	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25356	LMU_1	Baseline	female	27	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25356	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25356	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25356	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25356	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25356	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25357	LMU_1	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25357	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25357	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25357	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25357	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25357	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25358	LMU_1	Baseline	female	29	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25358	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25358	LMU_1	Retest_2	#	#	#	#	360	minutes	no active task	#	#
+25358	LMU_1	Retest_3	#	#	#	#	480	minutes	no active task	#	#
+25358	LMU_1	Retest_4	#	#	#	#	600	minutes	no active task	#	#
+25359	LMU_1	Baseline	female	25	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25359	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25359	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25359	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25359	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25359	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25360	LMU_1	Baseline	male	25	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25360	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25360	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25360	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25360	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25360	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#
+25361	LMU_1	Baseline	male	27	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25361	LMU_1	Retest_1	#	#	#	#	120	minutes	no active task	#	#
+25361	LMU_1	Retest_2	#	#	#	#	240	minutes	no active task	#	#
+25361	LMU_1	Retest_3	#	#	#	#	360	minutes	no active task	#	#
+25361	LMU_1	Retest_4	#	#	#	#	480	minutes	no active task	#	#
+25361	LMU_1	Retest_5	#	#	#	#	600	minutes	no active task	#	#

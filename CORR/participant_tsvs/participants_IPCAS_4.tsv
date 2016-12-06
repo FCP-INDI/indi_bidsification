@@ -1,0 +1,41 @@
+participant_id	site	session	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+26190	IPCAS_4	Baseline	female	23	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26190	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26191	IPCAS_4	Baseline	male	24	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26191	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26192	IPCAS_4	Baseline	male	22	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26192	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26193	IPCAS_4	Baseline	male	23	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26193	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26194	IPCAS_4	Baseline	male	28	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26194	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26195	IPCAS_4	Baseline	male	22	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26195	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26196	IPCAS_4	Baseline	female	22	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26196	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26197	IPCAS_4	Baseline	male	23	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26197	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26198	IPCAS_4	Baseline	male	23	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26198	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26199	IPCAS_4	Baseline	female	24	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26199	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26200	IPCAS_4	Baseline	male	22	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26200	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26201	IPCAS_4	Baseline	female	25	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26201	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26202	IPCAS_4	Baseline	female	21	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26202	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26203	IPCAS_4	Baseline	female	21	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26203	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26204	IPCAS_4	Baseline	female	23	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26204	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26205	IPCAS_4	Baseline	male	23	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26205	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26206	IPCAS_4	Baseline	female	24	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26206	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26207	IPCAS_4	Baseline	female	23	#	within session	#	minutes	no active task	fixation	Lie Still and Relax During Scan
+26207	IPCAS_4	Retest_1	#	#	#	#	44	#	active task	#	#
+26208	IPCAS_4	Baseline	female	25	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26208	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#
+26209	IPCAS_4	Baseline	male	22	#	within session	#	#	no active task	fixation	Lie Still and Relax During Scan
+26209	IPCAS_4	Retest_1	#	#	#	#	44	minutes	active task	#	#

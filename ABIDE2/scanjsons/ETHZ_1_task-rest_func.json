@@ -1,0 +1,25 @@
+[
+  {
+    "Acquisition Matrix": "80x77", 
+    "Acquisition Time [min:sec]": "7.06", 
+    "Echo Time (TE) [ms]": 25.0, 
+    "Fat Suppression": "Yes", 
+    "Field of View [mm]": "240x240", 
+    "Flip Angle [Deg]": 90.0, 
+    "Headcoil": "32Ch", 
+    "Manufacturer": "Philips", 
+    "Model": "Achieva", 
+    "Number of Measurements": 210.0, 
+    "Number of Slices": 40.0, 
+    "Orientation": "Axial", 
+    "Prospective Motion Correction": "No", 
+    "Repetition Time (TR) [ms]": 2000.0, 
+    "Retrospective Motion Correction": "No", 
+    "Sequence": "EPI", 
+    "Slice Acquisition Order": "Descending", 
+    "Slice Gap [mm]": 0.0, 
+    "Slice In-Place Resolution [mm2]": "3x3.1", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 3.0
+  }
+]

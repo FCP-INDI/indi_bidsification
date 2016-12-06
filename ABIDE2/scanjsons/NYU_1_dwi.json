@@ -1,0 +1,31 @@
+[
+  {
+    "Acquisition Matrix": "64x64", 
+    "Acquisition Time [min:sec]": "5:43", 
+    "Averages": 1.0, 
+    "B Value(s) [s/mm2]": "0;1000", 
+    "Bandwidth per Voxel (Readout) [Hz]": 3720.0, 
+    "Echo Time (TE) [ms]": 78.0, 
+    "Fat Suppression": "None", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "192x192", 
+    "Flip Angle [Deg]": 60.0, 
+    "Headcoil": "8Ch Nova head coil", 
+    "Manufacturer": "Siemens", 
+    "Model": "Allegra", 
+    "Number of B Zeros": 1.0, 
+    "Number of Directions": 64, 
+    "Number of Measurements": 1.0, 
+    "Number of Slices": 50, 
+    "Orientation": "Axial", 
+    "Parallel Acquisition": "None", 
+    "Phase Partial Fourier": "None", 
+    "Repetition Time (TR) [ms]": 5200, 
+    "Sequence": "EPI", 
+    "Slice Acquisition Order": "Interleaved Ascending", 
+    "Slice Gap [mm]": 0, 
+    "Slice In-Place Resolution [mm2]": "3x3", 
+    "Slice Phase Encoding Direction": "RL", 
+    "Slice Thickness [mm]": 3.0
+  }
+]

@@ -1,0 +1,40 @@
+r"""
+# All Anats
+# MPG MP2RAGE T1 Weighted Component Images
+# Fix new name of inversion phase components to remove underscore
+#for i in $(find Organized_Data_BIDs/mpg_1/ -iname '*inv*phs*T1w*');do mv -nv $i ${i/_phs/phs};done
+
+# Funcs not containing reference to TR (NKI) or Shortened Number of Slices (MPG)
+
+# Pulls in NKI rest Data with reference to TR
+
+# Pulls in MPG data with reference to Prefrontal acquisition
+
+# Breath Hold Checkerboard eyemovement MSIT
+
+# DTI
+
+# Fieldmaps
+
+# CBF
+
+# ASL
+
+# Physio
+# UTAH
+# .mat Physio Files with run number in original filename
+
+# EPI log .resp/.puls Files with run number in original filename
+
+# resp/puls text Files with run number in original filename
+
+# EPI/PMU log .resp/.puls Files with run number in original filename
+
+# no phys available text files
+
+# EPI/PMU log .resp/.puls Files WITHOUT run number in original filename
+
+# IBA MSIT Behavioural
+
+
+"""

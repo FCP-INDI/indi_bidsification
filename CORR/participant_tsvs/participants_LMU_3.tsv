@@ -1,0 +1,51 @@
+participant_id	site	session	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+25402	LMU_3	Baseline	male	76	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25402	LMU_3	Retest_1	#	#	#	#	371	days	no active task	#	#
+25403	LMU_3	Baseline	male	72	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25403	LMU_3	Retest_1	#	#	#	#	366	days	no active task	#	#
+25404	LMU_3	Baseline	female	65	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25404	LMU_3	Retest_1	#	#	#	#	385	days	no active task	#	#
+25405	LMU_3	Baseline	male	60	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25405	LMU_3	Retest_1	#	#	#	#	357	days	no active task	#	#
+25406	LMU_3	Baseline	male	59	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25406	LMU_3	Retest_1	#	#	#	#	408	days	no active task	#	#
+25407	LMU_3	Baseline	male	69	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25407	LMU_3	Retest_1	#	#	#	#	404	days	no active task	#	#
+25408	LMU_3	Baseline	female	60	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25408	LMU_3	Retest_1	#	#	#	#	427	days	no active task	#	#
+25409	LMU_3	Baseline	female	59	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25409	LMU_3	Retest_1	#	#	#	#	410	days	no active task	#	#
+25410	LMU_3	Baseline	male	64	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25410	LMU_3	Retest_1	#	#	#	#	410	days	no active task	#	#
+25411	LMU_3	Baseline	male	83	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25411	LMU_3	Retest_1	#	#	#	#	352	days	no active task	#	#
+25412	LMU_3	Baseline	male	63	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25412	LMU_3	Retest_1	#	#	#	#	399	days	no active task	#	#
+25413	LMU_3	Baseline	female	71	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25413	LMU_3	Retest_1	#	#	#	#	418	days	no active task	#	#
+25414	LMU_3	Baseline	male	79	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25414	LMU_3	Retest_1	#	#	#	#	433	days	no active task	#	#
+25415	LMU_3	Baseline	female	73	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25415	LMU_3	Retest_1	#	#	#	#	412	days	no active task	#	#
+25416	LMU_3	Baseline	male	74	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25416	LMU_3	Retest_1	#	#	#	#	418	days	no active task	#	#
+25417	LMU_3	Baseline	male	73	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25417	LMU_3	Retest_1	#	#	#	#	463	days	no active task	#	#
+25418	LMU_3	Baseline	female	79	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25418	LMU_3	Retest_1	#	#	#	#	434	days	no active task	#	#
+25419	LMU_3	Baseline	female	88	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25419	LMU_3	Retest_1	#	#	#	#	384	days	no active task	#	#
+25420	LMU_3	Baseline	female	60	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25420	LMU_3	Retest_1	#	#	#	#	448	days	no active task	#	#
+25421	LMU_3	Baseline	male	62	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25421	LMU_3	Retest_1	#	#	#	#	315	days	no active task	#	#
+25422	LMU_3	Baseline	male	71	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25422	LMU_3	Retest_1	#	#	#	#	330	days	no active task	#	#
+25423	LMU_3	Baseline	male	68	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25423	LMU_3	Retest_1	#	#	#	#	422	days	no active task	#	#
+25424	LMU_3	Baseline	male	72	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25424	LMU_3	Retest_1	#	#	#	#	377	days	no active task	#	#
+25425	LMU_3	Baseline	female	68	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25425	LMU_3	Retest_1	#	#	#	#	436	days	no active task	#	#
+25426	LMU_3	Baseline	male	77	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+25426	LMU_3	Retest_1	#	#	#	#	412	days	no active task	#	#

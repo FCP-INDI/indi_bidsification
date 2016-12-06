@@ -1,0 +1,26 @@
+[
+  {
+    "Acquisition Matrix": "64x64", 
+    "Acquisition Time [min:sec]": "8.06", 
+    "Bandwidth per Voxel (Readout) [Hz]": "2894", 
+    "Echo Time (TE) [ms]": 28.0, 
+    "Fat Suppression": "Yes", 
+    "Field Strength": "3T", 
+    "Field of View [mm]": "220x220", 
+    "Flip Angle [Deg]": 90.0, 
+    "Manufacturer": "Siemens", 
+    "Model": "TriTim", 
+    "Number of Measurements": 240.0, 
+    "Number of Slices": 40.0, 
+    "Orientation": "Axial", 
+    "Parallel Acquisition": "G2", 
+    "Prospective Motion Correction": "On", 
+    "Repetition Time (TR) [ms]": 2000.0, 
+    "Sequence": "EPI", 
+    "Slice Acquisition Order": "Interleaved Ascending", 
+    "Slice Gap [mm]": 0.3, 
+    "Slice In-Place Resolution [mm2]": "3.4x3.4", 
+    "Slice Phase Encoding Direction": "AP", 
+    "Slice Thickness [mm]": 3.0
+  }
+]

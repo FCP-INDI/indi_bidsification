@@ -1,0 +1,57 @@
+participant_id	site	session	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+25457	IACAS	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25457	IACAS	Retest_1	female	24	#	#	47	days	no active task	#	#
+25458	IACAS	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25458	IACAS	Retest_1	male	24	#	#	93	days	no active task	#	#
+25459	IACAS	Baseline	male	25	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25459	IACAS	Retest_1	male	25	#	#	43	days	no active task	#	#
+25460	IACAS	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25460	IACAS	Retest_1	female	24	#	#	46	days	no active task	#	#
+25461	IACAS	Baseline	male	25	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25461	IACAS	Retest_1	male	25	#	#	46	days	no active task	#	#
+25462	IACAS	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25462	IACAS	Retest_1	female	24	#	#	47	days	no active task	#	#
+25463	IACAS	Baseline	female	28	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25463	IACAS	Retest_1	female	28	#	#	95	days	no active task	#	#
+25464	IACAS	Baseline	female	26	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25464	IACAS	Retest_1	female	26	#	#	67	days	no active task	#	#
+25465	IACAS	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25465	IACAS	Retest_1	male	24	#	#	105	days	no active task	#	#
+25466	IACAS	Baseline	female	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25466	IACAS	Retest_1	female	24	#	#	86	days	no active task	#	#
+25467	IACAS	Baseline	male	30	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25467	IACAS	Retest_1	male	30	#	#	87	days	no active task	#	#
+25468	IACAS	Baseline	female	31	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25468	IACAS	Retest_1	female	31	#	#	63	days	no active task	#	#
+25469	IACAS	Baseline	female	25	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25469	IACAS	Retest_1	female	25	#	#	39	days	no active task	#	#
+25470	IACAS	Baseline	female	21	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25470	IACAS	Retest_1	female	21	#	#	42	days	no active task	#	#
+25471	IACAS	Baseline	male	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25471	IACAS	Retest_1	male	19	#	#	42	days	no active task	#	#
+25472	IACAS	Baseline	female	29	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25472	IACAS	Retest_1	female	29	#	#	34	days	no active task	#	#
+25473	IACAS	Baseline	female	34	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25473	IACAS	Retest_1	female	34	#	#	64	days	no active task	#	#
+25474	IACAS	Baseline	male	43	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25474	IACAS	Retest_1	male	43	#	#	36	days	no active task	#	#
+25475	IACAS	Baseline	male	29	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25475	IACAS	Retest_1	male	29	#	#	26	days	no active task	#	#
+25476	IACAS	Baseline	male	25	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25476	IACAS	Retest_1	male	25	#	#	112	days	no active task	#	#
+25477	IACAS	Baseline	male	29	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25477	IACAS	Retest_1	male	29	#	#	343	days	no active task	#	#
+25478	IACAS	Baseline	male	24	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25478	IACAS	Retest_1	male	24	#	#	218	days	no active task	#	#
+25479	IACAS	Baseline	male	32	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25479	IACAS	Retest_1	male	32	#	#	20	days	no active task	#	#
+25480	IACAS	Baseline	female	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25480	IACAS	Retest_1	female	19	#	#	48	days	no active task	#	#
+25481	IACAS	Baseline	male	27	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25481	IACAS	Retest_1	male	27	#	#	56	days	no active task	#	#
+25482	IACAS	Baseline	female	28	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25482	IACAS	Retest_1	female	28	#	#	56	days	no active task	#	#
+25483	IACAS	Baseline	female	19	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25483	IACAS	Retest_1	female	19	#	#	91	days	no active task	#	#
+25484	IACAS	Baseline	female	28	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+25484	IACAS	Retest_1	female	28	#	#	56	days	no active task	#	#

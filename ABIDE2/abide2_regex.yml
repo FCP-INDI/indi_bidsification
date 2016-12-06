@@ -1,0 +1,52 @@
+'func_rest' : 
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/rest_([0-9]+)/rest'
+    - '\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-rest_run-\4_func'
+
+'anat' :
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]+)/anat'
+    - '\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_T1w'
+
+'anat_hires' :
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/anat_hires_([0-9]+)/anat'
+    - '\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_acq-hires_run-\4_T1w'
+
+'dti' : 
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti' 
+    - '\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi'
+
+'flair' : 
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/flair_([0-9]{1,2})/flair'
+    - '\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_FLAIR'
+
+'func_rest_baseline' : 
+    - '(.+)/([0-9]+)/baseline/rest_([0-9]+)/rest'
+    - '\1/sub-\2/ses-1/func/sub-\2_ses-1_task-rest_run-\3_func'
+
+'anat_baseline' :
+    - '(.+)/([0-9]+)/baseline/anat_([0-9]+)/anat'
+    - '\1/sub-\2/ses-1/anat/sub-\2_ses-1_run-\3_T1w'
+
+'anat_hires_baseline' :
+    - '(.+)/([0-9]+)/baseline/anat_hires_([0-9]+)/anat'
+    - '\1/sub-\2/ses-1/anat/sub-\2_ses-1_acq-hires_run-\3_T1w'
+
+'func_rest_followup1' : 
+    - '(.+)/([0-9]+)/followup_1/rest_([0-9]+)/rest'
+    - '\1/sub-\2/ses-2/func/sub-\2_ses-2_task-rest_run-\3_func'
+
+'anat_followup1' :
+    - '(.+)/([0-9]+)/followup_1/anat_([0-9]+)/anat'
+    - '\1/sub-\2/ses-2/anat/sub-\2_ses-2_run-\3_T1w'
+
+'anat_hires_followup1' :
+    - '(.+)/([0-9]+)/followup_1/anat_hires_([0-9]+)/anat'
+    - '\1/sub-\2/ses-2/anat/sub-\2_ses-2_acq-hires_run-\3_T1w'
+
+'dti_fmap_nyu' : 
+    - '(.+)/([0-9]+)/session_1/dti_fieldmap/dti_fieldmap_([0-9])' 
+    - '\1/sub-\2/ses-1/dwi/sub-\2_ses-1_run-\3_fieldmap'
+
+'dti_bvs_nyu' : 
+    - '(.+)/([0-9]+)/session_1/dti_fieldmap/dti.bv' 
+    - '\1/sub-\2/ses-1/dwi/sub-\2_ses-1_run-1_dwi.bv'
+
