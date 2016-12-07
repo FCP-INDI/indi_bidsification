@@ -1,0 +1,6 @@
+'anat-acq3' :
+    match :
+        - '(.+)/sub-([0-9]+)/ses-([0-9]{1,2})/anat/sub-[0-9]+_ses-[0-9]{1,2}_run-([0-9]{1,2})_T1w'
+        - '\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_acq-3_T1w'
+    include :
+        - '2940712'
