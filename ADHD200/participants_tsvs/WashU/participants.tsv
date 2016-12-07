@@ -1,62 +1,62 @@
-participant_id	site	gender	age	handedness	dx	secondary dx 	adhd measure	adhd index	inattentive	hyper/impulsive	iq measure	verbal iq	performance iq	full2 iq	full4 iq	med status	study #	qc_s1_rest_1	qc_s1_rest_2	qc_s1_rest_3	qc_s1_rest_4	qc_s1_rest_5	qc_s1_rest_6	qc_s1_anat	qc_s2_rest_1	qc_s2_rest_2	qc_s2_anat
-15001	WashU	Male	9.94	Right	Typically Developing Children						Two subtest WASI				140		1	1	1	1	0	0	0	0			
-15002	WashU	Female	7.17	Right	Typically Developing Children						Two subtest WASI				136		1	1	0	0	0	0	0	1			
-15003	WashU	Male	9.18	Right	Typically Developing Children						Two subtest WASI				126		1	1	0	0	0	0	0	1			
-15004	WashU	Female	7.46	Right	Typically Developing Children						Two subtest WASI				96		1	0	0	0	1	1	0	1			
-15005	WashU	Female	21.13	Right	Typically Developing Children						Two subtest WASI				111		2	1	1					1	1	1	
-15006	WashU	Female	21.81	Right	Typically Developing Children						Two subtest WASI				128		2	1	1					1	1	0	
-15007	WashU	Female	21.22	Right	Typically Developing Children						Two subtest WASI				122		2	1	1					1	1	1	
-15008	WashU	Female	8.64	Right	Typically Developing Children						Two subtest WASI				141		2	0	0					1			
-15010	WashU	Female	7.63	Right	Typically Developing Children						Two subtest WASI				99		2	0						1			
-15011	WashU	Male	7.26	Right	Typically Developing Children						Two subtest WASI				124		2							1	0		
-15012	WashU	Female	8.96	Right	Typically Developing Children						Two subtest WASI				109		2	0						1			
-15013	WashU	Female	7.67	Right	Typically Developing Children						Two subtest WASI				117		2	1						1	1		
-15014	WashU	Female	7.09	Right	Typically Developing Children						Two subtest WASI				121		2	1						1	0		
-15015	WashU	Female	8.1	Right	Typically Developing Children						Two subtest WASI				109		2	0						1			
-15016	WashU	Male	8.3	Right	Typically Developing Children						Two subtest WASI				96		2	1							0		1
-15017	WashU	Male	8.02	Right	Typically Developing Children						Two subtest WASI				98		2	1						1	0		
-15018	WashU	Female	8.05	Right	Typically Developing Children						Two subtest WASI				112		2							1	1		
-15019	WashU	Male	8.28	Right	Typically Developing Children						Two subtest WASI				132		2	1						1	0	0	
-15020	WashU	Female	8.41	Right	Typically Developing Children						Two subtest WASI				139		2	0						1	0	0	
-15021	WashU	Female	7.52	Right	Typically Developing Children						Two subtest WASI				86		2	0						1	1		
-15022	WashU	Male	9.17	Right	Typically Developing Children						Two subtest WASI				118		2	0						1	0		
-15023	WashU	Female	7.77	Right	Typically Developing Children						Two subtest WASI				119		2	0						1	0		
-15024	WashU	Male	7.25	Right	Typically Developing Children						Two subtest WASI				136		2	1						1	0		
-15025	WashU	Female	7.75	Right	Typically Developing Children						Two subtest WASI				114		2	0						1			
-15026	WashU	Female	10.11	Right	Typically Developing Children						Two subtest WASI				113		3	1	1	1				1			
-15027	WashU	Female	14.89	Right	Typically Developing Children						Two subtest WASI				123		3	1	1	1				1			
-15028	WashU	Male	9.23	Right	Typically Developing Children						Two subtest WASI				121		3	1	1	1				1			
-15029	WashU	Male	11.24	Right	Typically Developing Children						Two subtest WASI				101		3	1	0	0				1			
-15030	WashU	Male	14.45	Right	Typically Developing Children						Two subtest WASI				114		3	1	0	1				1			
-15031	WashU	Male	12.35	Right	Typically Developing Children						Two subtest WASI				120		3	0	0	1				1			
-15032	WashU	Male	10.9	Right	Typically Developing Children						Two subtest WASI				128		3	1	0	0				1			
-15033	WashU	Female	11.96	Right	Typically Developing Children						Two subtest WASI				134		3	1	1	1				1			
-15034	WashU	Male	10.28	Right	Typically Developing Children						Two subtest WASI				133		3	1	0	0				1			
-15035	WashU	Male	11.17	Right	Typically Developing Children						Two subtest WASI				121		3	1	0	0				1			
-15036	WashU	Female	12.77	Right	Typically Developing Children						Two subtest WASI				109		3	1	1	1				1			
-15037	WashU	Female	14.43	Right	Typically Developing Children						Two subtest WASI				107		3	0	0	0				1			
-15038	WashU	Male	12.38	Right	Typically Developing Children						Two subtest WASI				128		3	0						1			
-15039	WashU	Female	14.25	Right	Typically Developing Children						Two subtest WASI				86		3	1	0	1				1			
-15040	WashU	Male	15	Right	Typically Developing Children						Two subtest WASI				123		3	1	0	0				1			
-15041	WashU	Male	14.73	Right	Typically Developing Children						Two subtest WASI				115		3	1	1	0				1			
-15042	WashU	Male	13.66	Right	Typically Developing Children						Two subtest WASI				107		3	1	1	1				1			
-15043	WashU	Male	14.56	Right	Typically Developing Children						Two subtest WASI				125		3	1	1	0				1			
-15044	WashU	Male	10.35	Right	Typically Developing Children						Two subtest WASI				97		3	1	0	0				1			
-15045	WashU	Male	13.18	Right	Typically Developing Children						Two subtest WASI				107		3	1	1	0				1			
-15046	WashU	Male	9.63	Right	Typically Developing Children						Two subtest WASI				104		3	0	0					0			
-15047	WashU	Male	13.07	Right	Typically Developing Children						Two subtest WASI				126		3	0	0	0				1			
-15048	WashU	Male	11.62	Right	Typically Developing Children						Two subtest WASI				106		3	1	1	1				1			
-15049	WashU	Male	9.98	Right	Typically Developing Children						Two subtest WASI				139		3	0	0	0				1			
-15050	WashU	Female	11.43	Right	Typically Developing Children						Two subtest WASI				103		3	1	1	0				1			
-15051	WashU	Male	8.16	Right	Typically Developing Children						Two subtest WASI				89		3	0	0					0			
-15052	WashU	Male	21.83	Right	Typically Developing Children						Two subtest WASI				127		3	1	1	1				1			
-15053	WashU	Female	15.29	Right	Typically Developing Children						Two subtest WASI				101		3	1	1	1				1			
-15054	WashU	Female	13.47	Right	Typically Developing Children						Two subtest WASI				117		3	1	1	1				1			
-15055	WashU	Female	9.2	Right	Typically Developing Children						Two subtest WASI				129		3	1	0					1			
-15056	WashU	Male	10.97	Right	Typically Developing Children						Two subtest WASI				118		3	0	0					0			
-15057	WashU	Male	21.24	Right	Typically Developing Children						Two subtest WASI				122		3	1	1	1				1			
-15058	WashU	Female	14.08	Right	Typically Developing Children						Two subtest WASI				115		3	1	1	1				1			
-15059	WashU	Female	9.05	Right	Typically Developing Children						Two subtest WASI				103		3	0	1	0				1			
-15060	WashU	Male	9.76	Right	Typically Developing Children						Two subtest WASI				137		3	0	0	0				1			
-15061	WashU	Male	12.04	Right	Typically Developing Children						Two subtest WASI				98		3	0	0	0				1			
-15062	WashU	Male	12.88	Right	Typically Developing Children						Two subtest WASI				108		3	1	1	1				1			
+participant_id	gender	age	handedness	dx	secondary dx 	adhd measure	adhd index	inattentive	hyper/impulsive	iq measure	verbal iq	performance iq	full2 iq	full4 iq	med status	study #	qc_s1_rest_1	qc_s1_rest_2	qc_s1_rest_3	qc_s1_rest_4	qc_s1_rest_5	qc_s1_rest_6	qc_s1_anat	qc_s2_rest_1	qc_s2_rest_2	qc_s2_anat
+15001	Male	9.94	Right	Typically Developing Children						Two subtest WASI				140		1	1	1	1	0	0	0	0			
+15002	Female	7.17	Right	Typically Developing Children						Two subtest WASI				136		1	1	0	0	0	0	0	1			
+15003	Male	9.18	Right	Typically Developing Children						Two subtest WASI				126		1	1	0	0	0	0	0	1			
+15004	Female	7.46	Right	Typically Developing Children						Two subtest WASI				96		1	0	0	0	1	1	0	1			
+15005	Female	21.13	Right	Typically Developing Children						Two subtest WASI				111		2	1	1					1	1	1	
+15006	Female	21.81	Right	Typically Developing Children						Two subtest WASI				128		2	1	1					1	1	0	
+15007	Female	21.22	Right	Typically Developing Children						Two subtest WASI				122		2	1	1					1	1	1	
+15008	Female	8.64	Right	Typically Developing Children						Two subtest WASI				141		2	0	0					1			
+15010	Female	7.63	Right	Typically Developing Children						Two subtest WASI				99		2	0						1			
+15011	Male	7.26	Right	Typically Developing Children						Two subtest WASI				124		2							1	0		
+15012	Female	8.96	Right	Typically Developing Children						Two subtest WASI				109		2	0						1			
+15013	Female	7.67	Right	Typically Developing Children						Two subtest WASI				117		2	1						1	1		
+15014	Female	7.09	Right	Typically Developing Children						Two subtest WASI				121		2	1						1	0		
+15015	Female	8.1	Right	Typically Developing Children						Two subtest WASI				109		2	0						1			
+15016	Male	8.3	Right	Typically Developing Children						Two subtest WASI				96		2	1							0		1
+15017	Male	8.02	Right	Typically Developing Children						Two subtest WASI				98		2	1						1	0		
+15018	Female	8.05	Right	Typically Developing Children						Two subtest WASI				112		2							1	1		
+15019	Male	8.28	Right	Typically Developing Children						Two subtest WASI				132		2	1						1	0	0	
+15020	Female	8.41	Right	Typically Developing Children						Two subtest WASI				139		2	0						1	0	0	
+15021	Female	7.52	Right	Typically Developing Children						Two subtest WASI				86		2	0						1	1		
+15022	Male	9.17	Right	Typically Developing Children						Two subtest WASI				118		2	0						1	0		
+15023	Female	7.77	Right	Typically Developing Children						Two subtest WASI				119		2	0						1	0		
+15024	Male	7.25	Right	Typically Developing Children						Two subtest WASI				136		2	1						1	0		
+15025	Female	7.75	Right	Typically Developing Children						Two subtest WASI				114		2	0						1			
+15026	Female	10.11	Right	Typically Developing Children						Two subtest WASI				113		3	1	1	1				1			
+15027	Female	14.89	Right	Typically Developing Children						Two subtest WASI				123		3	1	1	1				1			
+15028	Male	9.23	Right	Typically Developing Children						Two subtest WASI				121		3	1	1	1				1			
+15029	Male	11.24	Right	Typically Developing Children						Two subtest WASI				101		3	1	0	0				1			
+15030	Male	14.45	Right	Typically Developing Children						Two subtest WASI				114		3	1	0	1				1			
+15031	Male	12.35	Right	Typically Developing Children						Two subtest WASI				120		3	0	0	1				1			
+15032	Male	10.9	Right	Typically Developing Children						Two subtest WASI				128		3	1	0	0				1			
+15033	Female	11.96	Right	Typically Developing Children						Two subtest WASI				134		3	1	1	1				1			
+15034	Male	10.28	Right	Typically Developing Children						Two subtest WASI				133		3	1	0	0				1			
+15035	Male	11.17	Right	Typically Developing Children						Two subtest WASI				121		3	1	0	0				1			
+15036	Female	12.77	Right	Typically Developing Children						Two subtest WASI				109		3	1	1	1				1			
+15037	Female	14.43	Right	Typically Developing Children						Two subtest WASI				107		3	0	0	0				1			
+15038	Male	12.38	Right	Typically Developing Children						Two subtest WASI				128		3	0						1			
+15039	Female	14.25	Right	Typically Developing Children						Two subtest WASI				86		3	1	0	1				1			
+15040	Male	15	Right	Typically Developing Children						Two subtest WASI				123		3	1	0	0				1			
+15041	Male	14.73	Right	Typically Developing Children						Two subtest WASI				115		3	1	1	0				1			
+15042	Male	13.66	Right	Typically Developing Children						Two subtest WASI				107		3	1	1	1				1			
+15043	Male	14.56	Right	Typically Developing Children						Two subtest WASI				125		3	1	1	0				1			
+15044	Male	10.35	Right	Typically Developing Children						Two subtest WASI				97		3	1	0	0				1			
+15045	Male	13.18	Right	Typically Developing Children						Two subtest WASI				107		3	1	1	0				1			
+15046	Male	9.63	Right	Typically Developing Children						Two subtest WASI				104		3	0	0					0			
+15047	Male	13.07	Right	Typically Developing Children						Two subtest WASI				126		3	0	0	0				1			
+15048	Male	11.62	Right	Typically Developing Children						Two subtest WASI				106		3	1	1	1				1			
+15049	Male	9.98	Right	Typically Developing Children						Two subtest WASI				139		3	0	0	0				1			
+15050	Female	11.43	Right	Typically Developing Children						Two subtest WASI				103		3	1	1	0				1			
+15051	Male	8.16	Right	Typically Developing Children						Two subtest WASI				89		3	0	0					0			
+15052	Male	21.83	Right	Typically Developing Children						Two subtest WASI				127		3	1	1	1				1			
+15053	Female	15.29	Right	Typically Developing Children						Two subtest WASI				101		3	1	1	1				1			
+15054	Female	13.47	Right	Typically Developing Children						Two subtest WASI				117		3	1	1	1				1			
+15055	Female	9.2	Right	Typically Developing Children						Two subtest WASI				129		3	1	0					1			
+15056	Male	10.97	Right	Typically Developing Children						Two subtest WASI				118		3	0	0					0			
+15057	Male	21.24	Right	Typically Developing Children						Two subtest WASI				122		3	1	1	1				1			
+15058	Female	14.08	Right	Typically Developing Children						Two subtest WASI				115		3	1	1	1				1			
+15059	Female	9.05	Right	Typically Developing Children						Two subtest WASI				103		3	0	1	0				1			
+15060	Male	9.76	Right	Typically Developing Children						Two subtest WASI				137		3	0	0	0				1			
+15061	Male	12.04	Right	Typically Developing Children						Two subtest WASI				98		3	0	0	0				1			
+15062	Male	12.88	Right	Typically Developing Children						Two subtest WASI				108		3	1	1	1				1			

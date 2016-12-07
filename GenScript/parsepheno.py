@@ -10,6 +10,8 @@ subcol=sys.argv[4]
 opname=aggphenof.split('/')[-1].split('.')[0]+'.tsv'
 
 aggpheno=pd.read_csv(aggphenof,dtype='str')
+#aggpheno=aggpheno.dropna(axis=0,how='all')
+#aggpheno=aggpheno.dropna(axis=1,how='all')
 
 
 
@@ -25,6 +27,8 @@ if os.path.isfile(aggphenokeyf):
 else:
 	print 'Phenotypic Key not specified or doesnt exist'
 
+print aggpheno.columns
+
 sites=set(aggpheno[sitecol].values)
 collist=list(aggpheno.columns)
 subcolind=collist.index(subcol)
@@ -39,5 +43,6 @@ for site in sites:
     subdf=aggpheno[aggpheno[sitecol.lower()] ==site]
     subopname='participants_'+site+'_'+opname
     subopname=subopname.replace(' ','')
+    subdf.drop(sitecol.lower(),axis=1,inplace=True)
     print 'Writing file', subopname
     subdf.to_csv(subopname,index=False,sep='\t')
