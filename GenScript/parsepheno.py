@@ -9,9 +9,9 @@ subcol=sys.argv[4]
 
 opname=aggphenof.split('/')[-1].split('.')[0]+'.tsv'
 
-aggpheno=pd.read_csv(aggphenof)
+aggpheno=pd.read_csv(aggphenof,dtype='str')
 
-sites=set(aggpheno[sitecol].values)
+
 
 
 if os.path.isfile(aggphenokeyf):
@@ -25,7 +25,7 @@ if os.path.isfile(aggphenokeyf):
 else:
 	print 'Phenotypic Key not specified or doesnt exist'
 
-
+sites=set(aggpheno[sitecol].values)
 collist=list(aggpheno.columns)
 subcolind=collist.index(subcol)
 collist[subcolind]='participant_id'

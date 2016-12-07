@@ -1,0 +1,28 @@
+[
+  {
+    "AcquisitionMatrix": "64x64", 
+    "AcquisitionTime[min:sec]": "8:06", 
+    "BandwidthperVoxel(Readout)[Hz]": 2520.0, 
+    "EchoTime(TE)[ms]": 30, 
+    "FatSuppression": "On", 
+    "FieldofView[mm]": "200x200", 
+    "FlipAngle[Deg]": 90, 
+    "Instructions": "Participants were asked to relax, stay still, and either keep their eyes open or closed", 
+    "MagneticFieldStrength": "3T", 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "TrioTim", 
+    "NumberofMeasurements": 240, 
+    "NumberofSlices": 33, 
+    "Orientation": "axial", 
+    "ParallelAcquisition": "Off", 
+    "ProspectiveMotionCorrection": "Off", 
+    "PulseSequenceType": "EPI", 
+    "RepetitionTime(TR)[ms]": 2000, 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.6, 
+    "SliceIn-PlaceResolution[mm2]": "3.1x3.1", 
+    "SlicePhaseEncodingDirection": "AP", 
+    "SliceThickness[mm]": 3.0, 
+    "TaskDescription": "A black screen with a white fixation cross was displayed during the scan"
+  }
+]

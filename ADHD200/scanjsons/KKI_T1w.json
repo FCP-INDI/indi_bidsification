@@ -1,0 +1,22 @@
+[
+  {
+    "AcquisitionMatrix": "256x200", 
+    "AcquisitionTime[min:sec]": "8:08", 
+    "BandwidthperVoxel(Readout)[Hz]": 191.5, 
+    "EchoTime[ms]": "Shortest", 
+    "FatSuppression": "None", 
+    "FieldofView[mm]": "256x200", 
+    "FlipAngle[Deg]": 8, 
+    "Headcoil": "8Ch", 
+    "InversionTime(TI)[ms]": 1000, 
+    "Manufacturer": "Philips", 
+    "NumberofSlices": 200, 
+    "Orientation": "coronal", 
+    "ParallelReductionFactorInPlane": "SENSE APx2", 
+    "PulseSequenceType": "MPRAGE", 
+    "RepetitionTime[ms]": 3500, 
+    "SliceIn-PlaceResolution[mm2]": "1.0x1.0", 
+    "SlicePhaseEncodingDirection": "RL", 
+    "SliceThickness[mm]": 1.0
+  }
+]

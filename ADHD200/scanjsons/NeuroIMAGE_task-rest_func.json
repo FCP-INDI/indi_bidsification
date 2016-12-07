@@ -1,0 +1,28 @@
+[
+  {
+    "AcquisitionMatrix": "64x64", 
+    "AcquisitionTime[min:sec]": "8:47", 
+    "BandwidthperVoxel(Readout)[Hz]": 1628.0, 
+    "EchoTime(TE)[ms]": 40, 
+    "FatSuppression": "Off", 
+    "FieldofView[mm]": "224x224", 
+    "FlipAngle[Deg]": 80, 
+    "Instructions": "Participants were asked to think of nothing in particular while keeping their eyes closed.", 
+    "MagneticFieldStrength": "1.5T", 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "Avanto", 
+    "NumberofMeasurements": 266, 
+    "NumberofSlices": 37, 
+    "Orientation": "axial oblique", 
+    "ParallelAcquisition": "GRAPPAx2", 
+    "ProspectiveMotionCorrection": "Off", 
+    "PulseSequenceType": "EPI", 
+    "RepetitionTime(TR)[ms]": 1960, 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.51, 
+    "SliceIn-PlaceResolution[mm2]": "3.5x3.5", 
+    "SlicePhaseEncodingDirection": "AP", 
+    "SliceThickness[mm]": 3.0, 
+    "TaskDescription": "No visual stimulus was presented during the scan."
+  }
+]

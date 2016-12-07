@@ -1,0 +1,21 @@
+ADHD Measure: {'1': ADHD Rating Scale IV (ADHD-RS), '2': 'Conners Parent Rating Scale-Revised,
+    Long version (CPRS-LV)', 3: Connors' Rating Scale-3rd Edition}
+DX: {'0': Typically Developing Children, '1': ADHD-Combined, '2': ADHD-Hyperactive/Impulsive,
+  '3': ADHD-Inattentive}
+Gender: {'0': Female, '1': Male}
+Handedness: {'0': Left, '1': Right, '2': Ambidextrous}
+IQ Measure: {'1': 'Wechsler Intelligence Scale for Children, Fourth Edition (WISC-IV)',
+  '2': Wechsler Abbreviated Scale of Intelligence (WASI), '3': Wechsler Intelligence Scale
+    for Chinese Children-Revised (WISCC-R), '4': Two subtest WASI, '5': Two subtest WISC
+    or WAIS - Block Design and Vocabulary}
+Med Status: {'1': Medication Naive, '2': Not Medication Naive}
+QC_Anatomical_1: {'0': Questionable, '1': Pass}
+QC_Anatomical_2: {'0': Questionable, '1': Pass}
+QC_Rest_1: {'0': Questionable, '1': Pass}
+QC_Rest_2: {'0': Questionable, '1': Pass}
+QC_Rest_3: {'0': Questionable, '1': Pass}
+QC_Rest_4: {'0': Questionable, '1': Pass}
+Secondar Dx: {'0': Typically Developing Children, '1': ADHD-Combined, '2': ADHD-Hyperactive/Impulsive,
+  '3': ADHD-Inattentive}
+Site: {'1': Peking_1, '2': Brown, '3': KKI, '4': NeuroIMAGE, '5': NYU, '6': OHSU, '7': Pittsburgh,
+  '8': WashU, '9': Peking_2, '10': Peking_3)}

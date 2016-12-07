@@ -1,0 +1,27 @@
+[
+  {
+    "AcquisitionMatrix": "64x64", 
+    "AcquisitionTime[min:sec]": "3:32", 
+    "BandwidthperVoxel(Readout)[Hz]": 2298.0, 
+    "EchoTime(TE)[ms]": 30, 
+    "FatSuppression": "On", 
+    "FieldofView[mm]": "240x240", 
+    "FlipAngle[Deg]": 90, 
+    "Instructions": "Participants were instructed to stay still, to keep their eyes open and to fixate on a standard fixation cross in the center of the display. They were asked to be careful not to fall asleep.", 
+    "MagneticFieldStrength": "3T", 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "TrioTim", 
+    "NumberofMeasurements": 82, 
+    "NumberofSlices": 36, 
+    "Orientation": "axial oblique", 
+    "ParallelAcquisition": "Off", 
+    "ProspectiveMotionCorrection": "Off", 
+    "PulseSequenceType": "EPI", 
+    "RepetitionTime(TR)[ms]": 2500, 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.0, 
+    "SliceIn-PlaceResolution[mm2]": "3.8x3.8", 
+    "SlicePhaseEncodingDirection": "AP", 
+    "SliceThickness[mm]": 3.8
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "AcquisitionMatrix": "256x256", 
+    "AcquisitionTime[min:sec]": "6:21", 
+    "BandwidthperVoxel(Readout)[Hz]": 140.0, 
+    "EchoTime[ms]": "2.95", 
+    "FatSuppression": "None", 
+    "FieldofView[mm]": "256x256", 
+    "FlipAngle[Deg]": 7, 
+    "InversionTime(TI)[ms]": 1000, 
+    "MagneticFieldStrength": "1.5T", 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "Avanto", 
+    "NumberofSlices": 176, 
+    "Orientation": "saggital oblique", 
+    "ParallelReductionFactorInPlane": "GRAPPAx2", 
+    "RepetitionTime[ms]": 2730, 
+    "SliceAcquisitionOrder": "single-shot+", 
+    "SliceGap[mm]": 0.5, 
+    "SliceIn-PlaceResolution[mm2]": "1.0x1.0", 
+    "SlicePhaseEncodingDirection": "AP", 
+    "SliceThickness[mm]": 1.0
+  }
+]

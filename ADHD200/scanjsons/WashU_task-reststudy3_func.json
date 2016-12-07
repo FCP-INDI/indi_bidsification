@@ -1,0 +1,27 @@
+[
+  {
+    "AcquisitionMatrix": "64x64", 
+    "BandwidthperVoxel(Readout)[Hz]": 1906.0, 
+    "EchoTime(TE)[ms]": 27, 
+    "FatSuppression": "On", 
+    "FieldofView[mm]": "256x256", 
+    "FlipAngle[Deg]": 90, 
+    "Instructions": "All of these subjects were instructed to keep their eyes open and generally on the fixation cross.", 
+    "MagneticFieldStrength": "3T", 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "TrioTim", 
+    "NumberofMeasurements": 133, 
+    "NumberofSlices": 32, 
+    "Orientation": "axial oblique", 
+    "ParallelAcquisition": "Off", 
+    "ProspectiveMotionCorrection": "Off", 
+    "PulseSequenceType": "EPI", 
+    "RepetitionTime(TR)[ms]": 2500, 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.0, 
+    "SliceIn-PlaceResolution[mm2]": "4.0x4.0", 
+    "SlicePhaseEncodingDirection": "AP", 
+    "SliceThickness[mm]": 4.0, 
+    "TaskDescription": "study 3 collected 5 minute runs interspersed with a task-switching paradigm"
+  }
+]
