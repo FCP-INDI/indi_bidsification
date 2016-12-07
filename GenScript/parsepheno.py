@@ -6,14 +6,22 @@ aggphenof=sys.argv[1]
 aggphenokeyf=sys.argv[2]
 sitecol=sys.argv[3]
 subcol=sys.argv[4]
+dropzerocolsrows=sys.argv[5]
 
 opname=aggphenof.split('/')[-1].split('.')[0]+'.tsv'
 
 aggpheno=pd.read_csv(aggphenof,dtype='str')
-#aggpheno=aggpheno.dropna(axis=0,how='all')
-#aggpheno=aggpheno.dropna(axis=1,how='all')
 
 
+
+try:
+    dropzerocolsrows=bool(dropzerocolsrows)
+except:
+    raise Exception('dropzerocolsrows must be True or False')
+
+if dropzerocolsrows:
+    aggpheno=aggpheno.dropna(axis=0,how='all')
+    aggpheno=aggpheno.dropna(axis=1,how='all')
 
 
 if os.path.isfile(aggphenokeyf):
