@@ -11,7 +11,7 @@ def makeallpublic(bucket,fpath):
         print 'making public: ',k.name          
         k.set_acl('public-read')
 
-def s3_match_and_move(keyspath, matchdct, ipdir, opdir):
+def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
     bucket = fetch_creds.return_bucket(keyspath, 'fcp-indi')
     
     
@@ -33,20 +33,34 @@ def s3_match_and_move(keyspath, matchdct, ipdir, opdir):
         srclist_filt=[]
         destlist=[]
     
+    
+        for sl in srclist:
+
+            if 'include' in matchdct[mk].keys():
+
+                if re.search(matchdct[mk]['match'][0],sl) and any(m in sl for m in matchdct[mk]['include']):
+                    #print sl,re.sub(matchdct[mk][0],matchdct[mk][1],sl)
+                    srclist_filt.append(sl)
+                    destlist.append(re.sub(matchdct[mk]['match'][0],matchdct[mk]['match'][1],sl).replace(ipdir,opdir))
+            else:
+
+                if re.search(matchdct[mk]['match'][0],sl):
+                    #print sl,re.sub(matchdct[mk][0],matchdct[mk][1],sl)
+                    srclist_filt.append(sl)
+                    destlist.append(re.sub(matchdct[mk]['match'][0],matchdct[mk]['match'][1],sl).replace(ipdir,opdir))
+    
         if len(destlist) != len(set(destlist)):
             raise Exception('Duplicate Destination Filepaths exist')
-    
-        for sl in sorted(srclist):
-            if re.match(matchdct[mk][0],sl):
-                #print sl,re.sub(matchdct[mk][0],matchdct[mk][1],sl)
-                srclist_filt.append(sl)
-                destlist.append(re.sub(matchdct[mk][0],matchdct[mk][1],sl).replace(ipdir,opdir))
-    
-            files_converted=files_converted+srclist_filt
-            destlist_tot=destlist_tot+destlist
-    
+
+        files_converted=files_converted+srclist_filt
+        destlist_tot=destlist_tot+destlist
+            
+        if test == 'yes':
+            for j,slf in enumerate(srclist_filt):
+                print 'changing: ',srclist_filt[j],destlist[j]
+        else:
             # Note might error with make_public=True, removing it stops error, unsure why error occurs
-            aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=True, make_public=True)
+            aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=True, make_public=True,overwrite=False)
     
     
     print 'num files pulled in:',len(files_converted),'num files produced',len(destlist_tot)
@@ -54,7 +68,7 @@ def s3_match_and_move(keyspath, matchdct, ipdir, opdir):
     if len(files_converted) != len(destlist_tot):
         raise Exception('There is a mismatch in the total files read in, and total files produced')
     
-    print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
+    #print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
 
 def local_regex(matchdct,ipdir,opdir):
     srclist=[]
@@ -68,8 +82,8 @@ def local_regex(matchdct,ipdir,opdir):
     
     for mk in sorted(matchdct.keys()):
         print mk
-        srclist_filt=[s for s in srclist if re.match(matchdct[mk][0],s)]
-        destlist=[re.sub(matchdct[mk][0],matchdct[mk][1],sf).replace(ipdir,opdir) for sf in srclist_filt]
+        srclist_filt=[s for s in srclist if re.search(matchdct[mk]['match'][0],s)]
+        destlist=[re.sub(matchdct[mk]['match'][0],matchdct[mk]['match'][1],sf).replace(ipdir,opdir) for sf in srclist_filt]
         files_converted=files_converted+srclist_filt
         destlist_tot=destlist_tot+destlist
     
@@ -107,7 +121,7 @@ if __name__ == '__main__':
     ipdir=sys.argv[3]
     opdir=sys.argv[4]
     s3flag=sys.argv[5]
-    
+    test='no'
     
     #Be sure to put in the last forward slash as may act as wildcard otherwise
     #ipdir='data/Projects/CORR/RawData/'
@@ -124,7 +138,7 @@ if __name__ == '__main__':
     
     
     if s3flag == True:
-        s3_match_and_move(keyspath, matchdct, ipdir, opdir)
+        s3_match_and_move(keyspath, matchdct, ipdir, opdir, test)
 
     
     elif s3flag == False:

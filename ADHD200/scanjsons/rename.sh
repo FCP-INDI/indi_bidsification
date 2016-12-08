@@ -12,3 +12,9 @@ mv -nv Peking_3e_T1w.json Peking_3_T1w_acq-5.json
 mv -nv WashU_1_task-rest_func.json WashU_task-reststudy1_func.json
 mv -nv WashU_2_task-rest_func.json WashU_task-reststudy2_func.json
 mv -nv WashU_3_task-rest_func.json WashU_task-reststudy3_func.json
+
+mv -nv Pittsburgh_task-rest_func.json Pittsburgh_task-rest_acq-1_func.json 
+mv -nv Pittsburgh_Test_task-rest_func.json Pittsburgh_task-rest_acq-2_func.json 
+
+mv -nv KKI_1_task-rest_func.json KKI_task-rest_acq-1_func.json
+mv -nv KKI_2_task-rest_func.json KKI_task-rest_acq-2_func.json
