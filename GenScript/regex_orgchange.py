@@ -60,7 +60,7 @@ def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
                 print 'changing: ',srclist_filt[j],destlist[j]
         else:
             # Note might error with make_public=True, removing it stops error, unsure why error occurs
-            aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=True, make_public=True,overwrite=False)
+            aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=False, make_public=True,overwrite=False)
     
     
     print 'num files pulled in:',len(files_converted),'num files produced',len(destlist_tot)
