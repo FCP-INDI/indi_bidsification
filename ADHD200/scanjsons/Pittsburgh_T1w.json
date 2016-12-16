@@ -1,0 +1,25 @@
+[
+  {
+    "AcquisitionMatrix": "233x256", 
+    "AcquisitionTime[min:sec]": "7:17", 
+    "BandwidthperVoxel(Readout)[Hz]": 240.0, 
+    "EchoTime[ms]": "3.43", 
+    "FatSuppression": "None", 
+    "FieldofView[mm]": "256x208", 
+    "FlipAngle[Deg]": 8, 
+    "InversionTime(TI)[ms]": 1050, 
+    "MagneticFieldStrength": "3T", 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "TrioTim", 
+    "NumberofSlices": 176, 
+    "Orientation": "axial oblique", 
+    "ParallelReductionFactorInPlane": "Off", 
+    "PulseSequenceType": "MPRAGE", 
+    "RepetitionTime[ms]": 2100, 
+    "SliceAcquisitionOrder": "single-shot+", 
+    "SliceGap[mm]": 0.5, 
+    "SliceIn-PlaceResolution[mm2]": "1.0x1.0", 
+    "SlicePhaseEncodingDirection": "RL", 
+    "SliceThickness[mm]": 1.0
+  }
+]

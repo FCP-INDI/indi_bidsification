@@ -6,12 +6,22 @@ aggphenof=sys.argv[1]
 aggphenokeyf=sys.argv[2]
 sitecol=sys.argv[3]
 subcol=sys.argv[4]
+dropzerocolsrows=sys.argv[5]
 
 opname=aggphenof.split('/')[-1].split('.')[0]+'.tsv'
 
-aggpheno=pd.read_csv(aggphenof)
+aggpheno=pd.read_csv(aggphenof,dtype='str')
 
-sites=set(aggpheno[sitecol].values)
+
+
+try:
+    dropzerocolsrows=bool(dropzerocolsrows)
+except:
+    raise Exception('dropzerocolsrows must be True or False')
+
+if dropzerocolsrows:
+    aggpheno=aggpheno.dropna(axis=0,how='all')
+    aggpheno=aggpheno.dropna(axis=1,how='all')
 
 
 if os.path.isfile(aggphenokeyf):
@@ -25,7 +35,9 @@ if os.path.isfile(aggphenokeyf):
 else:
 	print 'Phenotypic Key not specified or doesnt exist'
 
+print aggpheno.columns
 
+sites=set(aggpheno[sitecol].values)
 collist=list(aggpheno.columns)
 subcolind=collist.index(subcol)
 collist[subcolind]='participant_id'
@@ -39,5 +51,6 @@ for site in sites:
     subdf=aggpheno[aggpheno[sitecol.lower()] ==site]
     subopname='participants_'+site+'_'+opname
     subopname=subopname.replace(' ','')
+    subdf.drop(sitecol.lower(),axis=1,inplace=True)
     print 'Writing file', subopname
     subdf.to_csv(subopname,index=False,sep='\t')
