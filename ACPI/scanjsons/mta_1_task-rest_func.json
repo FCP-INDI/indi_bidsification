@@ -8,6 +8,7 @@
     "FieldStrength": "3T", 
     "FieldofView[mm]": "220x220", 
     "FlipAngle[Deg]": 77, 
+    "Instructions": "For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ", 
     "Manufacturer": "Siemens", 
     "Model": "TrioTim", 
     "NumberofMeasurements": 180, 
@@ -21,6 +22,7 @@
     "SliceGap[mm]": 1.0, 
     "SliceIn-PlaceResolution[mm2]": "3.4x3.4", 
     "SlicePhaseEncodingDirection": "PA", 
-    "SliceThickness[mm]": 4.0
+    "SliceThickness[mm]": 4.0, 
+    "Task": "Rest"
   }
 ]

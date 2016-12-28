@@ -1,0 +1,15 @@
+[
+  {
+    "AcquisitionMatrix": "128x128", 
+    "BValue(s)[s/mm2]": 1000.0, 
+    "FieldStrength": "3T", 
+    "Headcoil": "32 Chan", 
+    "Manufacturer": "Siemens", 
+    "Model": "TrioTim", 
+    "NumberofDirections": 38.0, 
+    "NumberofMeasurements": 39, 
+    "NumberofSlices": 45.0, 
+    "SliceIn-PlaceResolution[mm2]": "1.875x1.875", 
+    "SliceThickness[mm]": 3.0
+  }
+]

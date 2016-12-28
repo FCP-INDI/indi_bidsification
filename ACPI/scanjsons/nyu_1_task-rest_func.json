@@ -9,6 +9,7 @@
     "FieldofView[mm]": "240", 
     "FlipAngle[Deg]": 90, 
     "Headcoil": "1 Chan", 
+    "Instructions": "You're doing a great job! for the next few minutes we would like you to keep your eyes open, relax and remain still.", 
     "Manufacturer": "Siemens", 
     "Model": "Allegra", 
     "NumberofMeasurements": 180, 
@@ -22,6 +23,8 @@
     "SliceGap[mm]": 0.0, 
     "SliceIn-PlaceResolution[mm2]": "3.0x3.0", 
     "SlicePhaseEncodingDirection": "RL", 
-    "SliceThickness[mm]": 4.0
+    "SliceThickness[mm]": 4.0, 
+    "Task": "Rest", 
+    "TaskDescription": " Most participants have 2 R-fMRI scans, collected less than 1 hour apart in the same scanning session. Rest_1 is always collected first."
   }
 ]

@@ -1,0 +1,27 @@
+[
+  {
+    "AcquisitionMatrix": "80x80", 
+    "AcquisitionTime[min:sec]": "6:00", 
+    "BandwidthperVoxel(Readout)[Hz]": 3906.0, 
+    "EchoTime(TE)[ms]": 15, 
+    "FatSuppression": "Yes", 
+    "FieldStrength": "3T", 
+    "FieldofView[mm]": "240", 
+    "FlipAngle[Deg]": 90, 
+    "Headcoil": "1 Chan", 
+    "Manufacturer": "Siemens", 
+    "Model": "Allegra", 
+    "NumberofMeasurements": 180, 
+    "NumberofSlices": 33, 
+    "Orientation": "a oblique", 
+    "ParallelAcquisition": "Off", 
+    "ProspectiveMotionCorrection": "No", 
+    "RepetitionTime(TR)[ms]": 2000, 
+    "Sequence": "EPI", 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.0, 
+    "SliceIn-PlaceResolution[mm2]": "3.0x3.0", 
+    "SlicePhaseEncodingDirection": "R-L", 
+    "SliceThickness[mm]": 4.0
+  }
+]

@@ -23,6 +23,7 @@
     "SliceIn-PlaceResolution[mm2]": "3.1x3.1", 
     "SlicePhaseEncodingDirection": "AP", 
     "SliceThickness[mm]": 3.5, 
+    "Task": "Rest", 
     "TaskDescription": "A black screen with a white fixation cross was displayed during the scan"
   }
 ]

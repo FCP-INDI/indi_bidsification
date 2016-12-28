@@ -23,6 +23,7 @@
     "SliceIn-PlaceResolution[mm2]": "3.5x3.5", 
     "SlicePhaseEncodingDirection": "AP", 
     "SliceThickness[mm]": 3.0, 
+    "Task": "Rest", 
     "TaskDescription": "No visual stimulus was presented during the scan."
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "EchoTime(TE)[ms]": "Min Full", 
+    "FieldStrength": "3T", 
+    "Headcoil": "8 Chan", 
+    "InversionTime(TI)[ms]": "450", 
+    "Manufacturer": "GE", 
+    "Model": "Discovery MR750", 
+    "ParallelAcquisition": "A2", 
+    "RepetitionTime(TR)[ms]": 8.06, 
+    "Sequence": "3D SPGR", 
+    "VoxelVolume": 1.0
+  }
+]

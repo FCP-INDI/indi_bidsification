@@ -22,6 +22,7 @@
     "SliceIn-PlaceResolution[mm2]": "4.0x4.0", 
     "SlicePhaseEncodingDirection": "AP", 
     "SliceThickness[mm]": 4.0, 
+    "Task": "Rest", 
     "TaskDescription": "study 3 collected 5 minute runs interspersed with a task-switching paradigm"
   }
 ]

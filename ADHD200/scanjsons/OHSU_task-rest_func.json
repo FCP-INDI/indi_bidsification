@@ -22,6 +22,7 @@
     "SliceGap[mm]": 0.0, 
     "SliceIn-PlaceResolution[mm2]": "3.8x3.8", 
     "SlicePhaseEncodingDirection": "AP", 
-    "SliceThickness[mm]": 3.8
+    "SliceThickness[mm]": 3.8, 
+    "Task": "Rest"
   }
 ]

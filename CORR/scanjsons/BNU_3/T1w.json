@@ -1,0 +1,14 @@
+[
+  {
+    "EchoTime(TE)[ms]": "3.39", 
+    "FieldStrength": "3T", 
+    "Headcoil": "12 Chan", 
+    "InversionTime(TI)[ms]": "1100", 
+    "Manufacturer": "Siemens", 
+    "Model": "TrioTim", 
+    "ParallelAcquisition": "Off", 
+    "RepetitionTime(TR)[ms]": 2530.0, 
+    "Sequence": "3D MPRAGE", 
+    "VoxelVolume": 1.729
+  }
+]

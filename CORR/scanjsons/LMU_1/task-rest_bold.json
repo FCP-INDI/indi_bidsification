@@ -1,0 +1,28 @@
+[
+  {
+    "AcquisitionMatrix": "76x79", 
+    "AcquisitionTime[min:sec]": "7:35", 
+    "BandwidthperVoxel(Readout)[Hz]": 2032.0, 
+    "EchoTime(TE)[ms]": 30, 
+    "FatSuppression": "Yes", 
+    "FieldStrength": "3T", 
+    "FieldofView[mm]": "224x233", 
+    "FlipAngle[Deg]": 90, 
+    "Headcoil": "32 Chan", 
+    "Manufacturer": "Philips", 
+    "Model": "Achieva", 
+    "Notes": "Data Reconstructed at 1.65x1.65 in plane resolution", 
+    "NumberofMeasurements": 180, 
+    "NumberofSlices": 52, 
+    "Orientation": "a", 
+    "ParallelAcquisition": "S3", 
+    "ProspectiveMotionCorrection": "Yes", 
+    "RepetitionTime(TR)[ms]": 2500, 
+    "Sequence": "EPI", 
+    "SliceAcquisitionOrder": "seq+", 
+    "SliceGap[mm]": 0.0, 
+    "SliceIn-PlaceResolution[mm2]": "2.95x2.95", 
+    "SlicePhaseEncodingDirection": "A-P", 
+    "SliceThickness[mm]": 3.0
+  }
+]

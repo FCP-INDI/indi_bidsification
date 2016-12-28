@@ -22,6 +22,7 @@
     "SliceIn-PlaceResolution[mm2]": "3.0x3.0", 
     "SlicePhaseEncodingDirection": "RL", 
     "SliceThickness[mm]": 4.0, 
+    "Task": "Rest", 
     "TaskDescription": "A black screen was presented to them."
   }
 ]

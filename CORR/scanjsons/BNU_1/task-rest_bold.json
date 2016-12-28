@@ -1,0 +1,28 @@
+[
+  {
+    "AcquisitionMatrix": "64x64", 
+    "AcquisitionTime[min:sec]": "6:46", 
+    "BandwidthperVoxel(Readout)[Hz]": 2520.0, 
+    "EchoTime(TE)[ms]": 30, 
+    "FatSuppression": "Yes", 
+    "FieldStrength": "3T", 
+    "FieldofView[mm]": "200", 
+    "FlipAngle[Deg]": 90, 
+    "Headcoil": "12 Chan", 
+    "Manufacturer": "Siemens", 
+    "Model": "TrioTim", 
+    "NumberofMeasurements": 200, 
+    "NumberofSlices": 33, 
+    "Orientation": "a", 
+    "ParallelAcquisition": "Off", 
+    "ProspectiveMotionCorrection": "No", 
+    "RepetitionTime(TR)[ms]": 2000, 
+    "RetrospectiveMotionCorrection": "No", 
+    "Sequence": "EPI", 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceGap[mm]": 0.7, 
+    "SliceIn-PlaceResolution[mm2]": "3.1x3.1", 
+    "SlicePhaseEncodingDirection": "A-P", 
+    "SliceThickness[mm]": 3.5
+  }
+]

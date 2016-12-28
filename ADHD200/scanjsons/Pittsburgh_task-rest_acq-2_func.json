@@ -23,6 +23,7 @@
     "SliceIn-PlaceResolution[mm2]": "3.8x3.8", 
     "SlicePhaseEncodingDirection": "AP", 
     "SliceThickness[mm]": 3.5, 
+    "Task": "Rest", 
     "TaskDescription": "The projector was turned off so that participants were presented with a blank screen"
   }
 ]

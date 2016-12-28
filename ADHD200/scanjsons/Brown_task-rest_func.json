@@ -23,6 +23,7 @@
     "SliceIn-PlaceResolution[mm2]": "3.0x3.0", 
     "SlicePhaseEncodingDirection": "AP", 
     "SliceThickness[mm]": 3.0, 
+    "Task": "Rest", 
     "TaskDescription": "A screen is presented to the participant with the text \"relax\""
   }
 ]

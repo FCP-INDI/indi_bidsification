@@ -17,6 +17,7 @@
     "SliceGap[mm]": 0.0, 
     "SliceIn-PlaceResolution[mm2]": "3.438x3.438", 
     "SliceThickness[mm]": 4.5, 
+    "Task": "Rest", 
     "TaskDescription": "A black screen with a white fixation cross was displayed during the scan"
   }
 ]

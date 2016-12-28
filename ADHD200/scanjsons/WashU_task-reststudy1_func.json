@@ -22,6 +22,7 @@
     "SliceIn-PlaceResolution[mm2]": "4.0x4.0", 
     "SlicePhaseEncodingDirection": "AP", 
     "SliceThickness[mm]": 4.0, 
+    "Task": "Rest", 
     "TaskDescription": "study 1 collected 3 minute runs of fixation as well as 5 minute runs of movie watching"
   }
 ]

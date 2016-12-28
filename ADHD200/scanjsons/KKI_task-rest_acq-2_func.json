@@ -10,7 +10,7 @@
     "Instructions": "Participants were instructed to relax, stay as still as possible, keep eyes open, and fixate on a center cross.", 
     "Manufacturer": "Philips", 
     "Notes": "Reconstruced voxels size: 2.67x2.67x3.0;Matrix 96x96", 
-    "NumberofMeasurements": 128, 
+    "NumberofMeasurements": 124, 
     "NumberofSlices": 47, 
     "Orientation": "axial", 
     "PulseSequenceType": "EPI", 
@@ -19,6 +19,7 @@
     "SliceGap[mm]": 0.0, 
     "SliceIn-PlaceResolution[mm2]": "3.05x3.15", 
     "SlicePhaseEncodingDirection": "AP", 
-    "SliceThickness[mm]": 3.0
+    "SliceThickness[mm]": 3.0, 
+    "Task": "Rest"
   }
 ]
