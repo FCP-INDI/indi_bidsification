@@ -44,7 +44,7 @@ validator_output = commands.getoutput('bids-validator %s' % tmp)
 shutil.rmtree(tmp)
 
 # E-mail the output to me and Dave.
-email_list = ['john.pellman@childmind.org']
+email_list = ['john.pellman@childmind.org','david.oconnor@childmind.org']
 msg = MIMEText(validator_output)
 msg['Subject'] = 'BIDS validation results for %s' % (s3_prefix)
 msg['From'] = 'dcm_srv@ned.childmind.org'
