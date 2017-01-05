@@ -1,29 +1,29 @@
 [
   {
     "AcquisitionMatrix": "64x64", 
-    "AcquisitionTime": "6:06", 
+    "AcquisitionTime": "6:20", 
     "EchoTime": 30, 
     "FieldofViewDimensions": "192x192", 
     "FieldofViewShape": "Rectangle", 
-    "FlipAngle": 80, 
+    "FlipAngle": 90, 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "Siemens", 
     "ManufacturersModelName": "TrioTim", 
-    "NumberOfSlices": 36, 
-    "NumberofMeasurements": 120, 
+    "NumberOfSlices": 43, 
+    "NumberofMeasurements": 124, 
     "ParallelAcquisition": "No", 
     "PhaseEncodingDirection": "j+", 
     "PixelBandwidth": 2232.0, 
     "PixelSpacing": "3.0x3.0", 
-    "PlaneOrientationSequence": "Axial", 
+    "PlaneOrientationSequence": "Axial Oblique", 
     "PulseSequenceType": "EPI", 
     "ReceiveCoilName": "12 Chan", 
     "ReceiveCoilType": "Head", 
     "RepetitionTime": 3.0, 
     "ScanOptions": "FS", 
     "SliceAcquisitionOrder": "int+", 
-    "SliceThickness": 4.0, 
-    "SliceTiming": "1500.0,0.0,1583.33,83.33,1666.67,166.67,1750.0,250.0,1833.33,333.33,1916.67,416.67,2000.0,500.0,2083.33,583.33,2166.67,666.67,2250.0,750.0,2333.33,833.33,2416.67,916.67,2500.0,1000.0,2583.33,1083.33,2666.67,1166.67,2750.0,1250.0,2833.33,1333.33,2916.67,1416.67", 
-    "SpacingBetweenSlices": "4.4"
+    "SliceThickness": 3.0, 
+    "SliceTiming": "0.0,1534.88,69.77,1604.65,139.53,1674.42,209.3,1744.19,279.07,1813.95,348.84,1883.72,418.6,1953.49,488.37,2023.26,558.14,2093.02,627.91,2162.79,697.67,2232.56,767.44,2302.33,837.21,2372.09,906.98,2441.86,976.74,2511.63,1046.51,2581.4,1116.28,2651.16,1186.05,2720.93,1255.81,2790.7,1325.58,2860.47,1395.35,2930.23,1465.12", 
+    "SpacingBetweenSlices": "3.48"
   }
 ]

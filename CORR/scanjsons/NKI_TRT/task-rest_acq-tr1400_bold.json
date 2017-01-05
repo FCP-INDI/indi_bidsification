@@ -1,0 +1,29 @@
+[
+  {
+    "AcquisitionMatrix": "112x112", 
+    "AcquisitionTime": "9:35", 
+    "EchoTime": 30, 
+    "FieldofViewDimensions": "224x224", 
+    "FieldofViewShape": "Rectangle", 
+    "FlipAngle": 65, 
+    "MagneticFieldStrength": "3T", 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "TrioTim", 
+    "MultibandAccelerationFactor": 4.0, 
+    "NumberOfSlices": 64, 
+    "NumberofMeasurements": 404, 
+    "ParallelAcquisition": "No", 
+    "PhaseEncodingDirection": "j+", 
+    "PixelBandwidth": 1786.0, 
+    "PixelSpacing": "2.0x2.0", 
+    "PlaneOrientationSequence": "Axial", 
+    "PulseSequenceType": "EPI", 
+    "ReceiveCoilName": "32 Chan", 
+    "ReceiveCoilType": "Head", 
+    "RepetitionTime": 1.4, 
+    "ScanOptions": "FS", 
+    "SliceAcquisitionOrder": "int+", 
+    "SliceThickness": 2.0, 
+    "SpacingBetweenSlices": "2"
+  }
+]

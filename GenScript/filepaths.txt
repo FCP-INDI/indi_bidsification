@@ -1,0 +1,10 @@
+data/Projects/ABIDE/RawDataBIDS
+data/Projects/ABIDE2/RawData
+data/Projects/ACPI/RawDataBIDS
+data/Projects/ADHD200/RawDataBIDS
+data/Projects/BGSP/orig_bids
+data/Projects/CORR/RawDataBIDS
+data/Projects/HBNSSI/RawData
+data/Projects/INDI/HypnosisBarrios/RawData
+data/Projects/INDI/SLIM/RawData
+data/Projects/RocklandSample/RawDataBIDS

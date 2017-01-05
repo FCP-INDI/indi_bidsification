@@ -1,20 +1,24 @@
 [
   {
     "AcquisitionMatrix": "64x64", 
-    "AcquisitionTime[min:sec]": "6:34", 
-    "EchoTime(TE)[ms]": 25, 
-    "FieldStrength": "3T", 
-    "FieldofView[mm]": "192", 
-    "FlipAngle[Deg]": 90, 
-    "Headcoil": "1 Chan", 
+    "AcquisitionTime": "6:34", 
+    "EchoTime": 25, 
+    "FieldofViewDimensions": "192x192", 
+    "FieldofViewShape": "Rectangle", 
+    "FlipAngle": 90, 
+    "MagneticFieldStrength": "3T", 
     "Manufacturer": "Siemens", 
-    "Model": "Allegra", 
+    "ManufacturersModelName": "Allegra", 
+    "NumberOfSlices": 39, 
     "NumberofMeasurements": 197, 
-    "NumberofSlices": 39, 
-    "ParallelAcquisition": "Off", 
-    "RepetitionTime(TR)[ms]": 2000, 
-    "Sequence": "EPI", 
-    "SliceIn-PlaceResolution[mm2]": "3.0x3.0", 
-    "SliceThickness[mm]": 3.0
+    "ParallelAcquisition": "No", 
+    "PixelSpacing": "3.0x3.0", 
+    "PulseSequenceType": "EPI", 
+    "ReceiveCoilName": "1 Chan", 
+    "ReceiveCoilType": "Head", 
+    "RepetitionTime": 2.0, 
+    "SliceThickness": 3.0, 
+    "SliceTiming": "n/a", 
+    "SpacingBetweenSlices": "n/a"
   }
 ]
