@@ -2,10 +2,11 @@
   {
     "AcquisitionMatrix": "64x64", 
     "AcquisitionTime": "6:20", 
-    "EchoTime": 30, 
+    "EchoTime": 0.03, 
     "FieldofViewDimensions": "192x192", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 90, 
+    "Instructions": "Lie Still and Relax During Scan", 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "Siemens", 
     "ManufacturersModelName": "TrioTim", 
@@ -24,6 +25,8 @@
     "SliceAcquisitionOrder": "int+", 
     "SliceThickness": 3.0, 
     "SliceTiming": "0.0,1534.88,69.77,1604.65,139.53,1674.42,209.3,1744.19,279.07,1813.95,348.84,1883.72,418.6,1953.49,488.37,2023.26,558.14,2093.02,627.91,2162.79,697.67,2232.56,767.44,2302.33,837.21,2372.09,906.98,2441.86,976.74,2511.63,1046.51,2581.4,1116.28,2651.16,1186.05,2720.93,1255.81,2790.7,1325.58,2860.47,1395.35,2930.23,1465.12", 
-    "SpacingBetweenSlices": "3.48"
+    "SpacingBetweenSlices": "3.48", 
+    "Task": "rest", 
+    "TaskDescription": " These subjects served as the control group in a longitudinal study of brain structure and function during recovery from stroke. Each participant was scanned five times separated by 6 months. "
   }
 ]

@@ -2,10 +2,11 @@
   {
     "AcquisitionMatrix": "64x64", 
     "AcquisitionTime": "8:00", 
-    "EchoTime": 30, 
+    "EchoTime": 0.03, 
     "FieldofViewDimensions": "220x220", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 90, 
+    "Instructions": "Lie Still and Relax During Scan", 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "GE", 
     "ManufacturersModelName": "Signa HDx", 
@@ -22,6 +23,8 @@
     "SliceAcquisitionOrder": "int+", 
     "SliceThickness": 4.0, 
     "SliceTiming": "n/a", 
-    "SpacingBetweenSlices": "4.6"
+    "SpacingBetweenSlices": "4.6", 
+    "Task": "rest", 
+    "TaskDescription": "Subjects were instructed to keep their eyes closed, lie still and relax during the scan."
   }
 ]

@@ -2,10 +2,11 @@
   {
     "AcquisitionMatrix": "64x64", 
     "AcquisitionTime": "5:04", 
-    "EchoTime": 29, 
+    "EchoTime": 0.028999999999999998, 
     "FieldofViewDimensions": "240x240", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 75, 
+    "Instructions": "We are about to begin the rest task. For this task you will be asked to lie still and keep your eyes focused on the crosshairs while the machine is on. Do you have any questions?", 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "Siemens", 
     "ManufacturersModelName": "TrioTim", 
@@ -24,6 +25,8 @@
     "SliceAcquisitionOrder": "int+", 
     "SliceThickness": 3.5, 
     "SliceTiming": "0.0,1030.3,60.61,1090.91,121.21,1151.52,181.82,1212.12,242.42,1272.73,303.03,1333.33,363.64,1393.94,424.24,1454.55,484.85,1515.15,545.45,1575.76,606.06,1636.36,666.67,1696.97,727.27,1757.58,787.88,1818.18,848.48,1878.79,909.09,1939.39,969.7", 
-    "SpacingBetweenSlices": "4.55"
+    "SpacingBetweenSlices": "4.55", 
+    "Task": "rest", 
+    "TaskDescription": " two scan sessions, four months apart"
   }
 ]

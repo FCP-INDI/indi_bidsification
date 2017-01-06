@@ -2,7 +2,7 @@
   {
     "AcquisitionMatrix": "80x80", 
     "AcquisitionTime": "5:10", 
-    "EchoTime": 35, 
+    "EchoTime": 0.035, 
     "FieldofViewDimensions": "240x240", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 90, 
@@ -25,6 +25,7 @@
     "ScanOptions": "FS", 
     "SliceThickness": 3.5, 
     "SliceTiming": "n/a", 
-    "SpacingBetweenSlices": "4"
+    "SpacingBetweenSlices": "4", 
+    "Task": "rest"
   }
 ]

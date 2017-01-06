@@ -2,10 +2,11 @@
   {
     "AcquisitionMatrix": "64x64", 
     "AcquisitionTime": "10:01", 
-    "EchoTime": 25, 
+    "EchoTime": 0.025, 
     "FieldofViewDimensions": "224x224", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 60, 
+    "Instructions": "Lie Still and Relax During Scan", 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "GE", 
     "ManufacturersModelName": "Discovery MR750", 
@@ -22,6 +23,7 @@
     "SliceAcquisitionOrder": "int+", 
     "SliceThickness": 3.5, 
     "SliceTiming": "n/a", 
-    "SpacingBetweenSlices": "3.5"
+    "SpacingBetweenSlices": "3.5", 
+    "Task": "rest"
   }
 ]

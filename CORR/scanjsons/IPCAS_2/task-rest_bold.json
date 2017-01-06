@@ -3,10 +3,11 @@
     "AcquisitionMatrix": "64x64", 
     "AcquisitionTime": "8:57", 
     "BulkMotionCompensationTechnique": "Tracking", 
-    "EchoTime": 30, 
+    "EchoTime": 0.03, 
     "FieldofViewDimensions": "240x240", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 90, 
+    "Instructions": "Lie Still and Relax During Scan.", 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "Siemens", 
     "ManufacturersModelName": "TrioTim", 
@@ -25,6 +26,8 @@
     "SliceAcquisitionOrder": "int+", 
     "SliceThickness": 3.0, 
     "SliceTiming": "1250.0,0.0,1328.13,78.13,1406.25,156.25,1484.38,234.38,1562.5,312.5,1640.63,390.63,1718.75,468.75,1796.88,546.88,1875.0,625.0,1953.13,703.13,2031.25,781.25,2109.38,859.38,2187.5,937.5,2265.63,1015.63,2343.75,1093.75,2421.88,1171.88", 
-    "SpacingBetweenSlices": "3.99"
+    "SpacingBetweenSlices": "3.99", 
+    "Task": "rest", 
+    "TaskDescription": "During scanning, subjects were instructed to keep their eyes closed, relax and move as little as possible."
   }
 ]

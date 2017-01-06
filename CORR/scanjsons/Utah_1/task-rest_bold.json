@@ -3,10 +3,11 @@
     "AcquisitionMatrix": "64x64", 
     "AcquisitionTime": "8:06", 
     "BulkMotionCompensationTechnique": "Correction", 
-    "EchoTime": 28, 
+    "EchoTime": 0.027999999999999997, 
     "FieldofViewDimensions": "220x220", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 90, 
+    "Instructions": "Keep eyes open and let mind wander.", 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "Siemens", 
     "ManufacturersModelName": "TrioTim", 
@@ -25,6 +26,8 @@
     "SliceAcquisitionOrder": "int+", 
     "SliceThickness": 3.0, 
     "SliceTiming": "1000.0,0.0,1050.0,50.0,1100.0,100.0,1150.0,150.0,1200.0,200.0,1250.0,250.0,1300.0,300.0,1350.0,350.0,1400.0,400.0,1450.0,450.0,1500.0,500.0,1550.0,550.0,1600.0,600.0,1650.0,650.0,1700.0,700.0,1750.0,750.0,1800.0,800.0,1850.0,850.0,1900.0,900.0,1950.0,950.0", 
-    "SpacingBetweenSlices": "3.3"
+    "SpacingBetweenSlices": "3.3", 
+    "Task": "rest", 
+    "TaskDescription": "Typically developing participants were scanned at least 2 years apart. Resting fMRI was collected with eyes open with the instructions: Keep your eyes open and remain awake. Let thoughts pass through your mind without focusing on any particular mental activity. A blank screen was present for visual stimulation."
   }
 ]

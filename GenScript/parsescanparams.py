@@ -1,33 +1,84 @@
 import pandas as pd
 import sys,yaml,json
 import os
-
+import glob
 
 # Read in aggscan file, and site column name
 aggscanparmf=sys.argv[1]
 sitecol=sys.argv[2]
 opdir=sys.argv[3]
-scantype='task-rest_bold'
-# Setup general op name
+modality=sys.argv[4]
 
-#opname=aggscanparmf.split('/')[-1].split('.')[0]+'.json'
+# BIDS Tag Order
+tagorder=[
+'ses-',
+'task-',
+'acq-',
+'rec-',
+'run-'
+]
+
+# Modality Suffices
+modalities=[
+'bold',
+'T1w',
+'dwi',
+'T2w',
+'FLAIR',
+'PD',
+'T1map',
+'T2map'
+'PDT2',
+'inplaneT1',
+'inplaneT2',
+'angio',
+'defacemask',
+'SWImagandphase'
+]
+
+
+if modality not in modalities:
+    raise Exception('Modality specified must be one of (case sensitive): \n'+'\n'.join(modalities))
+
+
 
 # Read in aggscan file and drop any rows and/or columns that are all NaN
 aggscanparm=pd.read_csv(aggscanparmf)
 aggscanparm=aggscanparm.dropna(axis=0,how='all')
 aggscanparm=aggscanparm.dropna(axis=1,how='all')
 
+if modality == 'bold' and 'Task' not in aggscanparm.columns:
+    raise Exception('Task column must exist for bold scan sequence')
+
+
 # Get list of sites to parse
-sites=set(aggscanparm[sitecol].values)
+sites=aggscanparm[sitecol].values
 
-for site in sites:
+# Get list of task names if bold
+if modality == 'bold':
+    tasknames=aggscanparm['Task'].values
+    # Create unique iterator
+    unqit=zip(sites,tasknames)
+else:
+    unqit=zip(sites)
 
+for ui in sorted(unqit):
+    # Pull site from unique iterator
+    site=ui[0]
+
+    # Pull out sitename
     sitename='_'.join([sb for sb in site.split(' ') if '-' not in sb])
 
-    addparams='_'.join([sb for sb in site.split(' ') if '-' in sb])
+    # pull out tag metadata
+    addparams=[sb for sb in site.split(' ') if '-' in sb]
 
     # Pair down aggscan file to site specific data
     op=aggscanparm[aggscanparm[sitecol] == site]
+
+    if modality == 'bold':
+        # Define task tag
+        #scantask='task-'+str(op['Task'].values[0]).lower()
+        scantask='task-'+ui[1]
 
     # Drop the site column, and any parameters that dont have values
     op.drop(sitecol,axis=1,inplace=True)
@@ -37,18 +88,31 @@ for site in sites:
     op=op.to_dict(orient='records')
 
 
-    if addparams:
-        opname=addparams+'_'+scantype+'.json'
-    else:
-        opname=scantype+'.json'
 
-    # Setup site specific op name
+    ## Setup specific op name
+    if modality == 'bold':
+        # Add task to parameters
+        addparams=addparams+[scantask]
+    # Order all parameters based on tag order from bids spec
+    addparams=[ap for to in tagorder for ap in addparams if to in ap]
+    # Construct opname
+    if addparams:
+        opname='_'.join(addparams)+'_'+modality+'.json'
+    else:
+        opname=modality+'.json'
+
+
+    # Make full op path
+    opdir_site=os.path.join(opdir,sitename)
     opnamesub=os.path.join(opdir,sitename,opname)
     opnamesub=opnamesub.replace(' ','_')
 
-    if not os.path.isdir(os.path.join(opdir,sitename)):
-        print 'making dir:', os.path.join(opdir,sitename)
-        os.makedirs(os.path.join(opdir,sitename))
+    print glob.glob(opnamesub)
+
+    # It site subdir doesnt exist, create
+    if not os.path.isdir(opdir_site):
+        print 'making dir:', opdir_site
+        os.makedirs(opdir_site)
 
     # Write output json
     print 'Writing file', opnamesub

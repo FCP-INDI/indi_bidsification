@@ -2,10 +2,11 @@
   {
     "AcquisitionMatrix": "64x64", 
     "AcquisitionTime": "6:34", 
-    "EchoTime": 25, 
+    "EchoTime": 0.025, 
     "FieldofViewDimensions": "192x192", 
     "FieldofViewShape": "Rectangle", 
     "FlipAngle": 90, 
+    "Instructions": "Relax and remain still with your eyes open", 
     "MagneticFieldStrength": "3T", 
     "Manufacturer": "Siemens", 
     "ManufacturersModelName": "Allegra", 
@@ -19,6 +20,7 @@
     "RepetitionTime": 2.0, 
     "SliceThickness": 3.0, 
     "SliceTiming": "n/a", 
-    "SpacingBetweenSlices": "n/a"
+    "SpacingBetweenSlices": "n/a", 
+    "Task": "rest"
   }
 ]
