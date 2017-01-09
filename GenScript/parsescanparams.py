@@ -73,7 +73,10 @@ for ui in sorted(unqit):
     addparams=[sb for sb in site.split(' ') if '-' in sb]
 
     # Pair down aggscan file to site specific data
-    op=aggscanparm[aggscanparm[sitecol] == site]
+    if modality == 'bold':
+        op=aggscanparm[(aggscanparm[sitecol] == site) & (aggscanparm['Task'] == ui[1])]
+    else:
+         op=aggscanparm[aggscanparm[sitecol] == site]
 
     if modality == 'bold':
         # Define task tag
@@ -84,10 +87,14 @@ for ui in sorted(unqit):
     op.drop(sitecol,axis=1,inplace=True)
     op.dropna(axis=1,inplace=True)
 
-    # Create dict
-    op=op.to_dict(orient='records')
+    # Create list of dicts, and pull what should be the only dict out of it
+    if len(op) == 1:
+        op=op.to_dict(orient='records')[0]
+    else:
+        raise Exception('Incorrect number of rows in the final json, please check input')
 
-
+    if 'SliceTiming' in op.keys():
+        op['SliceTiming']=map(float,op['SliceTiming'].split(','))
 
     ## Setup specific op name
     if modality == 'bold':

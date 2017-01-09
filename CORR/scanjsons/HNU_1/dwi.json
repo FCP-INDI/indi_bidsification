@@ -1,0 +1,22 @@
+{
+  "AcquisitionMatrix": "128x128", 
+  "Diffusionb-value": 1000.0, 
+  "EchoTime": "Min", 
+  "FieldofViewDimensions": "192x192", 
+  "FieldofViewShape": "Rectangle", 
+  "MagneticFieldStrength": "3T", 
+  "Manufacturer": "GE", 
+  "ManufacturersModelName": "Discovery MR750", 
+  "NumberofDirections": 30.0, 
+  "NumberofMeasurements": 33, 
+  "NumberofSlices": 68.0, 
+  "PixelSpacing": "1.5x1.5", 
+  "ReceiveCoilName": "8 Chan", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": 8.6, 
+  "ScanOptions": "FS", 
+  "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "i", 
+  "SliceThickness": 1.5, 
+  "SpacingBetweenSlices": 1.5
+}

@@ -1,0 +1,16 @@
+{
+  "AcquisitionMatrix": "128x128", 
+  "Diffusionb-value": 1000.0, 
+  "FieldofViewDimensions": "240x240", 
+  "FieldofViewShape": "Rectangle", 
+  "MagneticFieldStrength": "3T", 
+  "Manufacturer": "Siemens", 
+  "ManufacturersModelName": "TrioTim", 
+  "NumberofDirections": 38.0, 
+  "NumberofMeasurements": 39, 
+  "NumberofSlices": 45.0, 
+  "PixelSpacing": "1.875x1.875", 
+  "ReceiveCoilName": "32 Chan", 
+  "ReceiveCoilType": "Head", 
+  "SliceThickness": 3.0
+}

@@ -1,0 +1,9 @@
+{
+  "FieldofViewShape": "Rectangle", 
+  "MagneticFieldStrength": "3T", 
+  "Manufacturer": "Siemens", 
+  "ManufacturersModelName": "TrioTim", 
+  "NumberofMeasurements": 93, 
+  "ReceiveCoilName": "8 Chan", 
+  "ReceiveCoilType": "Head"
+}
