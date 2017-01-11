@@ -7,13 +7,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 33, 
   "NumberofMeasurements": 240, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2520.0, 
   "PixelSpacing": "3.4x3.4", 
   "PlaneOrientationSequence": "Axial", 
@@ -23,6 +23,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.0, 
   "SliceTiming": [
     0.0, 
@@ -60,6 +61,6 @@
     969.7
   ], 
   "SpacingBetweenSlices": 3.9, 
-  "Task": "rest", 
-  "TaskDescription": "Each participant was scanned twice, with scans at least one year apart. Subjects were presented with a blank screen and instructed to keep their eyes closed, relax and move as little as possible. Subjects were also asked not focus on their breathing or put themselves in a meditative state."
+  "TaskDescription": "Each participant was scanned twice, with scans at least one year apart. Subjects were presented with a blank screen and instructed to keep their eyes closed, relax and move as little as possible. Subjects were also asked not focus on their breathing or put themselves in a meditative state.", 
+  "TaskName": "rest"
 }

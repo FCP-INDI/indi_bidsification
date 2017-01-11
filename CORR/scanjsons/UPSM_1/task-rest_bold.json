@@ -7,7 +7,7 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 70, 
   "Instructions": "Please close your eyes and rest for the next 5 minutes. Do your best not to fall asleep.", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 29, 
@@ -15,7 +15,7 @@
   "ParallelAcquisition": "Yes", 
   "ParallelAcquisitionTechnique": "GRAPPA", 
   "ParallelReductionFactorIn-plane": 2.0, 
-  "PhaseEncodingDirection": "j-", 
+  "PhaseEncodingDirection": "j", 
   "PixelBandwidth": 2694.0, 
   "PixelSpacing": "3.1x3.1", 
   "PlaneOrientationSequence": "Axial Oblique", 
@@ -25,6 +25,7 @@
   "RepetitionTime": 1.5, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Sequential Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 4.0, 
   "SliceTiming": [
     0.0, 
@@ -58,6 +59,6 @@
     1448.28
   ], 
   "SpacingBetweenSlices": 4.0, 
-  "Task": "rest", 
-  "TaskDescription": "Five minutes of resting-state data were collected at the end of an acquisition sequence consisting of structural, DTI, and four runs of functional data. Time between tests range from 473-1434 days. Instructions were to lie still and close eyes [or fixate] during the five-minute acquisition."
+  "TaskDescription": "Five minutes of resting-state data were collected at the end of an acquisition sequence consisting of structural, DTI, and four runs of functional data. Time between tests range from 473-1434 days. Instructions were to lie still and close eyes [or fixate] during the five-minute acquisition.", 
+  "TaskName": "rest"
 }

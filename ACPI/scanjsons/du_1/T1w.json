@@ -1,0 +1,17 @@
+{
+  "AcquisitionMatrix": "256x256", 
+  "EchoTime": "Min Full", 
+  "FieldofViewDimensions": "256x256", 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 12, 
+  "InversionTime": 0.45, 
+  "MagneticFieldStrength": "3T", 
+  "Manufacturer": "GE", 
+  "ManufacturersModelName": "Signa Excite", 
+  "NumberOfSlices": 68, 
+  "ParallelAcquisition": "No", 
+  "PixelSpacing": "1.0x1.0", 
+  "ReceiveCoilName": "8 Chan", 
+  "ScanningSequence": "3D FSPGR", 
+  "SliceThickness": 1.9
+}

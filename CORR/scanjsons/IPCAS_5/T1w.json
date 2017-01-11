@@ -13,6 +13,7 @@
   "ParallelAcquisition": "On", 
   "ParallelAcquisitionTechnique": "GRAPPA", 
   "ParallelReductionFactorIn-plane": 2.0, 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 190.0, 
   "PixelSpacing": "1.0x1.0", 
   "PlaneOrientationSequence": "Saggital", 
@@ -21,7 +22,7 @@
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 2.53, 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
-  "SliceEncodingDirection": "j", 
+  "SliceEncodingDirection": "i", 
   "SliceThickness": 1.0, 
   "SpacingBetweenSlices": "1.5"
 }

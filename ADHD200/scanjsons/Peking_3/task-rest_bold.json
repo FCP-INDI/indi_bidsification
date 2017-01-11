@@ -1,0 +1,23 @@
+{
+  "AcquisitionDuration": "8:00", 
+  "AcquisitionMatrix": "64x64", 
+  "EchoTime": 0.03, 
+  "FieldofViewDimensions": "220x220", 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 90, 
+  "Instructions": "Participants were asked to relax, stay still, and either keep their eyes open or closed", 
+  "MagneticFieldStrength": "3T", 
+  "Manufacturer": "Siemens", 
+  "ManufacturersModelName": "TrioTim", 
+  "NumberOfSlices": 30, 
+  "NumberofMeasurements": 240, 
+  "Orientation": "Axial", 
+  "PixelSpacing": "3.438x3.438", 
+  "PulseSequenceType": "EPI", 
+  "RepetitionTime": 2.0, 
+  "SliceThickness": 4.5, 
+  "SliceTiming": "n/a", 
+  "SpacingBetweenSlices": 4.5, 
+  "TaskDescription": "A black screen with a white fixation cross was displayed during the scan", 
+  "TaskName": "rest"
+}

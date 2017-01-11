@@ -10,6 +10,7 @@
   "ManufacturersModelName": "Discovery", 
   "NumberOfSlices": 160, 
   "ParallelAcquisition": "Off", 
+  "PhaseEncodingDirection": "i", 
   "PixelBandwidth": 244.0, 
   "PixelSpacing": "1.0x1.0", 
   "PlaneOrientationSequence": "Axial", 
@@ -18,7 +19,7 @@
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 0.00813, 
   "SliceAcquisitionOrder": "Simultaneous (3D)", 
-  "SliceEncodingDirection": "i", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 1.0, 
   "SpacingBetweenSlices": "1"
 }

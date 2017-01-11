@@ -6,7 +6,7 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "Allegra", 
   "NumberOfSlices": 33, 
@@ -22,6 +22,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 4.0, 
   "SliceTiming": [
     0.0, 
@@ -59,5 +60,5 @@
     969.7
   ], 
   "SpacingBetweenSlices": 4.0, 
-  "Task": "rest"
+  "TaskName": "rest"
 }

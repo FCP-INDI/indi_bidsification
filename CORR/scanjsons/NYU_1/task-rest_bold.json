@@ -6,7 +6,7 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Relax and remain still with your eyes open", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "Allegra", 
   "NumberOfSlices": 39, 
@@ -18,5 +18,5 @@
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 2.0, 
   "SliceThickness": 3.0, 
-  "Task": "rest"
+  "TaskName": "rest"
 }

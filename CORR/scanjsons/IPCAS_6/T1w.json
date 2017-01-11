@@ -11,6 +11,7 @@
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 176, 
   "ParallelAcquisition": "Off", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 170.0, 
   "PixelSpacing": "1.0x1.0", 
   "PlaneOrientationSequence": "Saggital", 
@@ -19,7 +20,7 @@
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 1.9, 
   "SliceAcquisitionOrder": "Sequential Ascending", 
-  "SliceEncodingDirection": "j", 
+  "SliceEncodingDirection": "i", 
   "SliceThickness": 1.0, 
   "SpacingBetweenSlices": "1.5"
 }

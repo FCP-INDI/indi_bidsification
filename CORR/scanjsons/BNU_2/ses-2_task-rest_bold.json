@@ -7,13 +7,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie still, keep your eyes closed, and relax. Refrain from moving and avoid any structured mental activity such as counting.", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 25, 
   "NumberofMeasurements": 420, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2520.0, 
   "PixelSpacing": "3.1x3.1", 
   "PlaneOrientationSequence": "Axial", 
@@ -23,6 +23,7 @@
   "RepetitionTime": 1.5, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 4.0, 
   "SliceTiming": [
     0.0, 
@@ -52,6 +53,6 @@
     720.0
   ], 
   "SpacingBetweenSlices": 4.8, 
-  "Task": "rest", 
-  "TaskDescription": "During scanning, subjects were presented with a blank screen and instructed to lie still, keep their eyes closed, relax and move as little as possible, also avoid any structured mental activity such as counting."
+  "TaskDescription": "During scanning, subjects were presented with a blank screen and instructed to lie still, keep their eyes closed, relax and move as little as possible, also avoid any structured mental activity such as counting.", 
+  "TaskName": "rest"
 }

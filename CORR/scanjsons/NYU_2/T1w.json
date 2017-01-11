@@ -10,6 +10,7 @@
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "Allegra", 
   "NumberOfSlices": 176, 
+  "PhaseEncodingDirection": "n/a", 
   "PixelSpacing": "1.0x1.0", 
   "PlaneOrientationSequence": "n/a", 
   "PulseSequenceType": "3D MPRAGE", 
@@ -17,7 +18,6 @@
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 2.5, 
   "SliceAcquisitionOrder": "n/a", 
-  "SliceEncodingDirection": "n/a", 
   "SliceThickness": 1.0, 
   "SpacingBetweenSlices": "n/a"
 }

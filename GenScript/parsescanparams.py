@@ -47,8 +47,8 @@ aggscanparm=pd.read_csv(aggscanparmf)
 aggscanparm=aggscanparm.dropna(axis=0,how='all')
 aggscanparm=aggscanparm.dropna(axis=1,how='all')
 
-if modality == 'bold' and 'Task' not in aggscanparm.columns:
-    raise Exception('Task column must exist for bold scan sequence')
+if modality == 'bold' and 'TaskName' not in aggscanparm.columns:
+    raise Exception('TaskName column must exist for bold scan sequence')
 
 
 # Get list of sites to parse
@@ -56,7 +56,7 @@ sites=aggscanparm[sitecol].values
 
 # Get list of task names if bold
 if modality == 'bold':
-    tasknames=aggscanparm['Task'].values
+    tasknames=aggscanparm['TaskName'].values
     # Create unique iterator
     unqit=zip(sites,tasknames)
 else:
@@ -74,7 +74,7 @@ for ui in sorted(unqit):
 
     # Pair down aggscan file to site specific data
     if modality == 'bold':
-        op=aggscanparm[(aggscanparm[sitecol] == site) & (aggscanparm['Task'] == ui[1])]
+        op=aggscanparm[(aggscanparm[sitecol] == site) & (aggscanparm['TaskName'] == ui[1])]
     else:
          op=aggscanparm[aggscanparm[sitecol] == site]
 
@@ -91,10 +91,18 @@ for ui in sorted(unqit):
     if len(op) == 1:
         op=op.to_dict(orient='records')[0]
     else:
+        print op
         raise Exception('Incorrect number of rows in the final json, please check input')
 
     if 'SliceTiming' in op.keys():
-        op['SliceTiming']=map(float,op['SliceTiming'].split(','))
+        if op['SliceTiming'] == 'n/a':
+            pass
+        elif op['SliceTiming'] != 'n/a':
+            try:
+                op['SliceTiming']=map(float,op['SliceTiming'].split(','))
+            except:
+                raise Exception("Cannot process value in colymn 'SliceTiming' for ",ui)
+        
 
     ## Setup specific op name
     if modality == 'bold':

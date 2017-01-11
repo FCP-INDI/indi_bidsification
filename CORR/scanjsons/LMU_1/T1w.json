@@ -14,6 +14,7 @@
   "ParallelAcquisitionTechnique": "SENSE", 
   "ParallelReductionFactorIn-plane": 2.5, 
   "ParallelReductionFactorout-of-plane": 2.0, 
+  "PhaseEncodingDirection": "i", 
   "PixelBandwidth": 191.5, 
   "PixelSpacing": "1.0x1.0", 
   "PlaneOrientationSequence": "Axial", 
@@ -22,7 +23,7 @@
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 2.375, 
   "SliceAcquisitionOrder": "Sequential Ascending", 
-  "SliceEncodingDirection": "i", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 1.0, 
   "SpacingBetweenSlices": "1"
 }

@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "GE", 
   "ManufacturersModelName": "Discovery MR750", 
   "NumberOfSlices": 37, 
   "NumberofMeasurements": 180, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 250.0, 
   "PixelSpacing": "3.5x3.5", 
   "PlaneOrientationSequence": "Axial", 
@@ -22,6 +22,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.5, 
   "SliceTiming": [
     0.0, 
@@ -63,6 +64,6 @@
     972.97
   ], 
   "SpacingBetweenSlices": 3.5, 
-  "Task": "rest", 
-  "TaskDescription": "Subjects completed a modified version of the 2-cannon task (Tamborello et al. 2012). There were two resting-state blocks in each experiment, one before the task blocks and the other after the task blocks . During functional scanning, subjects were presented with a fixation cross and instructed to keep their eyes open, stare at the fixation, relax and move as little as possible."
+  "TaskDescription": "Subjects completed a modified version of the 2-cannon task (Tamborello et al. 2012). There were two resting-state blocks in each experiment, one before the task blocks and the other after the task blocks . During functional scanning, subjects were presented with a fixation cross and instructed to keep their eyes open, stare at the fixation, relax and move as little as possible.", 
+  "TaskName": "rest"
 }

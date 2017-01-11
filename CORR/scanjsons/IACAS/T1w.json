@@ -13,6 +13,7 @@
   "ParallelAcquisition": "On", 
   "ParallelAcquisitionTechnique": "ASSET", 
   "ParallelReductionFactorIn-plane": 2.0, 
+  "PhaseEncodingDirection": "i", 
   "PixelBandwidth": 122.0, 
   "PixelSpacing": "1.0x1.0", 
   "PlaneOrientationSequence": "Saggital", 

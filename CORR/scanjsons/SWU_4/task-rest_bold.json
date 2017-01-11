@@ -7,13 +7,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan. Try Not to Have Active Thoughts.", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 32, 
   "NumberofMeasurements": 242, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2232.0, 
   "PixelSpacing": "3.4x3.4", 
   "PlaneOrientationSequence": "Axial", 
@@ -23,6 +23,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.0, 
   "SliceTiming": [
     1000.0, 
@@ -59,6 +60,6 @@
     937.5
   ], 
   "SpacingBetweenSlices": 4.0, 
-  "Task": "rest", 
-  "TaskDescription": "Each subject underwent two sessions of anatomical, resting state fMRI, and DTI scans, spaced one year apart."
+  "TaskDescription": "Each subject underwent two sessions of anatomical, resting state fMRI, and DTI scans, spaced one year apart.", 
+  "TaskName": "rest"
 }

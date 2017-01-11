@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 80, 
   "Instructions": "Keep your eyes closed without falling asleep and do not think of anything in particular.", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 36, 
   "NumberofMeasurements": 120, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2232.0, 
   "PixelSpacing": "3.0x3.0", 
   "PlaneOrientationSequence": "Axial", 
@@ -22,6 +22,7 @@
   "RepetitionTime": 3.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 4.0, 
   "SliceTiming": [
     1500.0, 
@@ -62,5 +63,5 @@
     1416.67
   ], 
   "SpacingBetweenSlices": 4.4, 
-  "Task": "rest"
+  "TaskName": "rest"
 }

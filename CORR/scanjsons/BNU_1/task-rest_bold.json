@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 33, 
   "NumberofMeasurements": 200, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2520.0, 
   "PixelSpacing": "3.1x3.1", 
   "PlaneOrientationSequence": "Axial", 
@@ -22,6 +22,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.5, 
   "SliceTiming": [
     0.0, 
@@ -59,6 +60,6 @@
     969.7
   ], 
   "SpacingBetweenSlices": 4.2, 
-  "Task": "rest", 
-  "TaskDescription": "The first session included two resting-state fMRI scans, T1, T2 and DTI. The two resting-state fMRI scans were at the beginning and the end of the session (~20 minutes apart). The second scan session included resting-state fMRI, T1 and DTI. Participants were instructed to rest and relax with their eyes closed and not fall asleep."
+  "TaskDescription": "The first session included two resting-state fMRI scans, T1, T2 and DTI. The two resting-state fMRI scans were at the beginning and the end of the session (~20 minutes apart). The second scan session included resting-state fMRI, T1 and DTI. Participants were instructed to rest and relax with their eyes closed and not fall asleep.", 
+  "TaskName": "rest"
 }

@@ -1,0 +1,21 @@
+{
+  "FieldofViewDimensions": "128x128", 
+  "FieldofViewShape": "Rectangle", 
+  "MagneicFieldSrengh": 3.0, 
+  "Manufacturer": "GE", 
+  "ManufacturersModelName": "MR750", 
+  "NumberOfSlices": 68, 
+  "NumberofBZeros": "1", 
+  "NumberofDirections": 61, 
+  "PixelSpacing": "0.9375x0.9375/1.875x1.875", 
+  "PlaneOrientationSequence": "Axial", 
+  "ReceiveCoilType": "Head", 
+  "ReceiveCoilUsed": "8 Chan", 
+  "RepetitionTime": 8.5, 
+  "ScanOptions": "FS", 
+  "ScanningSequence": "EPI", 
+  "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
+  "SliceThickness": 2.0, 
+  "SpacingBetweenSlices": 2.0
+}

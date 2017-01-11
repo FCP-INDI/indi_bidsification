@@ -5,7 +5,7 @@
   "FieldofViewDimensions": "240x240", 
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Philips", 
   "NumberOfSlices": 36, 
   "NumberofMeasurements": 120, 
@@ -13,7 +13,7 @@
   "ParallelAcquisitionTechnique": "SENSE", 
   "ParallelReductionFactorIn-plane": 2.0, 
   "ParallelReductionFactorout-of-plane": 1.0, 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 3625.0, 
   "PixelSpacing": "3.0x3.0", 
   "PlaneOrientationSequence": "Axial", 
@@ -24,5 +24,5 @@
   "ScanOptions": "FS", 
   "SliceThickness": 3.5, 
   "SpacingBetweenSlices": 4.0, 
-  "Task": "rest"
+  "TaskName": "rest"
 }

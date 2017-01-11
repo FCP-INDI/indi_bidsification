@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 64, 
   "NumberofMeasurements": 180, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2232.0, 
   "PixelSpacing": "3.4x3.4", 
   "PlaneOrientationSequence": "Axial", 
@@ -22,6 +22,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.0, 
   "SliceTiming": [
     1000.0, 
@@ -90,6 +91,6 @@
     968.75
   ], 
   "SpacingBetweenSlices": 3.99, 
-  "Task": "rest", 
-  "TaskDescription": "Two independent stimulus-response compatibility (SRC) experiments were conducted, both combining the Stroop task and the Simon task. There were two resting-state blocks in each experiment, one before the task blocks and the other after the task blocks.During functional scanning, subjects were presented with a fixation cross and instructed to keep their eyes open, stare at the fixation, relax and move as little as possible."
+  "TaskDescription": "Two independent stimulus-response compatibility (SRC) experiments were conducted, both combining the Stroop task and the Simon task. There were two resting-state blocks in each experiment, one before the task blocks and the other after the task blocks.During functional scanning, subjects were presented with a fixation cross and instructed to keep their eyes open, stare at the fixation, relax and move as little as possible.", 
+  "TaskName": "rest"
 }

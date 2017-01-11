@@ -7,13 +7,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 33, 
   "NumberofMeasurements": 240, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2232.0, 
   "PixelSpacing": "3.1x3.1", 
   "PlaneOrientationSequence": "Axial", 
@@ -23,6 +23,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.0, 
   "SliceTiming": [
     0.0, 
@@ -60,6 +61,6 @@
     969.7
   ], 
   "SpacingBetweenSlices": 3.6, 
-  "Task": "rest", 
-  "TaskDescription": "Each subject underwent anatomical scans and two resting state fMRI scans as part of an experiment on the attentional blink. The first scan was performed prior to the behavioral pretest and training. This was followed by the second rest scan and then the behavioral posttest outside of the scanner."
+  "TaskDescription": "Each subject underwent anatomical scans and two resting state fMRI scans as part of an experiment on the attentional blink. The first scan was performed prior to the behavioral pretest and training. This was followed by the second rest scan and then the behavioral posttest outside of the scanner.", 
+  "TaskName": "rest"
 }

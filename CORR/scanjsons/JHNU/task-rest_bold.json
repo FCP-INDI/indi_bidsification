@@ -6,14 +6,14 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "Notes": "Data Reconstructed at 1.65x1.65 in plane resolution", 
   "NumberOfSlices": 30, 
   "NumberofMeasurements": 250, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2230.0, 
   "PixelSpacing": "3.75x3.75", 
   "PlaneOrientationSequence": "Axial", 
@@ -23,6 +23,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 4.0, 
   "SliceTiming": [
     1000.0, 
@@ -57,5 +58,5 @@
     933.33
   ], 
   "SpacingBetweenSlices": 4.4, 
-  "Task": "rest"
+  "TaskName": "rest"
 }

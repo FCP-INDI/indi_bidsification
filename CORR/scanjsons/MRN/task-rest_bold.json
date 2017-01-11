@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 75, 
   "Instructions": "We are about to begin the rest task. For this task you will be asked to lie still and keep your eyes focused on the crosshairs while the machine is on. Do you have any questions?", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 33, 
   "NumberofMeasurements": 150, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2170.0, 
   "PixelSpacing": "3.8x3.8", 
   "PlaneOrientationSequence": "Axial Oblique", 
@@ -22,6 +22,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.5, 
   "SliceTiming": [
     0.0, 
@@ -59,6 +60,6 @@
     969.7
   ], 
   "SpacingBetweenSlices": 4.55, 
-  "Task": "rest", 
-  "TaskDescription": " two scan sessions, four months apart"
+  "TaskDescription": " two scan sessions, four months apart", 
+  "TaskName": "rest"
 }

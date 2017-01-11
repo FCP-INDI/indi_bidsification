@@ -1,0 +1,23 @@
+{
+  "AcquisitionDuration": "5:46:00", 
+  "AcquisitionMatrix": "256x256", 
+  "EchoTime": "Shortest", 
+  "FieldofViewDimensions": "230x230", 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 8, 
+  "InversionTime": 1.15, 
+  "Manufacturer": "Philips", 
+  "ManufacturersModelName": "Achieva", 
+  "NumberOfSlices": 180, 
+  "ParallelAcquisition": "Yes", 
+  "ParallelAcquisitionTechnique": "SENSE", 
+  "ParallelReductionFactorIn-plane": 2.0, 
+  "ParallelReductionFactorout-of-plane": 3.0, 
+  "PixelSpacing": "0.9x0.9", 
+  "PlaneOrientationSequence": "Axial", 
+  "ReceiveCoilName": "32 Chan", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": "0.0084", 
+  "ScanningSequence": "3D TFE", 
+  "SliceThickness": 0.9
+}

@@ -4,7 +4,7 @@
   "EchoTime": "0.00245", 
   "FieldofViewDimensions": "224x224", 
   "FieldofViewShape": "Rectangle", 
-  "FlipAngle": "5/3", 
+  "FlipAngle": "3-May", 
   "InversionTime": "0.9/2.7", 
   "MagneticFieldStrength": "7T", 
   "Manufacturer": "Siemens", 
@@ -13,7 +13,8 @@
   "ParallelAcquisition": "On", 
   "ParallelAcquisitionTechnique": "GRAPPA", 
   "ParallelReductionFactorIn-plane": 2.0, 
-  "PartialFourier": "6/8", 
+  "PartialFourier": "8-Jun", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 250.0, 
   "PixelSpacing": "0.7x0.7", 
   "PlaneOrientationSequence": "Saggital", 
@@ -23,7 +24,7 @@
   "RepetitionTime": 5.0, 
   "ScanOptions": "PFP", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
-  "SliceEncodingDirection": "j", 
+  "SliceEncodingDirection": "i", 
   "SliceThickness": 0.7, 
   "SpacingBetweenSlices": "1.05"
 }

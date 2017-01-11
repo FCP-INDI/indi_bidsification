@@ -1,0 +1,23 @@
+{
+  "AcquisitionDuration": "8:08", 
+  "AcquisitionMatrix": "256x200", 
+  "EchoTime": "Shortest", 
+  "FieldofViewDimensions": "256x200", 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 8, 
+  "InversionTime": 1.0, 
+  "Manufacturer": "Philips", 
+  "NumberofSlices": 200, 
+  "Orientation": "Coronal", 
+  "ParallelAcquisition": "On", 
+  "ParallelAcquisitionTechnique": "SENSE", 
+  "ParallelReductionFactorIn-plane": 2.0, 
+  "PhaseEncodingDirection": "i", 
+  "PixelBandwidth": 191.5, 
+  "PixelSpacing": "1.0x1.0", 
+  "PulseSequenceType": "MPRAGE", 
+  "ReceiveCoilName": "8Ch", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": 3.5, 
+  "SliceThickness": 1.0
+}

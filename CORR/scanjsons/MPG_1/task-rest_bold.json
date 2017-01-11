@@ -7,7 +7,7 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 70, 
   "Instructions": "relax keep awake with eyes open", 
-  "MagneticFieldStrength": "7T", 
+  "MagneicFieldSrengh": 7, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "Magentom", 
   "NumberOfSlices": 70, 
@@ -15,7 +15,7 @@
   "ParallelAcquisition": "Yes", 
   "ParallelAcquisitionTechnique": "GRAPPA", 
   "ParallelReductionFactorIn-plane": 3.0, 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 1116.0, 
   "PixelSpacing": "1.5x1.5", 
   "PlaneOrientationSequence": "Axial", 
@@ -23,6 +23,7 @@
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 3.0, 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 1.5, 
   "SliceTiming": [
     1500.0, 
@@ -97,6 +98,6 @@
     1457.14
   ], 
   "SpacingBetweenSlices": 1.5, 
-  "Task": "rest", 
-  "TaskDescription": "two sessions one week apart"
+  "TaskDescription": "two sessions one week apart", 
+  "TaskName": "rest"
 }

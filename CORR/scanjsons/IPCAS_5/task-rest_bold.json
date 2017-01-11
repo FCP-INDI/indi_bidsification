@@ -6,7 +6,7 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 33, 
@@ -22,6 +22,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "j-", 
   "SliceThickness": 5.0, 
   "SliceTiming": [
     0.0, 
@@ -59,6 +60,6 @@
     969.7
   ], 
   "SpacingBetweenSlices": 5.0, 
-  "Task": "rest", 
-  "TaskDescription": "In the control group, each participant was scanned three times (separated at least 10 minutes for scan 1 and scan 2, and 40 minutes for scan 2 and scan 3). In the exercise group, each participant underwent two scans at least 10 minutes apart. During scanning, subjects were instructed to keep their eyes closed, relax and move as little as possible. "
+  "TaskDescription": "In the control group, each participant was scanned three times (separated at least 10 minutes for scan 1 and scan 2, and 40 minutes for scan 2 and scan 3). In the exercise group, each participant underwent two scans at least 10 minutes apart. During scanning, subjects were instructed to keep their eyes closed, relax and move as little as possible. ", 
+  "TaskName": "rest"
 }

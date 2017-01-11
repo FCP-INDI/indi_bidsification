@@ -1,0 +1,20 @@
+{
+  "AcquisitionMatrix": "64x64", 
+  "EchoTime": 0.027000000000000003, 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 60, 
+  "Instructions": "Rest quietly with your eyes open", 
+  "MagneicFieldStrength": "3T", 
+  "Manufacturer": "GE", 
+  "ManufacturersModelName": "Signa Excite", 
+  "NumberOfSlices": 34, 
+  "NumberofMeasurements": 178, 
+  "PixelSpacing": "4.0x4.0", 
+  "ReceiveCoilName": "8 Chan", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": 2, 
+  "SliceThickness": 3.8, 
+  "SliceTiming": "n/a", 
+  "TaskDescription": "Healthy young adult participants were run on the following tasks in sequence: animal-tool functional localizer, pre-conditioning resting state, fear conditioning functional study using animals and tools as conditioned stimuli and electric shock as an unconditioned stimulus, and post-conditioning resting state. The labels \"pre\" and \"post\" in the database correspond to the resting state data taken immediately before and immediately after the fear conditioning study, respectively, from the same research participant.", 
+  "TaskName": "rest"
+}

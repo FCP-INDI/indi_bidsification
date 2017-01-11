@@ -13,7 +13,8 @@
   "ParallelAcquisition": "On", 
   "ParallelAcquisitionTechnique": "GRAPPA", 
   "ParallelReductionFactorIn-plane": 2.0, 
-  "PartialFourier": "6/8", 
+  "PartialFourier": "8-Jun", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 130.0, 
   "PixelSpacing": "1.0x1.0", 
   "PlaneOrientationSequence": "Saggital", 
@@ -23,7 +24,7 @@
   "RepetitionTime": 2.6, 
   "ScanOptions": "PFP", 
   "SliceAcquisitionOrder": "Sequential Ascending", 
-  "SliceEncodingDirection": "j", 
+  "SliceEncodingDirection": "i", 
   "SliceThickness": 1.0, 
   "SpacingBetweenSlices": "1.5"
 }

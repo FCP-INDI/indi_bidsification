@@ -7,13 +7,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Keep eyes open and let mind wander/Watch Cartoons", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 40, 
   "NumberofMeasurements": 240, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2894.0, 
   "PixelSpacing": "3.4x3.4", 
   "PlaneOrientationSequence": "Axial", 
@@ -23,6 +23,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.0, 
   "SliceTiming": [
     1000.0, 
@@ -67,6 +68,6 @@
     950.0
   ], 
   "SpacingBetweenSlices": 3.3, 
-  "Task": "rest", 
-  "TaskDescription": "A single subject was imaged for 10 sessions over 3 weeks, each of which included 10 five-minute BOLD acquisitions. Five of the sessions were performed in the resting state, with the instructions, Keep your eyes open and remain awake. Let thoughts pass through your mind without focusing on any particular mental activity, with no visual stimuli. The other five sessions were performed while the subject viewed 10 five-minute Looney Tunes cartoon clips."
+  "TaskDescription": "A single subject was imaged for 10 sessions over 3 weeks, each of which included 10 five-minute BOLD acquisitions. Five of the sessions were performed in the resting state, with the instructions, Keep your eyes open and remain awake. Let thoughts pass through your mind without focusing on any particular mental activity, with no visual stimuli. The other five sessions were performed while the subject viewed 10 five-minute Looney Tunes cartoon clips.", 
+  "TaskName": "rest"
 }

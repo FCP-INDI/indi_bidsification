@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "GE", 
   "ManufacturersModelName": "Signa HDx", 
   "NumberOfSlices": 32, 
   "NumberofMeasurements": 240, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "i", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 7812.5, 
   "PixelSpacing": "3.4x3.4", 
   "PulseSequenceType": "EPI", 
@@ -56,6 +56,6 @@
     1937.5
   ], 
   "SpacingBetweenSlices": 4.6, 
-  "Task": "rest", 
-  "TaskDescription": "Subjects were instructed to keep their eyes closed, lie still and relax during the scan."
+  "TaskDescription": "Subjects were instructed to keep their eyes closed, lie still and relax during the scan.", 
+  "TaskName": "rest"
 }

@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 60, 
   "Instructions": "Lie Still and Relax During Scan", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "GE", 
   "ManufacturersModelName": "Discovery MR750", 
   "NumberOfSlices": 40, 
   "NumberofMeasurements": 231, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelSpacing": "3.5x3.5", 
   "PulseSequenceType": "EPI", 
   "ReceiveCoilName": "8 chan", 
@@ -64,5 +64,5 @@
     2535.0
   ], 
   "SpacingBetweenSlices": 3.5, 
-  "Task": "rest"
+  "TaskName": "rest"
 }

@@ -6,13 +6,13 @@
   "FieldofViewShape": "Rectangle", 
   "FlipAngle": 90, 
   "Instructions": "Rest with eyes closed/open.", 
-  "MagneticFieldStrength": "3T", 
+  "MagneicFieldSrengh": 3, 
   "Manufacturer": "Siemens", 
   "ManufacturersModelName": "TrioTim", 
   "NumberOfSlices": 34, 
   "NumberofMeasurements": 150, 
   "ParallelAcquisition": "No", 
-  "PhaseEncodingDirection": "j", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 2520.0, 
   "PixelSpacing": "3.5x3.5", 
   "PlaneOrientationSequence": "Axial", 
@@ -22,6 +22,7 @@
   "RepetitionTime": 2.0, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 3.5, 
   "SliceTiming": [
     1000.0, 
@@ -60,6 +61,6 @@
     941.18
   ], 
   "SpacingBetweenSlices": 4.2, 
-  "Task": "rest", 
-  "TaskDescription": "During the first scan participants were instructed to rest with their eyes closed. The second and third resting state scan were randomized between resting with eyes open versus eyes closed. "
+  "TaskDescription": "During the first scan participants were instructed to rest with their eyes closed. The second and third resting state scan were randomized between resting with eyes open versus eyes closed. ", 
+  "TaskName": "rest"
 }

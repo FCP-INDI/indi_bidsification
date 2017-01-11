@@ -1,0 +1,16 @@
+{
+  "AcquisitionMatrix": "256x256", 
+  "EchoTime": "0.00337", 
+  "FieldofViewDimensions": "256x256", 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 7, 
+  "InversionTime": 1.1, 
+  "MagneticFieldStrength": "3T", 
+  "Manufacturer": "Siemens", 
+  "ManufacturersModelName": "TrioTim", 
+  "NumberofSlices": 128, 
+  "PulseSequenceType": "MPRAGE", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": 2.53, 
+  "SliceThickness": 1.33
+}

@@ -10,13 +10,13 @@
   "NumberofDirections": 30.0, 
   "NumberofMeasurements": 33, 
   "NumberofSlices": 68.0, 
+  "PhaseEncodingDirection": "i", 
   "PixelSpacing": "1.5x1.5", 
   "ReceiveCoilName": "8 Chan", 
   "ReceiveCoilType": "Head", 
   "RepetitionTime": 8.6, 
   "ScanOptions": "FS", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
-  "SliceEncodingDirection": "i", 
   "SliceThickness": 1.5, 
   "SpacingBetweenSlices": 1.5
 }

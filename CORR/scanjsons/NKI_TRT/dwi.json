@@ -15,7 +15,8 @@
   "NumberofMeasurements": 137, 
   "NumberofSlices": 64.0, 
   "ParallelAcquisition": "Off", 
-  "PartialFourier": "6/8", 
+  "PartialFourier": "8-Jun", 
+  "PhaseEncodingDirection": "j-", 
   "PixelBandwidth": 1814.0, 
   "PixelSpacing": "2.0x2.0", 
   "PlaneOrientationSequence": "Axial", 
@@ -25,7 +26,7 @@
   "RepetitionTime": 2.4, 
   "ScanOptions": "FS, PFP", 
   "SliceAcquisitionOrder": "Interleaved Ascending", 
-  "SliceEncodingDirection": "j", 
+  "SliceEncodingDirection": "k", 
   "SliceThickness": 2.0, 
   "SpacingBetweenSlices": 2.0
 }
