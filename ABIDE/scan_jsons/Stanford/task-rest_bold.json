@@ -1,0 +1,20 @@
+{
+  "AcquisitionMatrix": "64x64", 
+  "EchoTime": 0.03, 
+  "FieldofViewDimensions": "200x200", 
+  "FieldofViewShape": "Rectangular", 
+  "FlipAngle": 80, 
+  "Instructions": " we asked participants to keep their eyes closed.", 
+  "MagneicFieldStrength": 3, 
+  "Manufacturer": "GE", 
+  "ManufacturersModelName": "Signa", 
+  "NumberOfSlices": 29.0, 
+  "PixelSpacing": "3.125x3.125", 
+  "PlaneOrientationSequentialuence": "Oblique", 
+  "PulseSequenceType": "Spiral", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": 2.0, 
+  "SliceThickness": 4.5, 
+  "SliceTiming": "n/a", 
+  "TaskName": "rest"
+}

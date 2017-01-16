@@ -4,7 +4,8 @@ import os
 import shutil
 import re
 import sys
-
+import boto
+import botocore
 
 def makeallpublic(bucket,fpath):
     for i,k in enumerate(bucket.list(prefix=fpath)):   
@@ -14,7 +15,10 @@ def makeallpublic(bucket,fpath):
 def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
     bucket = fetch_creds.return_bucket(keyspath, 'fcp-indi')
     
-    
+    fo=open('wrongetags.csv','a')
+    fo.write('src,dest\n')
+    fo.close()
+
     srclist=[]
     
     files_converted=[]
@@ -30,7 +34,7 @@ def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
     for mk in sorted(matchdct.keys()):
         print mk
         print matchdct[mk]['match']
-    
+        fo=open('wrongetags.csv','a')
         srclist_filt=[]
         destlist=[]
     
@@ -57,11 +61,22 @@ def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
             
         if test == 'yes':
             for j,slf in enumerate(srclist_filt):
-                print 'changing: ',srclist_filt[j],destlist[j]
+                if bucket.get_key(destlist[j]):
+                    dx=bucket.get_key(destlist[j])
+                    sx=bucket.get_key(srclist_filt[j])
+                    if dx.etag != sx.etag:
+                        print '###### wrong etag ##### changing: ',srclist_filt[j],destlist[j]
+
+                        fo.write(srclist_filt[j]+','+destlist[j]+'\n')
+
+                    else:
+                        pass#print 'Already Exists and same etag: ',srclist_filt[j],destlist[j]
+                #else:
+                #    print 'copying ',srclist_filt[j],destlist[j]
         else:
             # Note might error with make_public=True, removing it stops error, unsure why error occurs
-            aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=False, make_public=True,overwrite=True)
-    
+            aws_utils.s3_rename(bucket,srclist_filt,destlist,keep_old=True, make_public=True,overwrite=True)
+        fo.close()
     
     print 'num files pulled in:',len(files_converted),'num files produced',len(destlist_tot)
     
@@ -69,6 +84,7 @@ def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
         raise Exception('There is a mismatch in the total files read in, and total files produced')
     
     #print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
+    
 
 def local_regex(matchdct,ipdir,opdir):
     srclist=[]
@@ -121,7 +137,7 @@ if __name__ == '__main__':
     ipdir=sys.argv[3]
     opdir=sys.argv[4]
     s3flag=sys.argv[5]
-    test='no'
+    test='yes'
     
     #Be sure to put in the last forward slash as may act as wildcard otherwise
     #ipdir='data/Projects/CORR/RawData/'
@@ -132,7 +148,7 @@ if __name__ == '__main__':
     except:
         raise Exception('s3flag must be True or False')
     
-    with open(matchdct_fpath) as mdf:
+    with open(matchdct_fpath, 'r') as mdf:
         matchdct=yaml.load(mdf)
     
     

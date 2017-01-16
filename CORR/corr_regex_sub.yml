@@ -1,18 +1,3 @@
-'anat' : 
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat.nii.gz' 
-    - '\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_run-\4_T1w.nii.gz'
-
-'mpi_anat_comp': 
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/anat_([0-9]{1,2})/anat_([a-z12\_]+).nii.gz'
-    - '\1/sub-\2/ses-\3/anat/sub-\2_ses-\3_acq-\5_run-\4_T1w.nii.gz'
-
-'dti' : 
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti.nii.gz'
-    - '\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi.nii.gz'
-
 'func_rest_nogz' : 
   'match' :
     - '(.+)/([0-9]+)/session_([0-9]{1,2})/rest_([0-9]{1,2})/rest.nii$'
@@ -54,45 +39,11 @@
     - '(.+)/([0-9]+)/session_([0-9]{1,2})/checkerboard_([0-9]{3,4})_([0-9]{1,2})/checkerboard.+.nii.gz' 
     - '\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-checkerboard_acq-tr\4ms_run-\5_bold.nii.gz'
 
-'dti' : 
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/dti_([0-9]{1,2})/dti(.+)' 
-    - '\1/sub-\2/ses-\3/dwi/sub-\2_ses-\3_run-\4_dwi\5'
-
-'fmap_phs' :
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_phase.nii.gz' 
-    - '\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_phasediff.nii.gz'
-
-'fmap_mag' : 
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/fieldmap_([0-9]{1,2})/fieldmap_magnitude.nii.gz' 
-    - '\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_run-\4_magnitude.nii.gz'
-
-'fmap_phs_noscannum' :
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/phase.nii.gz' 
-    - '\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_phasediff.nii.gz'
 
 'fmap_mag_noscannum' :
   'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/magnitude(12).nii.gz' 
+    - '(.+)/([0-9]+)/session_([0-9]{1,2})/FieldMap/magnitude([12]).nii.gz' 
     - '\1/sub-\2/ses-\3/fmap/sub-\2_ses-\3_magnitude\4.nii.gz'
-
-'cbf' :
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/cbf_([0-9]{1,2})/cbf.nii.gz' 
-    - '\1/sub-\2/ses-\3/cbf/sub-\2_ses-\3_task-rest_run-\4_cbf.nii.gz'
-
-'asl' :
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/asl_([0-9]{1,2})/asl.nii.gz' 
-    - '\1/sub-\2/ses-\3/asl/sub-\2_ses-\3_run-\4_asl.nii.gz'
-
-'iba_trt_msitbehav' :
-  'match' :
-    - '(.+)/([0-9]+)/session_([0-9]{1,2})/msit_(1-9{1})/([a-z]+).txt' 
-    - '\1/sub-\2/ses-\3/func/sub-\2_ses-\3_task-msit_run-\4_\5.txt'
 
 'utah_physio_mat' :
   'match' :
