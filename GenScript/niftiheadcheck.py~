@@ -31,10 +31,10 @@ def return_diminfo_cats(binstr):
     https://nifti.nimh.nih.gov/nifti-1/documentation/nifti1fields/nifti1fields_pages/dim_info.html
     """
 
-    opdct={}
+     opdct={}
 
-    opdct['freqdir']=int(binstr,2) & int(bin(3),2)
-    opdct['phasedir']=int(binstr,2) >> 2 & int(bin(3),2)
-    opdct['slicedir']=int(binstr,2) >> 4 & int(bin(3),2)
+     opdct['freqdir']=int(binstr,2) & int(bin(3),2)
+     opdct['phasedir']=int(binstr,2) >> 2 & int(bin(3),2)
+     opdct['slicedir']=int(binstr,2) >> 4 & int(bin(3),2)
 
-    return opdct
+     return opdct
