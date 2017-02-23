@@ -113,13 +113,13 @@ def local_regex(matchdct,ipdir,opdir):
             newfile=elem[1]
             newdir=os.path.dirname(newfile)
     
-            #if not os.path.isdir(newdir):
-            #    print 'Making Directory ',newdir
-            #    os.makedirs(newdir)
+            if not os.path.isdir(newdir):
+                print 'Making Directory ',newdir
+                os.makedirs(newdir)
     
             if not os.path.isfile(newfile) and not os.path.islink(newfile):
                 print 'Linking ',oldfile,' to ',newfile
-            #    os.symlink(os.path.abspath(oldfile),newfile)
+                os.symlink(os.path.abspath(oldfile),newfile)
                 
                 os.rename(oldfile,newfile)
             else:
@@ -132,6 +132,22 @@ def local_regex(matchdct,ipdir,opdir):
     
     #print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
 
+def reorganize_tags(ipname):
+
+    tagorder=[
+    'sub-',
+    'ses-',
+    'task-',
+    'acq-',
+    'rec-',
+    'run-',
+    '.']
+   
+    ipname=ipname.split('_')
+    ipname=[ip for to in tagorder for ip in ipname if to in ip]
+     
+    return '_'.join(ipname)
+
 if __name__ == '__main__':
 
     keyspath=sys.argv[1]
@@ -139,7 +155,7 @@ if __name__ == '__main__':
     ipdir=sys.argv[3]
     opdir=sys.argv[4]
     s3flag=sys.argv[5]
-    test='yes'
+    test='no'
     
     #Be sure to put in the last forward slash as may act as wildcard otherwise
     #ipdir='data/Projects/CORR/RawData/'
