@@ -120,6 +120,8 @@ def local_regex(matchdct,ipdir,opdir):
             if not os.path.isfile(newfile) and not os.path.islink(newfile):
                 print 'Linking ',oldfile,' to ',newfile
                 os.symlink(os.path.abspath(oldfile),newfile)
+                
+                os.rename(oldfile,newfile)
             else:
                 pass #print 'File ',newfile,' already exists, please delete if a new file is needed'
     
@@ -128,7 +130,23 @@ def local_regex(matchdct,ipdir,opdir):
     if len(files_converted) != len(destlist_tot):
         raise Exception('There is a mismatch in the total files read in, and total files produced')
     
-    print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
+    #print 'The following files were not pulled in from the source directory',set(srclist)-set(files_converted)
+
+def reorganize_tags(ipname):
+
+    tagorder=[
+    'sub-',
+    'ses-',
+    'task-',
+    'acq-',
+    'rec-',
+    'run-',
+    '.']
+   
+    ipname=ipname.split('_')
+    ipname=[ip for to in tagorder for ip in ipname if to in ip]
+     
+    return '_'.join(ipname)
 
 if __name__ == '__main__':
 
@@ -137,27 +155,27 @@ if __name__ == '__main__':
     ipdir=sys.argv[3]
     opdir=sys.argv[4]
     s3flag=sys.argv[5]
-    test='yes'
+    test='no'
     
     #Be sure to put in the last forward slash as may act as wildcard otherwise
     #ipdir='data/Projects/CORR/RawData/'
     #opdir='data/Projects/CORR/RawDataBIDs/'
     
-    try:
-        s3flag=bool(s3flag)
-    except:
-        raise Exception('s3flag must be True or False')
+    #try:
+    #    s3flag=bool(s3flag)
+    #except:
+    #    raise Exception('s3flag must be True or False')
     
     with open(matchdct_fpath, 'r') as mdf:
         matchdct=yaml.load(mdf)
     
     
     
-    if s3flag == True:
+    if s3flag == 'True':
         s3_match_and_move(keyspath, matchdct, ipdir, opdir, test)
 
     
-    elif s3flag == False:
+    elif s3flag == 'False':
         local_regex(matchdct,ipdir,opdir)
                 
     else:
