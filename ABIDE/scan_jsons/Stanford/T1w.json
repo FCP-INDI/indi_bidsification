@@ -1,0 +1,15 @@
+{
+  "AcquisitionMatrix": "256x256", 
+  "EchoTime": 0.0018, 
+  "FieldofViewDimensions": "220x220", 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 15, 
+  "MagneticFieldStrength": 3, 
+  "Manufacturer": "GE", 
+  "ManufacturersModelName": "Signa", 
+  "NumberOfSlices": 132.0, 
+  "PixelSpacing": "0.859x0.859", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": 0.0084, 
+  "SliceThickness": 1.5
+}

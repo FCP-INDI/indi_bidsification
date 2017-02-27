@@ -1,0 +1,6 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025985	ses-1	female	61	#	#	#	days	no active task	eyes closed	Lie Still and Relax During Scan'
+0025985	ses-2	female	61	#	#	13	days	no active task	eyes closed	Lie Still and Relax During Scan'
+0025985	ses-3	female	61	#	#	27	days	no active task	eyes closed	Lie Still and Relax During Scan'
+0025985	ses-4	female	61	#	#	90	days	no active task	eyes closed	Lie Still and Relax During Scan'
+0025985	ses-5	female	61	#	#	176	days	no active task	eyes closed	Lie Still and Relax During Scan'

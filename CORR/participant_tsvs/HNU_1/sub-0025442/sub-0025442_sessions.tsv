@@ -1,0 +1,11 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025442	ses-1	female	27	#	between session	#	#	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-2	female	27	#	between session	5	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-3	female	27	#	between session	7	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-4	female	27	#	between session	12	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-5	female	27	#	between session	15	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-6	female	27	#	between session	24	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-7	female	27	#	between session	26	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-8	female	27	#	between session	33	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-9	female	27	#	between session	36	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025442	ses-10	female	27	#	between session	40	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'

@@ -1,0 +1,13 @@
+{
+  "AcquisitionMatrix": "256x256", 
+  "EchoTime": 0.0018, 
+  "FlipAngle": 15, 
+  "MagneticFieldStrength": 3, 
+  "Manufacturer": "GE", 
+  "ManufacturersModelName": "Signa", 
+  "PhaseEncodingDirection": "j-", 
+  "PlaneOrientationSequence": "Axial", 
+  "ReceiveCoilType": "Head", 
+  "ScanningSequence": "IRSPGR", 
+  "SliceThickness": 1.2
+}

@@ -1,7 +1,7 @@
 'func_rest_olin_AP' : 
     'match' :
         - 'ABIDEII-ONRC_2/sub-([0-9]+)/ses-([0-9]{1,2})/func/sub-[0-9]+_ses-[0-9]{1,2}_task-rest_run-([0-9]{1,2})_bold'
-        - 'ABIDEII-ONRC_2/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-PEDj_func'
+        - 'ABIDEII-ONRC_2/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-PEDj_bold'
     'include' :
         - '28675'
         - '28675'
@@ -92,7 +92,7 @@
 'func_rest_olin_RL' : 
     'match' :
         - 'ABIDEII-ONRC_2/sub-([0-9]+)/ses-([0-9]{1,2})/func/sub-[0-9]+_ses-[0-9]{1,2}_task-rest_run-([0-9]{1,2})_bold'
-        - 'ABIDEII-ONRC_2/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-PEDi_func'
+        - 'ABIDEII-ONRC_2/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-PEDi_bold'
     'include' :
         - '28677'
         - '28677'
@@ -103,7 +103,7 @@
 'func_rest_kki_32Chan' : 
     'match' :
         - 'ABIDEII-KKI_1/sub-([0-9]+)/ses-([0-9]{1,2})/func/sub-[0-9]+_ses-[0-9]{1,2}_task-rest_run-([0-9]{1,2})_bold'
-        - 'ABIDEII-KKI_1/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-RC32Chan_func'
+        - 'ABIDEII-KKI_1/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-RC32Chan_bold'
     'include' :
         - '29409'
         - '29411'
@@ -171,7 +171,7 @@
 'func_rest_kki_8Chan' : 
     'match' :
         - 'ABIDEII-KKI_1/sub-([0-9]+)/ses-([0-9]{1,2})/func/sub-[0-9]+_ses-[0-9]{1,2}_task-rest_run-([0-9]{1,2})_bold'
-        - 'ABIDEII-KKI_1/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-RC8Chan_func'
+        - 'ABIDEII-KKI_1/sub-\1/ses-\2/func/sub-\1_ses-\2_task-rest_run-\3_acq-RC8Chan_bold'
     'include' :
         - '29273'
         - '29274'

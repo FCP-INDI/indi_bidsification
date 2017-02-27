@@ -1,0 +1,4 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025026	ses-1	female	9.54	#	between session	#	#	no active task	other	YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.
+0025026	ses-2	#	#	#	#	19	days	no active task	#	#
+0025026	ses-3	#	#	#	#	7	minutes	no active task	#	#

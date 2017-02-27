@@ -1,0 +1,11 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025446	ses-1	male	30	#	between session	#	#	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-2	male	30	#	between session	4	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-3	male	30	#	between session	7	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-4	male	30	#	between session	11	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-5	male	30	#	between session	14	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-6	male	30	#	between session	18	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-7	male	30	#	between session	28	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-8	male	30	#	between session	32	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-9	male	30	#	between session	34	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+0025446	ses-10	male	30	#	between session	39	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'

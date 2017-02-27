@@ -33,7 +33,8 @@ modalities=[
 'inplaneT2',
 'angio',
 'defacemask',
-'SWImagandphase'
+'SWImagandphase',
+'phasediff'
 ]
 
 
@@ -101,7 +102,7 @@ for ui in sorted(unqit):
             try:
                 op['SliceTiming']=map(float,op['SliceTiming'].split(','))
             except:
-                raise Exception("Cannot process value in colymn 'SliceTiming' for ",ui)
+                raise Exception("Cannot process value in column 'SliceTiming' for ",ui)
         
 
     ## Setup specific op name

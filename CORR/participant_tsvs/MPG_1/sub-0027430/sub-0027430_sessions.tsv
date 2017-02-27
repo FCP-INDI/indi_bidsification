@@ -1,0 +1,5 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0027430	ses-1	female	29	R	within and between	#	#	no active task	fixation	relax keep awake with eyes open
+0027430	ses-2	female	29	#	within and between	6	minutes	active task	fixation	relax keep awake with eyes open
+0027430	ses-3	female	29	#	within and between	1	w	no active task	fixation	relax keep awake with eyes open
+0027430	ses-4	female	29	#	within and between	6	minutes	active task	fixation	relax keep awake with eyes open

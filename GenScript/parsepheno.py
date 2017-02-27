@@ -7,19 +7,27 @@ aggphenokeyf=sys.argv[2]
 sitecol=sys.argv[3]
 subcol=sys.argv[4]
 dropzerocolsrows=sys.argv[5]
+opdir=sys.argv[6]
+sescol=sys.argv[7]
+tsv_type=sys.argv[8]
 
-opname=aggphenof.split('/')[-1].split('.')[0]+'.tsv'
+
+tsv_type_list=[
+'participant',
+'session']
+
+
+if tsv_type not in tsv_type_list:
+    raise Exception('tsv type must be one of:\n'+'\n'.join(tsv_type_list))
 
 aggpheno=pd.read_csv(aggphenof,dtype='str')
 
 
 
-try:
-    dropzerocolsrows=bool(dropzerocolsrows)
-except:
+if not any(dropzerocolsrows == x for x in ['True','False']):
     raise Exception('dropzerocolsrows must be True or False')
 
-if dropzerocolsrows:
+if dropzerocolsrows == 'True':
     aggpheno=aggpheno.dropna(axis=0,how='all')
     aggpheno=aggpheno.dropna(axis=1,how='all')
 
@@ -38,19 +46,41 @@ else:
 print aggpheno.columns
 
 sites=set(aggpheno[sitecol].values)
+
 collist=list(aggpheno.columns)
+
 subcolind=collist.index(subcol)
 collist[subcolind]='participant_id'
+
+sescolind=collist.index(sescol)
+collist[sescolind]='session_id'
+
 aggpheno.columns=collist
 
 aggpheno.columns=map(str.lower,aggpheno.columns)
 
 
+if tsv_type == 'participant':
+    for site in sites:
+        subdf=aggpheno[aggpheno[sitecol.lower()] == site]
+        subopname=os.path.join(opdir,site,'participants.tsv')
+        subopdir=os.path.join(opdir,site)
+        if not os.path.isdir(subopdir):
+            os.makedirs(subopdir)
+        subdf.drop(sitecol.lower(),axis=1,inplace=True)
+        print 'Writing file', subopname
+        subdf.to_csv(subopname,index=False,sep='\t')
 
-for site in sites:
-    subdf=aggpheno[aggpheno[sitecol.lower()] ==site]
-    subopname='participants_'+site+'_'+opname
-    subopname=subopname.replace(' ','')
-    subdf.drop(sitecol.lower(),axis=1,inplace=True)
-    print 'Writing file', subopname
-    subdf.to_csv(subopname,index=False,sep='\t')
+elif tsv_type == 'session':
+    for site in sites:
+        subs=set(aggpheno['participant_id'][aggpheno[sitecol.lower()] == site].values)
+        for sub in subs:
+            subdf=aggpheno[(aggpheno[sitecol.lower()] == site) & (aggpheno['participant_id'] == sub)]
+            subject_id='sub-'+sub
+            subopname=os.path.join(opdir,site,subject_id,subject_id+'_sessions.tsv')
+            subopdir=os.path.join(opdir,site,subject_id)
+            if not os.path.isdir(subopdir):
+                os.makedirs(subopdir)
+            subdf.drop(sitecol.lower(),axis=1,inplace=True)
+            print 'Writing file', subopname
+            subdf.to_csv(subopname,index=False,sep='\t')

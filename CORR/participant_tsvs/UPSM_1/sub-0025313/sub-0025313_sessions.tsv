@@ -1,0 +1,3 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025313	ses-1	female	13.9	R	between session	#	#		eyes closed	Please close your eyes and rest for the next 5 minutes. Do your best not to fall asleep.
+0025313	ses-2	female	13.9	R	between session	856	days		eyes closed	Please close your eyes and rest for the next 5 minutes. Do your best not to fall asleep.

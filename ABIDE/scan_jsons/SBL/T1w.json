@@ -1,0 +1,23 @@
+{
+  "AcquisitionDuration": "4:11", 
+  "AcquisitionMatrix": "256x232", 
+  "EchoTime": 0.0035, 
+  "FieldofViewDimensions": "256x232", 
+  "FieldofViewShape": "Rectangle", 
+  "FlipAngle": 8, 
+  "InversionTime": 1.0, 
+  "MagneticFieldStrength": 3, 
+  "Manufacturer": "Philips", 
+  "ManufacturersModelName": "Intera", 
+  "NumberOfSlices": 170.0, 
+  "ParallelAcquisition": "Yes", 
+  "ParallelAcquisitionTechnique": "SENSE", 
+  "PixelBandwidth": 191.5, 
+  "PixelSpacing": "1x1", 
+  "PlaneOrientationSequence": "Axial", 
+  "ReceiveCoilType": "Head", 
+  "RepetitionTime": 2.463, 
+  "ScanningSequence": "MPRAGE", 
+  "SliceThickness": 1.0, 
+  "SpacingBetweenSlices": 1.0
+}

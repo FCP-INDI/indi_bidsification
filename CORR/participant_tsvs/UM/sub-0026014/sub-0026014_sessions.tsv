@@ -1,0 +1,5 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0026014	ses-1	female	66	R	within and between	#	#	no active task	eyes closed	Close your eyes, relax and dont fall asleep.
+0026014	ses-2	#	#	#	within and between	1	minutes	no active task	eyes closed	#
+0026014	ses-3	#	#	#	#	79	days	no active task	#	#
+0026014	ses-4	#	#	#	#	1	minutes	no active task	#	#

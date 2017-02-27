@@ -1,0 +1,4 @@
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025277	ses-1	male	11.2	R	between session	#	#		eyes closed	Please close your eyes and rest for the next 5 minutes. Do your best not to fall asleep.
+0025277	ses-2	male	11.2	R	between session	596	days		eyes closed	Please close your eyes and rest for the next 5 minutes. Do your best not to fall asleep.
+0025277	ses-3	male	11.2	R	between session	1129	days		eyes closed	Please close your eyes and rest for the next 5 minutes. Do your best not to fall asleep.
