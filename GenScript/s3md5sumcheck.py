@@ -10,12 +10,16 @@ awscreds=sys.argv[1]
 bucketname=sys.argv[2]
 bucketpath=sys.argv[3]
 localpath=sys.argv[4]
-
+if len(sys.argv) >= 6:
+    replace=sys.argv[5]
+else:
+    replace=None 
 bucket = fetch_creds.return_bucket(awscreds, bucketname)
 
 
 for k in bucket.list(prefix=bucketpath):
     buckname=k.name
+    print k.name
     localname=k.name.replace(bucketpath,localpath)
     if os.path.isfile(localname):
         localname=os.path.abspath(localname)
@@ -33,9 +37,12 @@ for k in bucket.list(prefix=bucketpath):
                pass#print 'all good',buckname
             elif etag != localetag:
                 print 'no bueno', buckname, localetag, etag
+                aws_utils.s3_upload(bucket,[localname],[buckname],make_public=True,overwrite=True)  
         elif '-' not in etag and localmd5 == etag:
             pass#print 'all good',buckname
         elif '-' not in etag and localmd5 != etag:
             print 'no bueno', buckname, localmd5, etag
+            aws_utils.s3_upload(bucket,[localname],[buckname],make_public=True,overwrite=True)
+            
     else:
         print 'not found locally',buckname
