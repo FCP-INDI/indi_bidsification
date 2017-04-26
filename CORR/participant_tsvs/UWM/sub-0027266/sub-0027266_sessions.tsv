@@ -1,4 +1,4 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0027266	ses-1	female	29	Right	within and between	#	#	no active task	fixation	Lie Still and Relax During Scan
-0027266	ses-2	#	#	#	#	30	minutes	no active task	#	#
-0027266	ses-3	#	#	#	#	112	days	no active task	#	#
+participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	visual_stimulation_condition	resting_state_instruction
+0027266	ses-1	female	29	Right	within and between	#	#	fixation	Lie Still and Relax During Scan
+0027266	ses-2	#	#	#	#	30	minutes	#	#
+0027266	ses-3	#	#	#	#	112	days	#	#

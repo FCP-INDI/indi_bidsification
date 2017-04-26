@@ -1,6 +1,6 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0026006	ses-1	male	52	#	#	#	days	no active task	eyes closed	Lie Still and Relax During Scan'
-0026006	ses-2	male	52	#	#	14	days	no active task	eyes closed	Lie Still and Relax During Scan'
-0026006	ses-3	male	52	#	#	33	days	no active task	eyes closed	Lie Still and Relax During Scan'
-0026006	ses-4	male	52	#	#	93	days	no active task	eyes closed	Lie Still and Relax During Scan'
-0026006	ses-5	male	52	#	#	197	days	no active task	eyes closed	Lie Still and Relax During Scan'
+participant_id	session_id	age_at_scan_1	retest_duration
+0026006	ses-1	52	#
+0026006	ses-2	52	14
+0026006	ses-3	52	33
+0026006	ses-4	52	93
+0026006	ses-5	52	197

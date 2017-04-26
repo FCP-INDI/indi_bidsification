@@ -1,5 +1,5 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0027434	ses-1	male	27	L	within and between	#	#	no active task	fixation	relax keep awake with eyes open
-0027434	ses-2	male	27	#	within and between	6	minutes	active task	fixation	relax keep awake with eyes open
-0027434	ses-3	male	27	#	within and between	1	w	no active task	fixation	relax keep awake with eyes open
-0027434	ses-4	male	27	#	within and between	6	minutes	active task	fixation	relax keep awake with eyes open
+participant_id	session_id	handedness	retest_duration	retest_units	preceding_condition
+0027434	ses-1	L	#	#	no active task
+0027434	ses-2	#	6	minutes	active task
+0027434	ses-3	#	1	w	no active task
+0027434	ses-4	#	6	minutes	active task

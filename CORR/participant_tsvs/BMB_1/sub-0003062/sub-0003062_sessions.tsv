@@ -1,5 +1,5 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0003062	ses-1	male	27.1	R	within session	#	#	no active task	blank screen	Relax and keep your eyes open/closed.
-0003062	ses-2	male	27.1	R	within session	10	minutes	no active task	blank screen	Relax and keep your eyes open/closed.
-0003062	ses-3	male	27.1	R	within session	17.5	minutes	no active task	blank screen	Relax and keep your eyes open/closed.
-0003062	ses-4	male	27.1	R	within session	25	minutes	no active task	blank screen	Relax and keep your eyes open/closed.
+participant_id	session_id	retest_duration	retest_units
+0003062	ses-1	#	#
+0003062	ses-2	10	minutes
+0003062	ses-3	17.5	minutes
+0003062	ses-4	25	minutes

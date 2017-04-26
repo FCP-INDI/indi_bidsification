@@ -1,4 +1,4 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0025035	ses-1	male	26.62	#	between session	#	#	no active task	other	YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.
-0025035	ses-2	#	#	#	#	17	days	no active task	#	#
-0025035	ses-3	#	#	#	#	22	minutes	no active task	#	#
+participant_id	session_id	sex	age_at_scan_1	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025035	ses-1	male	26.62	between session	#	#	no active task	other	YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.
+0025035	ses-2	#	#	#	17	days	no active task	#	#
+0025035	ses-3	#	#	#	22	minutes	no active task	#	#

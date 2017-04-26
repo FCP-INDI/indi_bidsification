@@ -1,11 +1,11 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0025450	ses-1	female	25	#	between session	#	#	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-2	female	25	#	between session	4	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-3	female	25	#	between session	8	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-4	female	25	#	between session	11	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-5	female	25	#	between session	13	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-6	female	25	#	between session	17	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-7	female	25	#	between session	21	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-8	female	25	#	between session	25	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-9	female	25	#	between session	29	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
-0025450	ses-10	female	25	#	between session	32	days	no active task	fixation	'Relax and remain still with your eyes open. Do not fall asleep and do not think about anything in particular.'
+participant_id	session_id	retest_duration	retest_units
+0025450	ses-1	#	#
+0025450	ses-2	4	days
+0025450	ses-3	8	days
+0025450	ses-4	11	days
+0025450	ses-5	13	days
+0025450	ses-6	17	days
+0025450	ses-7	21	days
+0025450	ses-8	25	days
+0025450	ses-9	29	days
+0025450	ses-10	32	days

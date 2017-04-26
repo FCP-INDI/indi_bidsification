@@ -1,7 +1,7 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0027209	ses-1	female	23	#	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
-0027209	ses-2	#	#	#	#	20	minutes	#	#	#
-0027209	ses-3	#	#	#	#	1440	minutes	#	#	#
-0027209	ses-4	#	#	#	#	1460	minutes	#	#	#
-0027209	ses-5	#	#	#	#	2900	minutes	#	#	#
-0027209	ses-6	#	#	#	#	2920	minutes	#	#	#
+participant_id	session_id	sex	age_at_scan_1	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0027209	ses-1	female	23	between session	#	#	no active task	eyes closed	Lie Still and Relax During Scan
+0027209	ses-2	#	#	#	20	minutes	#	#	#
+0027209	ses-3	#	#	#	1440	minutes	#	#	#
+0027209	ses-4	#	#	#	1460	minutes	#	#	#
+0027209	ses-5	#	#	#	2900	minutes	#	#	#
+0027209	ses-6	#	#	#	2920	minutes	#	#	#

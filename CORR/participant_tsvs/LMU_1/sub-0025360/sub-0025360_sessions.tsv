@@ -1,7 +1,7 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0025360	ses-1	male	25	#	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
-0025360	ses-2	#	#	#	#	120	minutes	no active task	#	#
-0025360	ses-3	#	#	#	#	240	minutes	no active task	#	#
-0025360	ses-4	#	#	#	#	360	minutes	no active task	#	#
-0025360	ses-5	#	#	#	#	480	minutes	no active task	#	#
-0025360	ses-6	#	#	#	#	600	minutes	no active task	#	#
+participant_id	session_id	sex	age_at_scan_1	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025360	ses-1	male	25	between session	#	#	no active task	eyes closed	Keep your eyes closed without falling asleep and do not think of anything in particular.
+0025360	ses-2	#	#	#	120	minutes	no active task	#	#
+0025360	ses-3	#	#	#	240	minutes	no active task	#	#
+0025360	ses-4	#	#	#	360	minutes	no active task	#	#
+0025360	ses-5	#	#	#	480	minutes	no active task	#	#
+0025360	ses-6	#	#	#	600	minutes	no active task	#	#

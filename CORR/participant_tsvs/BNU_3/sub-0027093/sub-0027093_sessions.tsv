@@ -1,4 +1,4 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0027093	ses-1	female	23	#	within session	#	#	no active task	blank screen	Rest with eyes closed/open.
-0027093	ses-2	female	23	#	within session	0	minutes	no active task	blank screen	Rest with eyes closed/open.
-0027093	ses-3	female	23	#	within session	8	minutes	no active task	blank screen	Rest with eyes closed/open.
+participant_id	session_id	retest_duration	retest_units
+0027093	ses-1	#	#
+0027093	ses-2	0	minutes
+0027093	ses-3	8	minutes

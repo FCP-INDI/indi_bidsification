@@ -1,7 +1,7 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0025025	ses-1	female	12.45	#	within and between	#	#	no active task	other	YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.
-0025025	ses-2	#	#	#	#	44	minutes	active task	#	#
-0025025	ses-3	#	#	#	#	70	days	no active task	#	#
-0025025	ses-4	#	#	#	#	31	minutes	no active task	#	#
-0025025	ses-5	#	#	#	#	203	days	no active task	#	#
-0025025	ses-6	#	#	#	#	15	minutes	no active task	#	#
+participant_id	session_id	sex	age_at_scan_1	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
+0025025	ses-1	female	12.45	within and between	#	#	no active task	other	YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.
+0025025	ses-2	#	#	#	44	minutes	active task	#	#
+0025025	ses-3	#	#	#	70	days	no active task	#	#
+0025025	ses-4	#	#	#	31	minutes	no active task	#	#
+0025025	ses-5	#	#	#	203	days	no active task	#	#
+0025025	ses-6	#	#	#	15	minutes	no active task	#	#

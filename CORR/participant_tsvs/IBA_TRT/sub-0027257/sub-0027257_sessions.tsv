@@ -1,2 +1,2 @@
-participant_id	session_id	sex	age_at_scan_1	handedness	retest_design	retest_duration	retest_units	preceding_condition	visual_stimulation_condition	resting_state_instruction
-0027257	ses-1	female	40	#	within and between	#	#	no active task	fixation	Please lie quietly with your eyes open and fixate on the fixation cross. During the scan let your mind wander freely. Do not perform any sort of mental calculation, memory recall, or other mental tasks. If you notice yourself focusing on a particular stream of thought, let your mind wander away. It is important that you remain awake and keep your head still during this scan. It will last 10 minutes.
+participant_id	session_id	age_at_scan_1	retest_duration	retest_units
+0027257	ses-1	40	#	#
