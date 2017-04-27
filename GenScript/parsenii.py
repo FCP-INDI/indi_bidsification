@@ -51,7 +51,7 @@ def correct_bvs(workingdir):
                  writebvs(fpath,'bval')
                  writebvs(fpath,'bvec')
 
-def parseniihead(workingdir,modality,headfield,element):
+def parseniihead(workingdir,modality,headfield,element=None,rep=None):
 
     for root,dirs,fs in os.walk(workingdir):
         for f in fs:
@@ -59,16 +59,41 @@ def parseniihead(workingdir,modality,headfield,element):
                 fpath=os.path.join(root,f)
                 f=nb.Nifti1Image.load(fpath)
                 print fpath
-                if not headfield:
-                    print f.header
-                else:
-                    print f.header[headfield]
                 header=f.header
-                header['pixdim'][4] = 1
-                affine=f.affine
-                data=f.dataobj
-                opimg=nb.Nifti1Image(data,affine,header=header)
-                #nb.save(opimg,fpath)
+                if rep != None:
+
+                    if element and header[headfield][element] != rep:
+                        print 'Changing element '+str(element)+' from field '+headfield+' from ',header[headfield][element],'to',rep
+                        header[headfield][element] = rep
+                        affine=f.affine
+                        data=f.dataobj
+                        opimg=nb.Nifti1Image(data,affine,header=header)
+                        nb.save(opimg,fpath)
+
+                    elif element and header[headfield][element] == rep:
+                        print 'Element '+str(element)+' from field '+headfield+' already set as',rep
+
+                    elif not element and header[headfield] != rep:
+                        print 'Changing field '+headfield+' from ',header[headfield],'to',rep
+                        header[headfield] = rep
+                        affine=f.affine
+                        data=f.dataobj
+                        opimg=nb.Nifti1Image(data,affine,header=header)
+                        nb.save(opimg,fpath)
+
+
+                    elif not element and header[headfield] == rep:
+                        print 'Field '+headfield+' already set as ',rep
+
+                    else:
+                        raise Exception('Hmmm not sure whats going on here')
+
+
+                elif not rep:
+                    if element:
+                        print 'Element '+str(element)+' from field '+headfield+' is set as ',header[headfield][element]
+                    else:
+                        print 'Field '+headfield+' is set as ',header[headfield]
 
 
 

@@ -8,11 +8,24 @@ import boto
 import botocore
 
 def makeallpublic(bucket,fpath):
+    '''
+    A function to make all objects with a common prefix
+    (fpath) publically readable
+
+    Accepts a boto S3 bucket object, and a string prefix
+    '''
+
     for i,k in enumerate(bucket.list(prefix=fpath)):   
         print 'making public: ',k.name          
         k.set_acl('public-read')
 
-def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
+def s3_match_and_move(keyspath, matchdct, ipdir, opdir, dryrun):
+
+    '''
+    A function to match, and rename or move keys in an S3 bucket
+    using regular expressions
+    '''
+
     bucket = fetch_creds.return_bucket(keyspath, 'fcp-indi')
     
     fo=open('wrongetags.csv','a')
@@ -59,7 +72,7 @@ def s3_match_and_move(keyspath, matchdct, ipdir, opdir, test):
         files_converted=files_converted+srclist_filt
         destlist_tot=destlist_tot+destlist
             
-        if test == 'yes':
+        if dryrun == 'yes':
             for j,slf in enumerate(srclist_filt):
                 if bucket.get_key(destlist[j]):
                     dx=bucket.get_key(destlist[j])
@@ -155,7 +168,7 @@ if __name__ == '__main__':
     ipdir=sys.argv[3]
     opdir=sys.argv[4]
     s3flag=sys.argv[5]
-    test='no'
+    dryrun=sys.argv[6]
     
     #Be sure to put in the last forward slash as may act as wildcard otherwise
     #ipdir='data/Projects/CORR/RawData/'
