@@ -1,9 +1,12 @@
 from CPAC.AWS import fetch_creds,aws_utils
+import sys
+
+keys=sys.argv[1]
 
 paths=[l.strip() for l in open('./filepaths.txt','rU')]
 
 
-bucket=fetch_creds.return_bucket('/Users/david.oconner/awscreds/keys_new_indi-fcp/doconnor-fcp-indi-keys-clarkformat.csv','fcp-indi')
+bucket=fetch_creds.return_bucket(keys,'fcp-indi')
 
 tott1w=0
 totfmri=0
