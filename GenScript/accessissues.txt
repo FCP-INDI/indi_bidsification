@@ -1,0 +1,1 @@
+http://fcp-indi.s3.amazonaws.com/data/Projects/CORR/RawDataBIDS/BMB_1/sub-0003001/ses-1/anat/sub-0003001_ses-1_run-1_T1w.nii.gz?versionId=NTCKq9Qje2E52Jb8MhKYXWsqyIxhRfci,403,2/3

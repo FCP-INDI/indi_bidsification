@@ -153,11 +153,11 @@ def philips_dti_fix(ipdir, numdirecs, numb0s):
                 if numvols != (numdirecs+numb0s):
                     print fpath, numvols
                     olddata=imgf.get_data()
-                    newimgdata=olddata[:,:,:,numvols-(numdirecs+numb0s):]
+                    newimgdata=olddata[:,:,:,(numdirecs+numb0s):]
                     newderiv=olddata[:,:,:,-(numvols-(numdirecs+numb0s)):]
                     
                     newheader=header
-                    newheader['dim'][4]=33
+                    newheader['dim'][4]=numdirecs+numb0s
                     derivheader=header
                     derivheader['dim'][4]=1
 
