@@ -24,3 +24,9 @@ ABIDE, ABIDE2, CORR, ADHD200, ACPI, Rockland
 - s3md5sumcheck.py -> Can compare md5sums of s3 objects and local ones to figure out inconsistencies
 - s3tar.py -> downloads data from s3, tars and reuploads
 - slice_timing_calc.py -> generates slice times for each slice in fMRI data based on TR, number of slices, slice acquisition method and manufacturer
+
+### dicomfieldnames
+Matches DICOM standard fields to BIDS definitions, as well as proposing BIDS compatible field names for those not yet defined
+
+### s3changes.csv
+Lists changes made to datasets hosted on S3 as well as future necessary changes.
