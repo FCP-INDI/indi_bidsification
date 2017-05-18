@@ -1,0 +1,141 @@
+Initiative,Site,Issue,Fix,Completed,Uploaded
+ABIDE2,BNI,Wrong num of dwi vols,Vol at end is computed derivative remove and put in derivatives,Yes,Yes
+ABIDE2,BNI,Not all subjects have FLAIR,Not required,NA,NA
+ABIDE2,BNI,Some bold have TR set to 0,Set to 3,Yes,Yes
+ABIDE2,BNI,Bold for 30150 and 30151 have 1 less volume,No fix,NA,NA
+ABIDE2,EMC,Varying num of slices (187/186) supposed to just be 186,No fix,NA,NA
+ABIDE2,EMC,One component of in-plane voxel size varies slightly for bold images just rounding error,Changed to rounded number,Yes,No
+ABIDE2,GU,T1 voxel size rounding error,Changed to rounded number,Yes,No
+ABIDE2,GU,T1 TR different,Changed to correct value,Yes,No
+ABIDE2,GU,Bold slice thickness variable rounding error,Changed to rounded number,Yes,No
+ABIDE2,IP,No bvals bvals are bvecs,Replace with correct values based on scan params (2 b values 0 and 1000),Yes,Yes
+ABIDE2,IP,Slice timing is n/a,Not available,NA,NA
+ABIDE2,IP,DWI images have totally variable TR,Change?,,
+ABIDE2,IP,Philips scanner has ADC calculated at end of dwi,Vol at end is computed derivative remove and put in derivatives,Yes,Yes
+ABIDE2,KKI,acq flag in wrong place in filename,Swapped tags,Yes,Yes
+ABIDE2,KKI,Variable bold volumes,Not required,NA,NA
+ABIDE2,KUL,TR doesnt match between json and header,Just for one file (./sub-29659/ses-1/func/sub-29659_ses-1_task-rest_run-1_bold.nii.gz) replace with correct value,Yes,Yes
+ABIDE2,KUL,ABIDEII-KUL_3/sub-29660/ses-1/func/sub-29660_ses-1_task-rest_run-1_bold.nii.gz voxel size weird,Change?,Yes,No
+ABIDE2,NYU1,Figure out naming convention of bvecs absolute and fieldmap,Change?,,
+ABIDE2,NYU1,.bval files are called .bvals,rename,Yes,Yes
+ABIDE2,NYU1,sub-29217/ses-1/func/sub-29217_ses-1_task-rest_run-1_bold.nii.gz less vols,No fix,NA,NA
+ABIDE2,NYU1,No run 2 bvals,Copied run 1 as run 2 also,Yes,No
+ABIDE2,NYU2,Figure out naming convention of bvecs absolute and fieldmap,Change?,,
+ABIDE2,NYU2,151 vols in 29151 bold inconsistent volumes,No fix,NA,NA
+ABIDE2,NYU2,.bval files are called .bvals,rename,Yes,Yes
+ABIDE2,NYU2,sub-29151/ses-1/func/sub-29151_ses-1_task-rest_run-1_bold.nii.gz less vols,No fix,NA,NA
+ABIDE2,NYU2,No run 2 bvals,Copied run 1 as run 2 also,Yes,No
+ABIDE2,OHSU,Some T1s have varying voxl sizes (1.1x1),No fix,NA,NA
+ABIDE2,OHSU,Some bold TR set to 2500,Change to 2.5 dont forget to change units,Yes,No
+ABIDE2,OHSU,Some T1w images tr set to 2.3 others to 0,Set all to 0,Yes,No
+ABIDE2,ONRC,acq flag in wrong place in filename,Swap tags,Yes,Yes
+ABIDE2,ONRC,Two files with less vols,No fix,NA,NA
+ABIDE2,SDSU,bval/bvec inheritance,Copied bval and bvec to all image dirs,Yes,No
+ABIDE2,SDSU,sub-28859/ses-1/anat/sub-28859_ses-1_run-1_T1w.nii.gz diff voxel size,No fix,NA,NA
+ABIDE2,SDSU,Some dwi has higher resolution,No fix,NA,NA
+ABIDE2,TCD,Bval.bvec wrong format,Change to space delimited,Yes,Yes
+ABIDE2,TCD,sub-29104/ses-1/func/sub-29104_ses-1_task-rest_run-1_bold.nii.gz has 160 vols instead of 210,No fix,NA,NA
+ABIDE2,UCD,T1 Images matrix flipped,Unsure,,
+ABIDE2,UCD,one bold image with diff voxel size,No fix,NA,NA
+ABIDE2,UCLA Long,5 subs from ABIDE1 have no standard T1,No fix,NA,NA
+ABIDE2,UCLA Long,sub-51292/ses-1/anat/sub-51292_ses-1_run-1_T1w.nii.gz voxel size listed as .96x.96 instead of 1x1,Changed to 1x1,Yes,No
+ABIDE2,UPSM,Rest voxel size not round number,Changed,Yes,No
+ABIDE2,USM,sub-29504/ses-1/func/sub-29504_ses-1_task-rest_run-1_bold.nii.gz extra slice,No fix,NA,NA
+ABIDE2,USM,sub-29504/ses-1/anat/sub-29504_ses-1_run-1_T1w.nii.gz ddiff voxel size,No fix,NA,NA
+,,,,,
+CoRR,BMB 1,/sub-0003034/ses-1/anat/sub-0003034_ses-1_run-1_T1w.nii.gz /sub-0003056/ses-1/anat/sub-0003056_ses-1_run-1_T1w.nii.gz have different number of slices,No fix,NA,NA
+CoRR,BNU 1,sub-0025914/ses-2/func/sub-0025914_ses-2_task-rest_run-1_bold.nii.gz has less volumes,No fix,NA,NA
+CoRR,BNU 1,sub-0025913/ses-2/anat/sub-0025913_ses-2_run-1_T1w.nii.gz is half an image,Contact?,,
+CoRR,BNU 2,Different scan params for ses 1 and ses 2,Put at sub level,Yes,No
+CoRR,BNU 3,T1 slice inconsistency,No fix,NA,NA
+CoRR,BNU 3,DWI inconsistent vol num,No fix,NA,NA
+CoRR,BNU 3,Bold inconsistent vols,No fix,NA,NA
+CoRR,DC 1,TR doesnt match between json and header,Fix,Yes,No
+CoRR,DC 1,Slice timing is n/a,Not available,NA,NA
+CoRR,DC 1,Inconsistent volume number rest either 120 or 240,No fix,NA,NA
+CoRR,HNU 1,Shoud asl/cbf have task flag?,?,,
+CoRR,HNU 1,dwi resolution inconsistent two images have 0.75x0.75 resolution,No fix,NA,NA
+CoRR,IBATRT,TR doesnt match between json and header,Fix,Yes,
+CoRR,IBATRT,Logfile/behaviour file,Make,,
+CoRR,IBATRT,Events tsv,Make,,
+CoRR,IBATRT,Partial Fourier in Slice Encoding Direction,,,
+CoRR,IBATRT,Vol num inconsistent for bold – one file has only 10 vols,,,
+CoRR,IBATRT,Slice thickness rounding error for bold,Fix,,
+CoRR ,IACAS,sub-0025480/ses-2/func/sub-0025480_ses-2_task-rest_run-1_bold.nii.gz slice thickness misspecified,Fix,,
+CORR,IACAS,Different T1 mats,,,
+CoRR,IPCAS 1,Dwi variable vols,No fix,,
+CoRR,IPCAS 3,Some bold missing TR,Add,,
+CoRR,IPCAS 3,T1w TR mssing for some,,,
+CoRR,IPCAS 6,T1 voxel size inconsistent,,,
+CoRR,JHNU,T1 Acq Mat size inconsistent,,,
+CoRR,LMU 1,TR doesnt match between json and header,Fix,,
+CoRR,LMU 1,25338 bold tr set to 42.5!!,Fix,,
+CoRR,LMU 1,Inconsistent slice thickness due to round error for bold,Fix,,
+CoRR,LMU 2,TR doesnt match between json and header,Fix,,
+CoRR,LMU 2,Voxel size rounding error for T1 and bold,,,
+CoRR,LMU 3,sub-0025412/ses-1/func/sub-0025412_ses-1_task-rest_run-1_bold.nii.gz diff vox size,,,
+CoRR,LMU 3,Num slices different 25404 T1,,,
+CoRR,MPG 1,Json fovprefrontal,,,
+CoRR,MPG 1,Bold slice rounding error,,,
+CoRR,MPG 1,TR in milliseconds ,,,
+CoRR,MRN,DWI vol inconsistent for 2 images,No fix,NA,NA
+CoRR,NKI TRT,Breathhold Json,,,
+CoRR,NKI TRT,Events tsv files,,,
+CoRR,NKI TRT,A bunch of files with inconsistent parameters,,,
+CoRR,NYU 1,Slicetiming,,,
+CoRR,NYU 2,T1 Phase Encoding Dirn,,,
+CoRR,NYU 2,sub-0025057/ses-2/func/sub-0025057_ses-2_task-rest_run-2_bold.nii.gz diff vox size,,,
+CoRR,UM,Some Trs set to 0,,,
+CoRR,UM,Bold slice rounding error,,,
+CoRR,UPSM 1,Inconsistent params due to rounding error,,,
+CoRR,UPSM 1,TR not set,,,
+CoRR,Utah 1,Resp/Pulse,,,
+CoRR,Utah 1,T1 diff resoution,,,
+CoRR,Utah 1,bold diff vols,,,
+CoRR,Utah 2,Resp/Pulse,,,
+CoRR,Utah 2,Define scan params for field map,,,
+,,,,,
+ABIDE,CMU a,50647 bold less vols,,,
+ABIDE,CMU a,T1 variable acq mat variable,,,
+ABIDE,CMU b,T1 variable acq mat variable,,,
+ABIDE,Leuven 1,TR doesnt match between json and header,,,
+ABIDE,Leuven 2,TR doesnt match between json and header,,,
+ABIDE,MazMun_b,51324 T1 diff acq mat,,,
+ABIDE,MazMun_b,51322 bold extra slices,,,
+ABIDE,MazMun_c,51328 T1 diff vox sizes,,,
+ABIDE,SDSU,Slice timing is n/a,,,
+ABIDE,Stanford,Slice timing is n/a,,,
+ABIDE,Stanford,Inconsistent params due to rounding error,,,
+ABIDE,Trinity,xyzt_units is 0,,,
+ABIDE,UCLA 2,51292 voxdim different,,,
+ABIDE,UM 1,T1 Acq Mat size and vox size inconsistent,,,
+ABIDE,USM,xyzt_units is 0,,,
+ABIDE,Yale,50553 T1 slices different,,,
+,,,,,
+ADHD200,Brown,Sbject zeros,,,
+ADHD200,KKI,Participant IDs,,,
+ADHD200,NYU,Participant IDs,,,
+ADHD200,NeuroImage,Participant IDs,,,
+ADHD200,NeuroImage,Differing vol nums,,,
+ADHD200,OHSU,Participant IDs,,,
+ADHD200,Peking 1,TR doesnt match between json and header,,,
+ADHD200,Peking 1,Participant IDs,,,
+ADHD200,Peking 1,Inconsistent params due to rounding error,,,
+ADHD200,Peking 2,Tsv Empty cell,,,
+ADHD200,Peking 3,Tsv Empty cell,,,
+ADHD200,Peking 3,Slice timing is n/a,,,
+ADHD200,Peking 3,acq BIDS issue,,,
+ADHD200,Pittsburgh,Participant IDs,,,
+ADHD200,Pittsburgh,acq BIDS issue,,,
+ADHD200,WashU,Json issues,,,
+ADHD200,WashU,Participant IDs,,,
+,,,,,
+APCI,Du_1,Participant IDs,Add 00s and change to sessions.tsv due to retest,Yes,Yes
+ACPI,Du_1,Slice timing is n/a,Not available,NA,NA
+ACPI,Du_1,bold diff vols,No fix,NA,NA
+ACPI,Du_1,bold tr is 2000,Change to 2,Yes,Yes
+ACPI,Du_1,Bold slice thickness variable rounding error,Fix,Yes,Yes
+ACPI,Du_1,T1 voxel size variable rounding error,Fix,Yes,Yes
+ACPI,Mta_1,Participant IDs,Add 00s,Yes,Yes
+ACPI,Mta_1,Two different scan sequences,Create two scan param jsons however there is only one set of scan params provided,No,No
+ACPI,Nyu_1,Participant IDs,Add 00s,Yes,Yes
